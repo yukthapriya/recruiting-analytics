@@ -1,0 +1,477 @@
+req_id,title,department,level,location,recruiter_name,opened_date,filled_date,days_to_fill,filled_quarter,hire_source,applications_received
+REQ-00002,Supplier Quality Engineer,Supply Chain,Associate,"Austin, TX",Recruiter 10,2024-12-07,2025-01-19,43,2025-Q1,LinkedIn,50
+REQ-00007,Manufacturing Engineer,Manufacturing,Associate,Remote,Recruiter 06,2024-05-19,2024-06-16,28,2024-Q2,Careers Site,54
+REQ-00013,Embedded Engineer,Vehicle Software,Mid,Remote,Recruiter 16,2025-07-09,2025-08-29,51,2025-Q3,LinkedIn,97
+REQ-00016,Perception Engineer,AI & Robotics,Manager,"Fremont, CA",Recruiter 03,2024-12-04,2025-03-09,95,2025-Q1,Referral,66
+REQ-00018,Machine Learning Engineer,AI & Robotics,Associate,"Buffalo, NY",Recruiter 20,2024-06-05,2024-08-05,61,2024-Q3,Agency,115
+REQ-00019,Embedded Engineer,Vehicle Software,Senior,"Sparks, NV",Recruiter 15,2024-08-21,2024-10-10,50,2024-Q4,LinkedIn,88
+REQ-00020,Service Technician,Service,Mid,"Palo Alto, CA",Recruiter 03,2025-04-05,2025-05-22,47,2025-Q2,Internal,62
+REQ-00025,Parts Advisor,Service,Senior,"Sparks, NV",Recruiter 21,2025-03-19,2025-05-06,48,2025-Q2,Job Board,75
+REQ-00026,Recruiter,People,Associate,"Fremont, CA",Recruiter 07,2024-12-16,2025-02-02,48,2025-Q1,LinkedIn,76
+REQ-00029,Production Associate,Manufacturing,Mid,"Austin, TX",Recruiter 09,2025-11-13,2025-12-24,41,2025-Q4,LinkedIn,106
+REQ-00030,Robotics Engineer,AI & Robotics,Associate,"Palo Alto, CA",Recruiter 03,2024-11-28,2025-02-11,75,2025-Q1,Internal,128
+REQ-00031,Process Technician,Manufacturing,Mid,"Buffalo, NY",Recruiter 01,2024-08-03,2024-09-22,50,2024-Q3,University,154
+REQ-00032,Supplier Quality Engineer,Supply Chain,Senior,"Austin, TX",Recruiter 15,2024-03-11,2024-05-02,52,2024-Q2,Referral,87
+REQ-00033,Quality Engineer,Manufacturing,Senior,"Sparks, NV",Recruiter 09,2025-09-04,2025-11-02,59,2025-Q4,Referral,68
+REQ-00034,Software Engineer,Vehicle Software,Senior,"Fremont, CA",Recruiter 16,2024-09-27,2024-12-01,65,2024-Q4,Careers Site,140
+REQ-00035,Service Advisor,Service,Associate,"Austin, TX",Recruiter 01,2025-05-09,2025-06-16,38,2025-Q2,LinkedIn,42
+REQ-00038,Parts Advisor,Service,Manager,"Fremont, CA",Recruiter 11,2025-06-01,2025-08-02,62,2025-Q3,LinkedIn,73
+REQ-00040,Quality Engineer,Manufacturing,Mid,"Austin, TX",Recruiter 09,2025-09-04,2025-11-05,62,2025-Q4,Referral,69
+REQ-00041,Payroll Specialist,Finance,Mid,"Fremont, CA",Recruiter 16,2025-03-27,2025-05-12,46,2025-Q2,University,42
+REQ-00042,People Analyst,People,Mid,"Fremont, CA",Recruiter 12,2024-10-06,2024-11-18,43,2024-Q4,Careers Site,61
+REQ-00043,Materials Planner,Supply Chain,Associate,"Austin, TX",Recruiter 22,2024-09-24,2024-11-07,44,2024-Q4,Careers Site,59
+REQ-00046,Payroll Specialist,Finance,Senior,"Palo Alto, CA",Recruiter 18,2025-02-08,2025-03-25,45,2025-Q1,Careers Site,41
+REQ-00048,Embedded Engineer,Vehicle Software,Mid,"Austin, TX",Recruiter 16,2024-07-28,2024-10-04,68,2024-Q4,Agency,119
+REQ-00052,Recruiter,People,Senior,"Austin, TX",Recruiter 07,2024-07-01,2024-09-16,77,2024-Q3,Job Board,57
+REQ-00053,Firmware Engineer,Vehicle Software,Manager,"Austin, TX",Recruiter 16,2024-12-09,2025-03-05,86,2025-Q1,Internal,100
+REQ-00054,Electrical Engineer,Energy,Mid,"Buffalo, NY",Recruiter 12,2024-12-17,2025-02-07,52,2025-Q1,Careers Site,69
+REQ-00055,People Analyst,People,Associate,"Austin, TX",Recruiter 07,2024-09-17,2024-11-14,58,2024-Q4,LinkedIn,56
+REQ-00057,Financial Analyst,Finance,Associate,"Buffalo, NY",Recruiter 18,2024-03-04,2024-04-28,55,2024-Q2,Referral,62
+REQ-00058,HR Partner,People,Associate,"Palo Alto, CA",Recruiter 07,2024-06-28,2024-08-08,41,2024-Q3,Agency,74
+REQ-00060,Quality Engineer,Manufacturing,Senior,"Fremont, CA",Recruiter 14,2024-12-21,2025-02-01,42,2025-Q1,Referral,81
+REQ-00061,Materials Planner,Supply Chain,Senior,"Austin, TX",Recruiter 19,2024-07-13,2024-08-17,35,2024-Q3,Referral,65
+REQ-00062,Mobile Technician,Service,Senior,"Austin, TX",Recruiter 02,2024-07-31,2024-10-08,69,2024-Q4,Careers Site,49
+REQ-00064,HR Partner,People,Associate,Remote,Recruiter 12,2024-02-04,2024-03-23,48,2024-Q1,LinkedIn,87
+REQ-00065,Electrical Engineer,Energy,Associate,"Sparks, NV",Recruiter 23,2025-10-28,2025-12-29,62,2025-Q4,Referral,33
+REQ-00067,Materials Planner,Supply Chain,Mid,"Austin, TX",Recruiter 24,2024-06-29,2024-08-13,45,2024-Q3,Referral,59
+REQ-00068,Tax Analyst,Finance,Associate,"Austin, TX",Recruiter 06,2025-02-13,2025-04-30,76,2025-Q2,LinkedIn,67
+REQ-00070,Machine Learning Engineer,AI & Robotics,Mid,"Sparks, NV",Recruiter 18,2024-03-14,2024-04-28,45,2024-Q2,Internal,82
+REQ-00071,Production Associate,Manufacturing,Associate,"Austin, TX",Recruiter 24,2024-11-19,2024-12-25,36,2024-Q4,LinkedIn,85
+REQ-00072,Mobile Technician,Service,Associate,"Fremont, CA",Recruiter 08,2025-04-11,2025-05-16,35,2025-Q2,Internal,60
+REQ-00073,Field Engineer,Energy,Mid,"Austin, TX",Recruiter 05,2024-11-20,2025-01-07,48,2025-Q1,LinkedIn,69
+REQ-00076,Supplier Quality Engineer,Supply Chain,Staff,"Sparks, NV",Recruiter 04,2024-08-10,2024-10-08,59,2024-Q4,Careers Site,71
+REQ-00078,Service Advisor,Service,Mid,"Fremont, CA",Recruiter 08,2025-09-24,2025-11-10,47,2025-Q4,Careers Site,94
+REQ-00079,QA Engineer,Vehicle Software,Associate,"Austin, TX",Recruiter 16,2025-04-21,2025-06-05,45,2025-Q2,Internal,86
+REQ-00080,Production Associate,Manufacturing,Associate,"Austin, TX",Recruiter 07,2025-11-18,2025-12-17,29,2025-Q4,Careers Site,46
+REQ-00082,Service Technician,Service,Associate,"Fremont, CA",Recruiter 04,2024-12-18,2025-01-19,32,2025-Q1,Referral,43
+REQ-00084,Embedded Engineer,Vehicle Software,Associate,"Austin, TX",Recruiter 21,2024-02-18,2024-04-04,46,2024-Q2,Referral,133
+REQ-00086,Software Engineer,Vehicle Software,Manager,"Sparks, NV",Recruiter 21,2025-09-04,2025-11-01,58,2025-Q4,Internal,83
+REQ-00087,Payroll Specialist,Finance,Mid,"Austin, TX",Recruiter 16,2025-09-23,2025-10-29,36,2025-Q4,Referral,28
+REQ-00091,Payroll Specialist,Finance,Manager,"Buffalo, NY",Recruiter 11,2025-06-27,2025-08-03,37,2025-Q3,Referral,72
+REQ-00093,Firmware Engineer,Vehicle Software,Mid,"Austin, TX",Recruiter 15,2024-11-03,2024-12-16,43,2024-Q4,LinkedIn,65
+REQ-00094,Firmware Engineer,Vehicle Software,Staff,"Palo Alto, CA",Recruiter 15,2025-05-06,2025-08-06,92,2025-Q3,LinkedIn,98
+REQ-00095,Recruiting Coordinator,People,Manager,"Palo Alto, CA",Recruiter 07,2025-06-10,2025-07-27,47,2025-Q3,Referral,86
+REQ-00097,Service Advisor,Service,Mid,"Fremont, CA",Recruiter 11,2024-07-31,2024-09-27,58,2024-Q3,University,83
+REQ-00099,Installation Technician,Energy,Senior,"Fremont, CA",Recruiter 05,2025-04-28,2025-06-20,53,2025-Q2,University,34
+REQ-00100,Process Technician,Manufacturing,Associate,"Fremont, CA",Recruiter 09,2024-01-23,2024-02-24,32,2024-Q1,Job Board,67
+REQ-00101,QA Engineer,Vehicle Software,Associate,"Austin, TX",Recruiter 21,2024-10-05,2024-11-18,44,2024-Q4,Job Board,121
+REQ-00106,Embedded Engineer,Vehicle Software,Senior,Remote,Recruiter 15,2024-05-28,2024-07-11,44,2024-Q3,LinkedIn,91
+REQ-00107,Field Engineer,Energy,Associate,"Austin, TX",Recruiter 12,2024-02-10,2024-04-26,76,2024-Q2,Referral,63
+REQ-00108,Firmware Engineer,Vehicle Software,Associate,"Austin, TX",Recruiter 15,2024-06-02,2024-07-11,39,2024-Q3,Internal,99
+REQ-00110,Tax Analyst,Finance,Mid,"Fremont, CA",Recruiter 06,2025-03-18,2025-05-08,51,2025-Q2,Agency,46
+REQ-00113,Machine Learning Engineer,AI & Robotics,Associate,"Fremont, CA",Recruiter 08,2025-05-10,2025-07-06,57,2025-Q3,Agency,103
+REQ-00115,Production Associate,Manufacturing,Associate,Remote,Recruiter 09,2025-03-31,2025-05-24,54,2025-Q2,Job Board,93
+REQ-00116,Production Associate,Manufacturing,Senior,"Austin, TX",Recruiter 14,2025-06-07,2025-07-11,34,2025-Q3,LinkedIn,99
+REQ-00117,Service Advisor,Service,Mid,"Fremont, CA",Recruiter 11,2024-05-22,2024-07-04,43,2024-Q3,Referral,66
+REQ-00118,Production Associate,Manufacturing,Mid,"Fremont, CA",Recruiter 14,2024-08-31,2024-10-09,39,2024-Q4,Agency,97
+REQ-00119,Mobile Technician,Service,Associate,"Fremont, CA",Recruiter 01,2024-10-19,2024-11-27,39,2024-Q4,Careers Site,57
+REQ-00120,Production Associate,Manufacturing,Senior,"Sparks, NV",Recruiter 01,2025-03-03,2025-05-21,79,2025-Q2,Job Board,170
+REQ-00121,Data Engineer,AI & Robotics,Mid,"Palo Alto, CA",Recruiter 20,2025-10-20,2025-12-24,65,2025-Q4,Careers Site,147
+REQ-00122,Robotics Engineer,AI & Robotics,Associate,"Fremont, CA",Recruiter 20,2025-07-18,2025-09-24,68,2025-Q3,Referral,102
+REQ-00124,Service Advisor,Service,Staff,"Austin, TX",Recruiter 08,2024-12-02,2025-01-20,49,2025-Q1,Internal,66
+REQ-00125,Data Engineer,AI & Robotics,Associate,"Austin, TX",Recruiter 18,2025-08-07,2025-10-16,70,2025-Q4,Referral,112
+REQ-00127,Service Advisor,Service,Associate,"Buffalo, NY",Recruiter 03,2025-07-05,2025-08-12,38,2025-Q3,Agency,49
+REQ-00128,Process Technician,Manufacturing,Mid,"Fremont, CA",Recruiter 14,2024-07-03,2024-09-17,76,2024-Q3,LinkedIn,75
+REQ-00130,Accountant,Finance,Associate,"Fremont, CA",Recruiter 16,2025-10-06,2025-12-14,69,2025-Q4,Job Board,81
+REQ-00131,Production Associate,Manufacturing,Associate,Remote,Recruiter 07,2024-01-06,2024-02-06,31,2024-Q1,Internal,69
+REQ-00134,Embedded Engineer,Vehicle Software,Associate,"Austin, TX",Recruiter 21,2024-04-08,2024-05-26,48,2024-Q2,Agency,79
+REQ-00135,Software Engineer,Vehicle Software,Manager,"Fremont, CA",Recruiter 21,2024-12-14,2025-02-18,66,2025-Q1,Careers Site,123
+REQ-00136,Process Technician,Manufacturing,Associate,"Fremont, CA",Recruiter 19,2025-02-15,2025-03-17,30,2025-Q1,Referral,89
+REQ-00138,Quality Engineer,Manufacturing,Mid,"Austin, TX",Recruiter 09,2025-06-30,2025-08-09,40,2025-Q3,Job Board,54
+REQ-00139,Supplier Quality Engineer,Supply Chain,Mid,"Sparks, NV",Recruiter 04,2024-08-02,2024-09-16,45,2024-Q3,Job Board,54
+REQ-00141,Production Associate,Manufacturing,Mid,"Buffalo, NY",Recruiter 24,2024-07-27,2024-09-23,58,2024-Q3,LinkedIn,60
+REQ-00143,Process Technician,Manufacturing,Senior,"Fremont, CA",Recruiter 06,2024-02-18,2024-04-03,45,2024-Q2,Referral,152
+REQ-00145,Machine Learning Engineer,AI & Robotics,Mid,"Austin, TX",Recruiter 18,2024-03-06,2024-04-22,47,2024-Q2,Careers Site,88
+REQ-00147,Production Associate,Manufacturing,Associate,"Fremont, CA",Recruiter 14,2024-01-25,2024-02-24,30,2024-Q1,Job Board,113
+REQ-00148,Production Associate,Manufacturing,Associate,"Fremont, CA",Recruiter 24,2024-07-25,2024-09-11,48,2024-Q3,University,89
+REQ-00151,Mobile Technician,Service,Senior,"Palo Alto, CA",Recruiter 03,2024-07-20,2024-08-25,36,2024-Q3,Referral,67
+REQ-00155,Field Engineer,Energy,Staff,"Fremont, CA",Recruiter 17,2025-02-21,2025-05-06,74,2025-Q2,Agency,94
+REQ-00156,Manufacturing Engineer,Manufacturing,Associate,"Austin, TX",Recruiter 24,2025-01-07,2025-03-30,82,2025-Q1,Referral,74
+REQ-00158,Production Associate,Manufacturing,Associate,"Sparks, NV",Recruiter 01,2025-08-05,2025-08-30,25,2025-Q3,Agency,70
+REQ-00159,Production Associate,Manufacturing,Mid,"Austin, TX",Recruiter 01,2025-02-19,2025-03-31,40,2025-Q1,Referral,58
+REQ-00161,Quality Engineer,Manufacturing,Associate,"Palo Alto, CA",Recruiter 09,2024-02-01,2024-03-07,35,2024-Q1,Job Board,66
+REQ-00162,Manufacturing Engineer,Manufacturing,Mid,"Austin, TX",Recruiter 24,2025-05-06,2025-06-03,28,2025-Q2,Careers Site,103
+REQ-00163,Perception Engineer,AI & Robotics,Senior,Remote,Recruiter 18,2024-02-18,2024-05-19,91,2024-Q2,Job Board,108
+REQ-00164,QA Engineer,Vehicle Software,Manager,"Fremont, CA",Recruiter 15,2025-05-14,2025-07-20,67,2025-Q3,Internal,87
+REQ-00165,Quality Engineer,Manufacturing,Associate,"Buffalo, NY",Recruiter 06,2025-07-08,2025-08-03,26,2025-Q3,Job Board,53
+REQ-00167,Logistics Analyst,Supply Chain,Senior,"Buffalo, NY",Recruiter 10,2024-01-04,2024-02-17,44,2024-Q1,University,66
+REQ-00168,Quality Engineer,Manufacturing,Senior,"Fremont, CA",Recruiter 19,2025-07-25,2025-09-17,54,2025-Q3,Referral,50
+REQ-00169,Data Engineer,AI & Robotics,Mid,"Austin, TX",Recruiter 20,2025-04-21,2025-06-19,59,2025-Q2,LinkedIn,153
+REQ-00171,Embedded Engineer,Vehicle Software,Mid,"Fremont, CA",Recruiter 15,2025-05-20,2025-07-13,54,2025-Q3,LinkedIn,82
+REQ-00172,Production Associate,Manufacturing,Mid,Remote,Recruiter 01,2025-04-26,2025-06-09,44,2025-Q2,Job Board,56
+REQ-00173,Parts Advisor,Service,Mid,"Austin, TX",Recruiter 08,2024-12-22,2025-01-29,38,2025-Q1,Referral,39
+REQ-00177,Tax Analyst,Finance,Senior,"Austin, TX",Recruiter 23,2024-02-08,2024-04-03,55,2024-Q2,Careers Site,25
+REQ-00180,Supplier Quality Engineer,Supply Chain,Associate,"Austin, TX",Recruiter 19,2025-04-06,2025-05-16,40,2025-Q2,Referral,26
+REQ-00181,Accountant,Finance,Senior,"Palo Alto, CA",Recruiter 16,2024-05-16,2024-07-01,46,2024-Q3,Job Board,54
+REQ-00183,Quality Engineer,Manufacturing,Associate,"Sparks, NV",Recruiter 07,2025-11-04,2025-12-09,35,2025-Q4,LinkedIn,83
+REQ-00184,Service Technician,Service,Associate,"Fremont, CA",Recruiter 01,2024-10-31,2024-12-23,53,2024-Q4,LinkedIn,62
+REQ-00185,People Analyst,People,Mid,"Austin, TX",Recruiter 07,2024-06-01,2024-08-01,61,2024-Q3,Careers Site,71
+REQ-00186,Supplier Quality Engineer,Supply Chain,Senior,"Fremont, CA",Recruiter 24,2024-04-23,2024-07-15,83,2024-Q3,Internal,46
+REQ-00187,Quality Engineer,Manufacturing,Senior,"Austin, TX",Recruiter 09,2025-08-31,2025-10-29,59,2025-Q4,Job Board,42
+REQ-00190,Perception Engineer,AI & Robotics,Senior,"Fremont, CA",Recruiter 10,2024-03-31,2024-05-30,60,2024-Q2,Careers Site,127
+REQ-00191,Embedded Engineer,Vehicle Software,Mid,"Austin, TX",Recruiter 15,2025-01-03,2025-02-28,56,2025-Q1,Referral,85
+REQ-00196,Production Associate,Manufacturing,Senior,"Palo Alto, CA",Recruiter 07,2024-12-07,2025-01-28,52,2025-Q1,Referral,127
+REQ-00197,Tax Analyst,Finance,Senior,"Sparks, NV",Recruiter 18,2025-02-09,2025-04-24,74,2025-Q2,Job Board,44
+REQ-00198,Production Associate,Manufacturing,Mid,"Buffalo, NY",Recruiter 19,2025-07-26,2025-10-02,68,2025-Q4,Careers Site,83
+REQ-00199,Supplier Quality Engineer,Supply Chain,Associate,Remote,Recruiter 19,2024-11-21,2025-01-30,70,2025-Q1,Referral,45
+REQ-00201,Parts Advisor,Service,Senior,"Fremont, CA",Recruiter 02,2024-03-27,2024-05-07,41,2024-Q2,Internal,102
+REQ-00203,Manufacturing Engineer,Manufacturing,Senior,"Palo Alto, CA",Recruiter 06,2025-05-09,2025-07-16,68,2025-Q3,Agency,80
+REQ-00206,Manufacturing Engineer,Manufacturing,Mid,"Austin, TX",Recruiter 19,2025-02-13,2025-04-10,56,2025-Q2,Referral,112
+REQ-00207,Project Coordinator,Energy,Associate,"Austin, TX",Recruiter 13,2025-11-01,2025-12-01,30,2025-Q4,Referral,46
+REQ-00208,Parts Advisor,Service,Senior,"Austin, TX",Recruiter 21,2024-03-29,2024-05-28,60,2024-Q2,Careers Site,48
+REQ-00211,HR Partner,People,Senior,"Austin, TX",Recruiter 07,2024-04-07,2024-05-23,46,2024-Q2,LinkedIn,101
+REQ-00212,Production Associate,Manufacturing,Associate,"Buffalo, NY",Recruiter 07,2024-07-21,2024-09-06,47,2024-Q3,LinkedIn,80
+REQ-00219,Buyer,Supply Chain,Associate,"Palo Alto, CA",Recruiter 15,2025-01-20,2025-03-05,44,2025-Q1,Job Board,90
+REQ-00221,Firmware Engineer,Vehicle Software,Mid,"Austin, TX",Recruiter 16,2024-12-16,2025-01-27,42,2025-Q1,Referral,79
+REQ-00222,Recruiter,People,Associate,"Sparks, NV",Recruiter 12,2024-08-15,2024-09-22,38,2024-Q3,Job Board,107
+REQ-00223,Recruiting Coordinator,People,Senior,Remote,Recruiter 12,2024-01-29,2024-03-20,51,2024-Q1,Agency,85
+REQ-00224,Service Technician,Service,Senior,"Austin, TX",Recruiter 05,2024-04-19,2024-05-28,39,2024-Q2,Referral,52
+REQ-00225,Machine Learning Engineer,AI & Robotics,Mid,"Austin, TX",Recruiter 03,2025-07-14,2025-10-25,103,2025-Q4,Referral,97
+REQ-00226,Financial Analyst,Finance,Senior,"Austin, TX",Recruiter 13,2025-04-05,2025-06-17,73,2025-Q2,Careers Site,43
+REQ-00227,QA Engineer,Vehicle Software,Associate,"Austin, TX",Recruiter 15,2025-07-09,2025-08-08,30,2025-Q3,Referral,68
+REQ-00228,Project Coordinator,Energy,Mid,"Sparks, NV",Recruiter 22,2024-02-07,2024-03-29,51,2024-Q1,Referral,80
+REQ-00229,Quality Engineer,Manufacturing,Associate,"Fremont, CA",Recruiter 06,2024-05-18,2024-06-14,27,2024-Q2,Agency,75
+REQ-00233,Production Associate,Manufacturing,Senior,"Palo Alto, CA",Recruiter 19,2025-10-14,2025-12-11,58,2025-Q4,Internal,95
+REQ-00234,Parts Advisor,Service,Associate,"Fremont, CA",Recruiter 17,2025-08-12,2025-10-07,56,2025-Q4,University,48
+REQ-00235,Financial Analyst,Finance,Associate,"Fremont, CA",Recruiter 14,2024-03-19,2024-04-16,28,2024-Q2,Agency,37
+REQ-00236,Software Engineer,Vehicle Software,Associate,"Palo Alto, CA",Recruiter 15,2025-02-03,2025-03-23,48,2025-Q1,University,72
+REQ-00238,Project Coordinator,Energy,Mid,"Sparks, NV",Recruiter 13,2024-05-12,2024-06-29,48,2024-Q2,Job Board,62
+REQ-00240,Recruiting Coordinator,People,Mid,"Sparks, NV",Recruiter 12,2024-04-01,2024-06-19,79,2024-Q2,Agency,113
+REQ-00241,Machine Learning Engineer,AI & Robotics,Mid,"Austin, TX",Recruiter 10,2024-07-24,2024-10-21,89,2024-Q4,Referral,117
+REQ-00243,Manufacturing Engineer,Manufacturing,Manager,"Fremont, CA",Recruiter 06,2025-04-19,2025-06-03,45,2025-Q2,Referral,151
+REQ-00244,Service Technician,Service,Senior,"Buffalo, NY",Recruiter 04,2024-12-31,2025-02-27,58,2025-Q1,Careers Site,76
+REQ-00245,Field Engineer,Energy,Associate,"Austin, TX",Recruiter 22,2025-05-23,2025-06-26,34,2025-Q2,Referral,53
+REQ-00246,Mobile Technician,Service,Staff,"Austin, TX",Recruiter 20,2025-03-23,2025-05-09,47,2025-Q2,Job Board,93
+REQ-00249,Project Coordinator,Energy,Manager,"Sparks, NV",Recruiter 13,2024-02-27,2024-05-02,65,2024-Q2,Agency,89
+REQ-00251,Supplier Quality Engineer,Supply Chain,Associate,"Fremont, CA",Recruiter 22,2025-03-27,2025-05-10,44,2025-Q2,Referral,69
+REQ-00252,Quality Engineer,Manufacturing,Associate,"Fremont, CA",Recruiter 09,2024-04-10,2024-05-28,48,2024-Q2,LinkedIn,101
+REQ-00254,Quality Engineer,Manufacturing,Mid,"Sparks, NV",Recruiter 14,2024-07-12,2024-08-20,39,2024-Q3,Agency,108
+REQ-00255,Quality Engineer,Manufacturing,Associate,"Austin, TX",Recruiter 01,2025-03-08,2025-04-01,24,2025-Q2,LinkedIn,52
+REQ-00257,Logistics Analyst,Supply Chain,Associate,"Buffalo, NY",Recruiter 24,2024-01-01,2024-02-18,48,2024-Q1,Referral,101
+REQ-00261,Service Technician,Service,Associate,"Fremont, CA",Recruiter 03,2024-03-26,2024-05-31,66,2024-Q2,Referral,102
+REQ-00262,Mobile Technician,Service,Associate,"Palo Alto, CA",Recruiter 17,2025-01-17,2025-03-29,71,2025-Q1,LinkedIn,46
+REQ-00264,Process Technician,Manufacturing,Mid,"Austin, TX",Recruiter 09,2025-10-23,2025-12-13,51,2025-Q4,Agency,97
+REQ-00267,HR Partner,People,Associate,"Palo Alto, CA",Recruiter 07,2025-07-08,2025-09-16,70,2025-Q3,Job Board,41
+REQ-00270,Logistics Analyst,Supply Chain,Senior,"Palo Alto, CA",Recruiter 04,2025-01-05,2025-03-15,69,2025-Q1,Agency,75
+REQ-00271,Supplier Quality Engineer,Supply Chain,Mid,"Austin, TX",Recruiter 22,2025-02-23,2025-04-16,52,2025-Q2,Careers Site,67
+REQ-00272,Software Engineer,Vehicle Software,Senior,"Fremont, CA",Recruiter 21,2024-07-22,2024-10-04,74,2024-Q4,LinkedIn,99
+REQ-00276,Data Engineer,AI & Robotics,Staff,"Palo Alto, CA",Recruiter 20,2025-03-17,2025-06-08,83,2025-Q2,Careers Site,31
+REQ-00277,Firmware Engineer,Vehicle Software,Manager,"Fremont, CA",Recruiter 21,2024-09-24,2025-01-03,101,2025-Q1,Referral,93
+REQ-00279,Service Advisor,Service,Manager,"Austin, TX",Recruiter 20,2024-12-05,2025-02-10,67,2025-Q1,Careers Site,76
+REQ-00281,Service Advisor,Service,Senior,"Austin, TX",Recruiter 03,2024-02-22,2024-04-16,54,2024-Q2,Job Board,56
+REQ-00282,Service Technician,Service,Associate,"Sparks, NV",Recruiter 21,2024-02-02,2024-04-03,61,2024-Q2,University,18
+REQ-00283,Embedded Engineer,Vehicle Software,Associate,"Sparks, NV",Recruiter 16,2024-05-06,2024-07-28,83,2024-Q3,Careers Site,89
+REQ-00286,Mobile Technician,Service,Mid,"Palo Alto, CA",Recruiter 05,2025-07-09,2025-08-17,39,2025-Q3,Careers Site,58
+REQ-00287,Financial Analyst,Finance,Mid,"Austin, TX",Recruiter 14,2025-04-30,2025-06-11,42,2025-Q2,Agency,58
+REQ-00290,Recruiter,People,Associate,"Buffalo, NY",Recruiter 12,2025-04-15,2025-05-26,41,2025-Q2,Referral,78
+REQ-00291,Payroll Specialist,Finance,Mid,"Palo Alto, CA",Recruiter 18,2024-07-24,2024-10-01,69,2024-Q4,Agency,65
+REQ-00292,Materials Planner,Supply Chain,Associate,"Sparks, NV",Recruiter 24,2024-02-02,2024-04-05,63,2024-Q2,Agency,63
+REQ-00293,Service Advisor,Service,Mid,"Fremont, CA",Recruiter 04,2024-03-20,2024-04-27,38,2024-Q2,Agency,69
+REQ-00295,Quality Engineer,Manufacturing,Associate,"Buffalo, NY",Recruiter 09,2024-09-02,2024-11-04,63,2024-Q4,Careers Site,132
+REQ-00297,Process Technician,Manufacturing,Mid,"Austin, TX",Recruiter 06,2024-09-06,2024-10-19,43,2024-Q4,Job Board,75
+REQ-00298,Quality Engineer,Manufacturing,Senior,"Austin, TX",Recruiter 19,2024-02-01,2024-04-15,74,2024-Q2,Careers Site,87
+REQ-00299,Project Coordinator,Energy,Associate,"Austin, TX",Recruiter 05,2024-08-07,2024-10-06,60,2024-Q4,University,77
+REQ-00301,Manufacturing Engineer,Manufacturing,Mid,"Austin, TX",Recruiter 19,2025-04-05,2025-05-28,53,2025-Q2,Careers Site,100
+REQ-00303,People Analyst,People,Associate,"Palo Alto, CA",Recruiter 07,2024-04-17,2024-05-28,41,2024-Q2,Internal,80
+REQ-00305,Process Technician,Manufacturing,Manager,"Palo Alto, CA",Recruiter 24,2025-05-21,2025-08-01,72,2025-Q3,Referral,88
+REQ-00307,Quality Engineer,Manufacturing,Mid,"Fremont, CA",Recruiter 07,2024-09-07,2024-10-02,25,2024-Q4,LinkedIn,80
+REQ-00308,QA Engineer,Vehicle Software,Associate,"Austin, TX",Recruiter 21,2025-01-22,2025-03-05,42,2025-Q1,Careers Site,73
+REQ-00309,Production Associate,Manufacturing,Associate,Remote,Recruiter 19,2025-11-06,2025-12-14,38,2025-Q4,Careers Site,72
+REQ-00310,Machine Learning Engineer,AI & Robotics,Manager,"Fremont, CA",Recruiter 18,2024-04-08,2024-06-06,59,2024-Q2,Referral,84
+REQ-00311,Firmware Engineer,Vehicle Software,Associate,"Fremont, CA",Recruiter 15,2024-09-11,2024-11-01,51,2024-Q4,Agency,72
+REQ-00314,People Analyst,People,Senior,"Palo Alto, CA",Recruiter 07,2024-03-07,2024-04-17,41,2024-Q2,Careers Site,56
+REQ-00315,Field Engineer,Energy,Senior,"Buffalo, NY",Recruiter 23,2024-03-17,2024-05-03,47,2024-Q2,LinkedIn,48
+REQ-00316,Parts Advisor,Service,Mid,"Austin, TX",Recruiter 03,2025-09-16,2025-11-02,47,2025-Q4,Job Board,72
+REQ-00318,Parts Advisor,Service,Mid,"Fremont, CA",Recruiter 04,2024-08-22,2024-10-10,49,2024-Q4,University,78
+REQ-00319,Manufacturing Engineer,Manufacturing,Mid,"Fremont, CA",Recruiter 14,2024-05-25,2024-07-14,50,2024-Q3,Referral,93
+REQ-00320,Payroll Specialist,Finance,Senior,Remote,Recruiter 11,2024-01-16,2024-03-14,58,2024-Q1,Careers Site,78
+REQ-00323,Production Associate,Manufacturing,Mid,"Palo Alto, CA",Recruiter 06,2024-01-29,2024-03-16,47,2024-Q1,Internal,118
+REQ-00327,Manufacturing Engineer,Manufacturing,Associate,"Fremont, CA",Recruiter 14,2025-05-14,2025-07-11,58,2025-Q3,Careers Site,29
+REQ-00329,Financial Analyst,Finance,Associate,"Palo Alto, CA",Recruiter 11,2024-06-10,2024-07-21,41,2024-Q3,Careers Site,59
+REQ-00330,Service Advisor,Service,Senior,"Austin, TX",Recruiter 02,2025-10-25,2025-12-10,46,2025-Q4,Job Board,118
+REQ-00331,Robotics Engineer,AI & Robotics,Senior,Remote,Recruiter 10,2025-02-08,2025-03-31,51,2025-Q1,LinkedIn,99
+REQ-00333,Tax Analyst,Finance,Mid,Remote,Recruiter 13,2024-10-05,2024-11-22,48,2024-Q4,Careers Site,95
+REQ-00334,Service Technician,Service,Senior,"Austin, TX",Recruiter 17,2025-05-10,2025-06-17,38,2025-Q2,Job Board,105
+REQ-00335,Parts Advisor,Service,Senior,"Austin, TX",Recruiter 04,2024-06-25,2024-08-11,47,2024-Q3,Job Board,95
+REQ-00339,Process Technician,Manufacturing,Staff,"Sparks, NV",Recruiter 01,2024-07-05,2024-08-31,57,2024-Q3,Referral,99
+REQ-00340,Production Associate,Manufacturing,Mid,Remote,Recruiter 07,2024-07-14,2024-09-17,65,2024-Q3,Referral,110
+REQ-00341,Manufacturing Engineer,Manufacturing,Manager,"Sparks, NV",Recruiter 09,2025-03-25,2025-05-15,51,2025-Q2,Careers Site,141
+REQ-00342,Data Engineer,AI & Robotics,Mid,"Palo Alto, CA",Recruiter 08,2024-06-12,2024-08-22,71,2024-Q3,LinkedIn,113
+REQ-00346,Machine Learning Engineer,AI & Robotics,Mid,"Palo Alto, CA",Recruiter 03,2024-08-31,2024-11-21,82,2024-Q4,Internal,76
+REQ-00347,Production Associate,Manufacturing,Associate,"Fremont, CA",Recruiter 07,2025-05-12,2025-06-16,35,2025-Q2,Careers Site,103
+REQ-00348,Installation Technician,Energy,Associate,"Sparks, NV",Recruiter 17,2024-05-09,2024-06-11,33,2024-Q2,Careers Site,56
+REQ-00350,Manufacturing Engineer,Manufacturing,Mid,"Palo Alto, CA",Recruiter 01,2025-05-05,2025-06-07,33,2025-Q2,Internal,72
+REQ-00352,Mobile Technician,Service,Associate,"Sparks, NV",Recruiter 08,2024-08-31,2024-11-10,71,2024-Q4,Careers Site,66
+REQ-00354,Quality Engineer,Manufacturing,Mid,"Buffalo, NY",Recruiter 24,2025-07-14,2025-09-19,67,2025-Q3,Referral,98
+REQ-00356,Logistics Analyst,Supply Chain,Mid,"Buffalo, NY",Recruiter 24,2024-03-27,2024-06-09,74,2024-Q2,Referral,37
+REQ-00357,Tax Analyst,Finance,Mid,"Austin, TX",Recruiter 14,2024-01-07,2024-03-03,56,2024-Q1,Internal,66
+REQ-00358,Electrical Engineer,Energy,Mid,"Sparks, NV",Recruiter 22,2025-03-26,2025-05-27,62,2025-Q2,Referral,65
+REQ-00360,People Analyst,People,Mid,"Austin, TX",Recruiter 12,2024-06-19,2024-08-25,67,2024-Q3,Referral,90
+REQ-00361,QA Engineer,Vehicle Software,Senior,"Palo Alto, CA",Recruiter 15,2025-05-22,2025-07-07,46,2025-Q3,Careers Site,142
+REQ-00363,Recruiting Coordinator,People,Associate,"Austin, TX",Recruiter 07,2024-09-16,2024-10-25,39,2024-Q4,Referral,93
+REQ-00365,Data Engineer,AI & Robotics,Senior,"Palo Alto, CA",Recruiter 10,2024-06-03,2024-08-06,64,2024-Q3,University,109
+REQ-00369,Logistics Analyst,Supply Chain,Associate,"Austin, TX",Recruiter 04,2024-10-06,2024-11-07,32,2024-Q4,Job Board,36
+REQ-00370,QA Engineer,Vehicle Software,Senior,"Buffalo, NY",Recruiter 16,2025-07-07,2025-09-04,59,2025-Q3,Unknown,65
+REQ-00373,Materials Planner,Supply Chain,Associate,"Fremont, CA",Recruiter 10,2025-08-30,2025-10-03,34,2025-Q4,Careers Site,53
+REQ-00375,Mobile Technician,Service,Staff,"Fremont, CA",Recruiter 03,2025-10-28,2025-12-17,50,2025-Q4,Careers Site,79
+REQ-00377,Supplier Quality Engineer,Supply Chain,Mid,"Buffalo, NY",Recruiter 19,2025-01-16,2025-03-15,58,2025-Q1,Careers Site,55
+REQ-00379,Parts Advisor,Service,Mid,"Palo Alto, CA",Recruiter 08,2025-09-15,2025-10-23,38,2025-Q4,Careers Site,64
+REQ-00381,Parts Advisor,Service,Senior,Remote,Recruiter 08,2025-10-07,2025-11-23,47,2025-Q4,Internal,139
+REQ-00382,Buyer,Supply Chain,Associate,"Buffalo, NY",Recruiter 15,2024-08-12,2024-10-16,65,2024-Q4,Referral,57
+REQ-00383,Logistics Analyst,Supply Chain,Associate,"Fremont, CA",Recruiter 19,2024-01-28,2024-04-12,75,2024-Q2,Internal,74
+REQ-00384,Robotics Engineer,AI & Robotics,Associate,"Austin, TX",Recruiter 20,2024-07-11,2024-08-30,50,2024-Q3,Referral,69
+REQ-00385,Quality Engineer,Manufacturing,Senior,"Austin, TX",Recruiter 09,2024-03-06,2024-05-25,80,2024-Q2,Referral,42
+REQ-00387,Embedded Engineer,Vehicle Software,Senior,"Austin, TX",Recruiter 16,2024-12-17,2025-02-18,63,2025-Q1,Referral,80
+REQ-00389,HR Partner,People,Mid,"Fremont, CA",Recruiter 12,2024-01-13,2024-02-15,33,2024-Q1,Referral,67
+REQ-00390,Machine Learning Engineer,AI & Robotics,Manager,"Sparks, NV",Recruiter 03,2024-04-24,2024-07-08,75,2024-Q3,LinkedIn,162
+REQ-00391,Materials Planner,Supply Chain,Mid,"Fremont, CA",Recruiter 04,2024-07-13,2024-10-07,86,2024-Q4,Referral,78
+REQ-00393,Quality Engineer,Manufacturing,Mid,"Palo Alto, CA",Recruiter 06,2024-11-14,2025-01-10,57,2025-Q1,Referral,83
+REQ-00395,HR Partner,People,Manager,"Sparks, NV",Recruiter 12,2024-11-13,2025-01-06,54,2025-Q1,Referral,89
+REQ-00396,Manufacturing Engineer,Manufacturing,Associate,"Fremont, CA",Recruiter 07,2024-01-11,2024-02-14,34,2024-Q1,Referral,96
+REQ-00397,Data Engineer,AI & Robotics,Staff,"Fremont, CA",Recruiter 18,2024-09-14,2024-11-11,58,2024-Q4,Agency,131
+REQ-00399,Machine Learning Engineer,AI & Robotics,Associate,"Austin, TX",Recruiter 20,2025-03-04,2025-05-18,75,2025-Q2,Internal,96
+REQ-00400,Project Coordinator,Energy,Associate,"Austin, TX",Recruiter 17,2025-06-24,2025-08-05,42,2025-Q3,Job Board,61
+REQ-00402,Supplier Quality Engineer,Supply Chain,Associate,"Sparks, NV",Recruiter 15,2024-09-10,2024-11-07,58,2024-Q4,Referral,72
+REQ-00404,Project Coordinator,Energy,Senior,"Buffalo, NY",Recruiter 23,2024-12-14,2025-02-17,65,2025-Q1,Internal,67
+REQ-00405,Financial Analyst,Finance,Associate,"Austin, TX",Recruiter 16,2025-08-02,2025-09-24,53,2025-Q3,LinkedIn,68
+REQ-00406,Supplier Quality Engineer,Supply Chain,Associate,Remote,Recruiter 15,2025-06-28,2025-08-03,36,2025-Q3,Referral,35
+REQ-00407,People Analyst,People,Associate,"Fremont, CA",Recruiter 12,2025-08-15,2025-10-10,56,2025-Q4,Referral,97
+REQ-00408,Project Coordinator,Energy,Senior,"Austin, TX",Recruiter 02,2025-08-25,2025-10-23,59,2025-Q4,Referral,37
+REQ-00409,Production Associate,Manufacturing,Senior,"Palo Alto, CA",Recruiter 09,2024-05-17,2024-07-22,66,2024-Q3,Referral,110
+REQ-00411,Service Advisor,Service,Mid,"Sparks, NV",Recruiter 04,2025-09-11,2025-11-02,52,2025-Q4,Job Board,72
+REQ-00412,QA Engineer,Vehicle Software,Associate,"Sparks, NV",Recruiter 21,2025-03-22,2025-05-20,59,2025-Q2,Job Board,23
+REQ-00414,Manufacturing Engineer,Manufacturing,Senior,"Fremont, CA",Recruiter 07,2024-12-24,2025-02-10,48,2025-Q1,Referral,92
+REQ-00417,Perception Engineer,AI & Robotics,Manager,"Palo Alto, CA",Recruiter 03,2025-05-22,2025-07-31,70,2025-Q3,Referral,127
+REQ-00418,Embedded Engineer,Vehicle Software,Mid,"Palo Alto, CA",Recruiter 15,2024-09-08,2024-11-23,76,2024-Q4,Job Board,63
+REQ-00420,Project Coordinator,Energy,Senior,"Austin, TX",Recruiter 13,2024-03-27,2024-05-11,45,2024-Q2,Unknown,84
+REQ-00422,Materials Planner,Supply Chain,Associate,"Buffalo, NY",Recruiter 24,2024-02-09,2024-03-31,51,2024-Q1,Internal,69
+REQ-00425,Software Engineer,Vehicle Software,Associate,"Palo Alto, CA",Recruiter 16,2024-06-15,2024-07-29,44,2024-Q3,Careers Site,128
+REQ-00426,Mobile Technician,Service,Associate,"Fremont, CA",Recruiter 01,2025-05-17,2025-06-22,36,2025-Q2,Internal,55
+REQ-00427,Service Technician,Service,Associate,"Fremont, CA",Recruiter 04,2025-05-29,2025-07-05,37,2025-Q3,Job Board,76
+REQ-00428,Machine Learning Engineer,AI & Robotics,Associate,"Austin, TX",Recruiter 08,2024-12-27,2025-03-01,64,2025-Q1,Internal,148
+REQ-00429,Robotics Engineer,AI & Robotics,Senior,"Buffalo, NY",Recruiter 10,2025-09-02,2025-10-26,54,2025-Q4,Agency,154
+REQ-00434,Production Associate,Manufacturing,Mid,"Austin, TX",Recruiter 14,2024-04-13,2024-05-17,34,2024-Q2,Agency,47
+REQ-00436,Process Technician,Manufacturing,Associate,"Sparks, NV",Recruiter 19,2024-03-24,2024-04-30,37,2024-Q2,Internal,58
+REQ-00438,Accountant,Finance,Mid,"Buffalo, NY",Recruiter 23,2025-07-16,2025-09-22,68,2025-Q3,Internal,54
+REQ-00440,Machine Learning Engineer,AI & Robotics,Mid,Remote,Recruiter 10,2025-11-03,2025-12-13,40,2025-Q4,Careers Site,67
+REQ-00441,Accountant,Finance,Senior,"Austin, TX",Recruiter 11,2024-06-21,2024-08-18,58,2024-Q3,Careers Site,27
+REQ-00443,Accountant,Finance,Associate,"Sparks, NV",Recruiter 11,2024-09-16,2024-11-08,53,2024-Q4,Internal,47
+REQ-00444,Perception Engineer,AI & Robotics,Associate,"Buffalo, NY",Recruiter 10,2025-01-24,2025-03-18,53,2025-Q1,Referral,150
+REQ-00445,Service Technician,Service,Associate,"Fremont, CA",Recruiter 21,2024-02-17,2024-03-25,37,2024-Q1,Job Board,76
+REQ-00446,Logistics Analyst,Supply Chain,Senior,"Fremont, CA",Recruiter 19,2024-09-25,2024-12-25,91,2024-Q4,Referral,58
+REQ-00447,Supplier Quality Engineer,Supply Chain,Manager,"Austin, TX",Recruiter 10,2024-05-02,2024-06-13,42,2024-Q2,Agency,73
+REQ-00448,Financial Analyst,Finance,Staff,"Sparks, NV",Recruiter 11,2024-11-08,2024-12-19,41,2024-Q4,Referral,73
+REQ-00450,Materials Planner,Supply Chain,Staff,"Sparks, NV",Recruiter 24,2024-12-26,2025-02-19,55,2025-Q1,University,46
+REQ-00451,Service Technician,Service,Associate,"Sparks, NV",Recruiter 08,2024-11-04,2024-12-14,40,2024-Q4,Careers Site,66
+REQ-00452,Logistics Analyst,Supply Chain,Senior,"Palo Alto, CA",Recruiter 22,2024-10-10,2024-12-24,75,2024-Q4,Internal,83
+REQ-00454,Electrical Engineer,Energy,Staff,"Austin, TX",Recruiter 12,2024-06-19,2024-07-30,41,2024-Q3,LinkedIn,47
+REQ-00455,Manufacturing Engineer,Manufacturing,Mid,Remote,Recruiter 14,2025-03-05,2025-04-06,32,2025-Q2,University,125
+REQ-00456,Manufacturing Engineer,Manufacturing,Senior,"Sparks, NV",Recruiter 07,2024-01-16,2024-02-26,41,2024-Q1,Agency,122
+REQ-00460,Production Associate,Manufacturing,Associate,"Palo Alto, CA",Recruiter 09,2024-01-16,2024-02-28,43,2024-Q1,Agency,93
+REQ-00461,Quality Engineer,Manufacturing,Senior,"Sparks, NV",Recruiter 06,2025-10-17,2025-12-04,48,2025-Q4,Internal,144
+REQ-00462,Firmware Engineer,Vehicle Software,Senior,"Palo Alto, CA",Recruiter 21,2024-11-09,2025-01-30,82,2025-Q1,Internal,80
+REQ-00465,Buyer,Supply Chain,Mid,"Austin, TX",Recruiter 04,2024-06-20,2024-08-13,54,2024-Q3,LinkedIn,63
+REQ-00466,Buyer,Supply Chain,Associate,"Fremont, CA",Recruiter 24,2024-07-29,2024-10-01,64,2024-Q4,Referral,99
+REQ-00469,Manufacturing Engineer,Manufacturing,Associate,"Buffalo, NY",Recruiter 14,2025-10-06,2025-11-18,43,2025-Q4,LinkedIn,96
+REQ-00471,Financial Analyst,Finance,Associate,"Austin, TX",Recruiter 11,2025-07-07,2025-09-01,56,2025-Q3,Referral,74
+REQ-00473,Logistics Analyst,Supply Chain,Mid,"Fremont, CA",Recruiter 19,2025-02-17,2025-04-01,43,2025-Q2,Referral,74
+REQ-00477,Process Technician,Manufacturing,Senior,"Fremont, CA",Recruiter 14,2025-03-14,2025-04-27,44,2025-Q2,Agency,86
+REQ-00479,Accountant,Finance,Mid,"Fremont, CA",Recruiter 23,2025-10-14,2025-11-15,32,2025-Q4,Referral,59
+REQ-00480,Tax Analyst,Finance,Senior,"Fremont, CA",Recruiter 16,2025-09-28,2025-12-08,71,2025-Q4,University,54
+REQ-00482,Buyer,Supply Chain,Associate,"Sparks, NV",Recruiter 04,2024-02-04,2024-04-12,68,2024-Q2,Referral,64
+REQ-00484,Production Associate,Manufacturing,Manager,"Austin, TX",Recruiter 07,2025-11-24,2025-12-30,36,2025-Q4,Job Board,115
+REQ-00485,Quality Engineer,Manufacturing,Mid,"Buffalo, NY",Recruiter 19,2025-08-30,2025-09-29,30,2025-Q3,Internal,64
+REQ-00489,Quality Engineer,Manufacturing,Mid,"Sparks, NV",Recruiter 01,2025-04-19,2025-05-18,29,2025-Q2,LinkedIn,118
+REQ-00490,Quality Engineer,Manufacturing,Mid,"Sparks, NV",Recruiter 06,2025-09-05,2025-10-07,32,2025-Q4,LinkedIn,53
+REQ-00491,Production Associate,Manufacturing,Associate,"Fremont, CA",Recruiter 06,2024-05-04,2024-06-01,28,2024-Q2,Careers Site,63
+REQ-00492,Manufacturing Engineer,Manufacturing,Associate,"Buffalo, NY",Recruiter 14,2025-05-07,2025-06-05,29,2025-Q2,Careers Site,71
+REQ-00494,Financial Analyst,Finance,Senior,"Palo Alto, CA",Recruiter 13,2024-01-06,2024-02-25,50,2024-Q1,Careers Site,73
+REQ-00496,Process Technician,Manufacturing,Associate,"Buffalo, NY",Recruiter 01,2025-09-20,2025-11-20,61,2025-Q4,Careers Site,56
+REQ-00497,Parts Advisor,Service,Mid,Remote,Recruiter 03,2025-03-10,2025-04-11,32,2025-Q2,Referral,62
+REQ-00504,Production Associate,Manufacturing,Staff,"Palo Alto, CA",Recruiter 14,2025-10-23,2025-12-16,54,2025-Q4,Careers Site,93
+REQ-00508,Supplier Quality Engineer,Supply Chain,Manager,"Austin, TX",Recruiter 15,2025-01-18,2025-03-10,51,2025-Q1,LinkedIn,59
+REQ-00509,Software Engineer,Vehicle Software,Associate,"Palo Alto, CA",Recruiter 15,2024-10-18,2024-11-27,40,2024-Q4,LinkedIn,79
+REQ-00510,Perception Engineer,AI & Robotics,Mid,"Austin, TX",Recruiter 10,2024-01-20,2024-03-17,57,2024-Q1,Referral,68
+REQ-00511,HR Partner,People,Staff,"Palo Alto, CA",Recruiter 12,2025-07-11,2025-09-08,59,2025-Q3,Referral,95
+REQ-00512,Data Engineer,AI & Robotics,Senior,"Fremont, CA",Recruiter 18,2024-12-23,2025-03-01,68,2025-Q1,Referral,118
+REQ-00515,Parts Advisor,Service,Staff,"Austin, TX",Recruiter 02,2024-12-06,2025-01-25,50,2025-Q1,Referral,35
+REQ-00516,Mobile Technician,Service,Associate,"Austin, TX",Recruiter 05,2024-02-11,2024-03-16,34,2024-Q1,Internal,34
+REQ-00517,Accountant,Finance,Associate,"Palo Alto, CA",Recruiter 23,2025-09-11,2025-11-02,52,2025-Q4,Job Board,52
+REQ-00518,Machine Learning Engineer,AI & Robotics,Mid,"Fremont, CA",Recruiter 03,2024-03-12,2024-05-24,73,2024-Q2,LinkedIn,76
+REQ-00519,Production Associate,Manufacturing,Senior,"Sparks, NV",Recruiter 06,2024-09-21,2024-10-28,37,2024-Q4,LinkedIn,117
+REQ-00521,Production Associate,Manufacturing,Mid,"Palo Alto, CA",Recruiter 06,2024-04-17,2024-05-25,38,2024-Q2,LinkedIn,65
+REQ-00522,Logistics Analyst,Supply Chain,Associate,Remote,Recruiter 19,2025-07-16,2025-09-06,52,2025-Q3,Job Board,63
+REQ-00523,Project Coordinator,Energy,Associate,"Sparks, NV",Recruiter 22,2025-06-10,2025-07-07,27,2025-Q3,Internal,33
+REQ-00524,Quality Engineer,Manufacturing,Associate,"Austin, TX",Recruiter 07,2025-10-01,2025-11-05,35,2025-Q4,LinkedIn,127
+REQ-00525,Machine Learning Engineer,AI & Robotics,Mid,"Fremont, CA",Recruiter 18,2025-03-16,2025-05-09,54,2025-Q2,Careers Site,165
+REQ-00527,Process Technician,Manufacturing,Senior,"Palo Alto, CA",Recruiter 24,2025-06-05,2025-08-05,61,2025-Q3,Careers Site,130
+REQ-00528,Process Technician,Manufacturing,Associate,"Austin, TX",Recruiter 01,2024-02-20,2024-03-22,31,2024-Q1,Referral,78
+REQ-00529,Quality Engineer,Manufacturing,Mid,"Sparks, NV",Recruiter 24,2025-06-04,2025-07-07,33,2025-Q3,Referral,75
+REQ-00530,Accountant,Finance,Mid,"Fremont, CA",Recruiter 16,2024-06-07,2024-08-06,60,2024-Q3,Unknown,44
+REQ-00531,Software Engineer,Vehicle Software,Associate,"Fremont, CA",Recruiter 21,2024-09-29,2024-11-23,55,2024-Q4,Job Board,115
+REQ-00533,Installation Technician,Energy,Mid,"Buffalo, NY",Recruiter 23,2025-01-10,2025-02-09,30,2025-Q1,Referral,46
+REQ-00534,HR Partner,People,Associate,"Austin, TX",Recruiter 12,2024-02-05,2024-03-12,36,2024-Q1,Referral,39
+REQ-00535,Data Engineer,AI & Robotics,Associate,"Buffalo, NY",Recruiter 08,2024-08-06,2024-09-26,51,2024-Q3,Careers Site,69
+REQ-00537,Production Associate,Manufacturing,Mid,"Fremont, CA",Recruiter 24,2025-08-16,2025-10-08,53,2025-Q4,University,104
+REQ-00538,Parts Advisor,Service,Senior,"Sparks, NV",Recruiter 05,2025-03-06,2025-04-27,52,2025-Q2,Internal,40
+REQ-00539,Manufacturing Engineer,Manufacturing,Manager,"Sparks, NV",Recruiter 01,2025-01-09,2025-02-18,40,2025-Q1,Referral,59
+REQ-00540,Service Technician,Service,Associate,"Austin, TX",Recruiter 01,2025-01-15,2025-03-09,53,2025-Q1,Careers Site,80
+REQ-00543,QA Engineer,Vehicle Software,Mid,"Austin, TX",Recruiter 15,2024-09-25,2024-11-23,59,2024-Q4,Careers Site,89
+REQ-00544,Buyer,Supply Chain,Senior,"Fremont, CA",Recruiter 15,2024-04-25,2024-07-05,71,2024-Q3,Careers Site,53
+REQ-00546,Parts Advisor,Service,Manager,"Palo Alto, CA",Recruiter 20,2024-08-02,2024-09-22,51,2024-Q3,Job Board,62
+REQ-00547,Perception Engineer,AI & Robotics,Mid,"Buffalo, NY",Recruiter 08,2024-05-02,2024-07-10,69,2024-Q3,Careers Site,107
+REQ-00550,Service Technician,Service,Senior,"Austin, TX",Recruiter 17,2025-10-14,2025-12-20,67,2025-Q4,Referral,87
+REQ-00552,Quality Engineer,Manufacturing,Senior,"Palo Alto, CA",Recruiter 01,2024-08-04,2024-09-15,42,2024-Q3,Job Board,52
+REQ-00554,Parts Advisor,Service,Senior,"Fremont, CA",Recruiter 11,2024-01-22,2024-03-03,41,2024-Q1,Internal,42
+REQ-00555,Quality Engineer,Manufacturing,Senior,"Palo Alto, CA",Recruiter 06,2025-05-31,2025-07-11,41,2025-Q3,Internal,85
+REQ-00557,Quality Engineer,Manufacturing,Mid,"Sparks, NV",Recruiter 19,2025-06-20,2025-08-05,46,2025-Q3,Internal,66
+REQ-00558,Service Advisor,Service,Manager,"Austin, TX",Recruiter 11,2025-08-06,2025-09-30,55,2025-Q3,Referral,59
+REQ-00562,QA Engineer,Vehicle Software,Staff,"Austin, TX",Recruiter 16,2024-01-15,2024-04-08,84,2024-Q2,LinkedIn,34
+REQ-00563,Mobile Technician,Service,Senior,"Buffalo, NY",Recruiter 08,2025-09-12,2025-11-04,53,2025-Q4,Careers Site,61
+REQ-00565,Process Technician,Manufacturing,Associate,"Austin, TX",Recruiter 06,2024-09-27,2024-10-28,31,2024-Q4,Careers Site,98
+REQ-00566,Quality Engineer,Manufacturing,Mid,"Austin, TX",Recruiter 06,2024-03-13,2024-04-13,31,2024-Q2,Job Board,75
+REQ-00567,Software Engineer,Vehicle Software,Senior,Remote,Recruiter 15,2025-04-03,2025-06-14,72,2025-Q2,Referral,115
+REQ-00568,Service Technician,Service,Senior,"Buffalo, NY",Recruiter 01,2024-12-30,2025-02-19,51,2025-Q1,LinkedIn,68
+REQ-00569,Service Technician,Service,Associate,"Austin, TX",Recruiter 05,2024-03-05,2024-05-02,58,2024-Q2,University,78
+REQ-00570,Process Technician,Manufacturing,Associate,"Austin, TX",Recruiter 06,2024-07-01,2024-08-01,31,2024-Q3,Referral,70
+REQ-00571,Firmware Engineer,Vehicle Software,Mid,"Austin, TX",Recruiter 15,2024-01-14,2024-02-27,44,2024-Q1,Job Board,69
+REQ-00573,Electrical Engineer,Energy,Associate,"Buffalo, NY",Recruiter 09,2024-10-08,2024-11-17,40,2024-Q4,Referral,37
+REQ-00576,Process Technician,Manufacturing,Associate,"Austin, TX",Recruiter 09,2024-09-26,2024-11-13,48,2024-Q4,Referral,79
+REQ-00578,Service Technician,Service,Associate,"Fremont, CA",Recruiter 17,2024-11-27,2025-01-05,39,2025-Q1,Referral,62
+REQ-00579,Mobile Technician,Service,Associate,"Austin, TX",Recruiter 17,2024-07-19,2024-08-20,32,2024-Q3,Job Board,74
+REQ-00580,Financial Analyst,Finance,Associate,"Sparks, NV",Recruiter 23,2025-11-27,2025-12-25,28,2025-Q4,Careers Site,44
+REQ-00582,Electrical Engineer,Energy,Staff,"Buffalo, NY",Recruiter 13,2024-10-29,2025-01-14,77,2025-Q1,Referral,60
+REQ-00585,Logistics Analyst,Supply Chain,Mid,"Buffalo, NY",Recruiter 22,2025-04-08,2025-05-15,37,2025-Q2,Internal,53
+REQ-00588,Firmware Engineer,Vehicle Software,Associate,"Austin, TX",Recruiter 16,2025-05-03,2025-06-21,49,2025-Q2,LinkedIn,54
+REQ-00592,Project Coordinator,Energy,Senior,"Sparks, NV",Recruiter 09,2024-10-23,2024-12-19,57,2024-Q4,Referral,64
+REQ-00594,Quality Engineer,Manufacturing,Mid,"Sparks, NV",Recruiter 01,2024-11-18,2024-12-28,40,2024-Q4,University,25
+REQ-00595,Production Associate,Manufacturing,Mid,Remote,Recruiter 24,2025-11-11,2025-12-25,44,2025-Q4,Referral,112
+REQ-00596,Robotics Engineer,AI & Robotics,Senior,"Austin, TX",Recruiter 20,2024-01-12,2024-03-11,59,2024-Q1,Referral,40
+REQ-00597,Recruiting Coordinator,People,Mid,Remote,Recruiter 07,2025-02-18,2025-03-30,40,2025-Q1,Agency,75
+REQ-00598,Perception Engineer,AI & Robotics,Associate,"Fremont, CA",Recruiter 10,2025-03-26,2025-06-11,77,2025-Q2,LinkedIn,111
+REQ-00602,Payroll Specialist,Finance,Senior,"Fremont, CA",Recruiter 13,2024-01-01,2024-03-05,64,2024-Q1,Careers Site,79
+REQ-00603,Process Technician,Manufacturing,Mid,"Fremont, CA",Recruiter 09,2025-08-17,2025-10-10,54,2025-Q4,Agency,105
+REQ-00604,Recruiting Coordinator,People,Associate,"Palo Alto, CA",Recruiter 07,2024-08-20,2024-09-19,30,2024-Q3,Job Board,90
+REQ-00606,Machine Learning Engineer,AI & Robotics,Manager,"Sparks, NV",Recruiter 20,2025-01-04,2025-03-07,62,2025-Q1,LinkedIn,92
+REQ-00607,Embedded Engineer,Vehicle Software,Associate,"Sparks, NV",Recruiter 21,2024-10-18,2024-11-27,40,2024-Q4,Referral,113
+REQ-00610,Firmware Engineer,Vehicle Software,Mid,"Fremont, CA",Recruiter 21,2024-10-11,2024-12-02,52,2024-Q4,Job Board,54
+REQ-00611,Tax Analyst,Finance,Associate,"Austin, TX",Recruiter 14,2024-03-27,2024-05-23,57,2024-Q2,Job Board,37
+REQ-00612,Production Associate,Manufacturing,Associate,"Austin, TX",Recruiter 09,2024-06-13,2024-08-25,73,2024-Q3,Referral,162
+REQ-00614,People Analyst,People,Manager,"Palo Alto, CA",Recruiter 07,2024-04-20,2024-05-27,37,2024-Q2,Agency,110
+REQ-00615,Installation Technician,Energy,Mid,"Austin, TX",Recruiter 02,2025-02-28,2025-04-26,57,2025-Q2,University,84
+REQ-00616,Recruiter,People,Senior,"Sparks, NV",Recruiter 12,2025-07-05,2025-09-08,65,2025-Q3,Referral,82
+REQ-00620,Data Engineer,AI & Robotics,Mid,"Austin, TX",Recruiter 03,2025-06-04,2025-07-29,55,2025-Q3,University,114
+REQ-00621,Perception Engineer,AI & Robotics,Associate,"Austin, TX",Recruiter 03,2025-04-10,2025-06-28,79,2025-Q2,Referral,96
+REQ-00622,Data Engineer,AI & Robotics,Mid,"Austin, TX",Recruiter 10,2025-06-27,2025-08-22,56,2025-Q3,Internal,183
+REQ-00628,Machine Learning Engineer,AI & Robotics,Senior,"Sparks, NV",Recruiter 18,2024-06-09,2024-08-08,60,2024-Q3,Referral,147
+REQ-00630,Production Associate,Manufacturing,Associate,Remote,Recruiter 19,2024-03-04,2024-05-21,78,2024-Q2,Careers Site,77
+REQ-00631,Service Advisor,Service,Mid,"Austin, TX",Recruiter 04,2025-08-01,2025-09-18,48,2025-Q3,Careers Site,47
+REQ-00632,Embedded Engineer,Vehicle Software,Mid,"Austin, TX",Recruiter 16,2025-10-28,2025-12-27,60,2025-Q4,LinkedIn,84
+REQ-00633,Process Technician,Manufacturing,Associate,"Fremont, CA",Recruiter 06,2025-10-23,2025-11-25,33,2025-Q4,Careers Site,60
+REQ-00634,Service Advisor,Service,Senior,"Austin, TX",Recruiter 03,2024-08-21,2024-10-05,45,2024-Q4,Referral,60
+REQ-00635,Electrical Engineer,Energy,Senior,"Fremont, CA",Recruiter 22,2024-03-16,2024-04-29,44,2024-Q2,University,64
+REQ-00636,Manufacturing Engineer,Manufacturing,Staff,"Austin, TX",Recruiter 07,2025-01-06,2025-02-27,52,2025-Q1,Internal,144
+REQ-00637,Machine Learning Engineer,AI & Robotics,Senior,"Buffalo, NY",Recruiter 20,2025-03-08,2025-05-19,72,2025-Q2,Internal,124
+REQ-00638,Process Technician,Manufacturing,Mid,"Fremont, CA",Recruiter 09,2024-01-31,2024-03-05,34,2024-Q1,Careers Site,100
+REQ-00639,Machine Learning Engineer,AI & Robotics,Associate,"Fremont, CA",Recruiter 08,2024-12-12,2025-02-02,52,2025-Q1,Agency,151
+REQ-00640,Service Advisor,Service,Mid,"Buffalo, NY",Recruiter 20,2025-05-28,2025-07-29,62,2025-Q3,LinkedIn,77
+REQ-00641,Supplier Quality Engineer,Supply Chain,Associate,"Buffalo, NY",Recruiter 22,2025-07-01,2025-08-10,40,2025-Q3,Referral,24
+REQ-00642,Mobile Technician,Service,Manager,Remote,Recruiter 11,2024-11-02,2025-01-17,76,2025-Q1,Internal,75
+REQ-00644,Embedded Engineer,Vehicle Software,Associate,"Austin, TX",Recruiter 16,2024-06-03,2024-07-29,56,2024-Q3,Referral,107
+REQ-00645,Project Coordinator,Energy,Mid,"Austin, TX",Recruiter 22,2024-05-12,2024-07-19,68,2024-Q3,Referral,89
+REQ-00647,Financial Analyst,Finance,Manager,"Palo Alto, CA",Recruiter 18,2025-07-25,2025-10-02,69,2025-Q4,Referral,59
+REQ-00651,Parts Advisor,Service,Mid,"Sparks, NV",Recruiter 21,2025-06-19,2025-07-24,35,2025-Q3,LinkedIn,29
+REQ-00652,Embedded Engineer,Vehicle Software,Associate,"Fremont, CA",Recruiter 21,2024-03-19,2024-05-07,49,2024-Q2,LinkedIn,40
+REQ-00653,Logistics Analyst,Supply Chain,Mid,"Buffalo, NY",Recruiter 19,2024-07-01,2024-08-29,59,2024-Q3,Job Board,37
+REQ-00654,Electrical Engineer,Energy,Associate,"Palo Alto, CA",Recruiter 13,2024-02-06,2024-03-19,42,2024-Q1,Referral,72
+REQ-00657,Service Advisor,Service,Senior,"Fremont, CA",Recruiter 02,2025-09-16,2025-11-06,51,2025-Q4,Agency,81
+REQ-00660,Manufacturing Engineer,Manufacturing,Senior,"Fremont, CA",Recruiter 14,2025-06-25,2025-08-07,43,2025-Q3,LinkedIn,105
+REQ-00661,Buyer,Supply Chain,Associate,"Austin, TX",Recruiter 04,2025-05-14,2025-06-13,30,2025-Q2,Internal,54
+REQ-00665,Software Engineer,Vehicle Software,Staff,Remote,Recruiter 16,2024-07-25,2024-11-07,105,2024-Q4,Referral,71
+REQ-00666,Accountant,Finance,Staff,"Austin, TX",Recruiter 16,2025-02-14,2025-05-07,82,2025-Q2,Referral,47
+REQ-00667,Quality Engineer,Manufacturing,Mid,"Buffalo, NY",Recruiter 24,2025-08-11,2025-09-18,38,2025-Q3,Referral,72
+REQ-00668,Process Technician,Manufacturing,Mid,"Fremont, CA",Recruiter 06,2024-12-20,2025-01-24,35,2025-Q1,LinkedIn,124
+REQ-00669,Buyer,Supply Chain,Associate,"Fremont, CA",Recruiter 19,2024-12-07,2025-03-03,86,2025-Q1,Referral,86
+REQ-00670,Machine Learning Engineer,AI & Robotics,Associate,"Palo Alto, CA",Recruiter 20,2025-03-22,2025-06-24,94,2025-Q2,LinkedIn,69
+REQ-00671,Quality Engineer,Manufacturing,Senior,"Buffalo, NY",Recruiter 07,2025-10-02,2025-11-29,58,2025-Q4,Job Board,82
+REQ-00677,Software Engineer,Vehicle Software,Mid,Remote,Recruiter 21,2024-12-12,2025-01-28,47,2025-Q1,LinkedIn,78
+REQ-00678,Firmware Engineer,Vehicle Software,Associate,"Sparks, NV",Recruiter 16,2024-03-25,2024-05-24,60,2024-Q2,Internal,52
+REQ-00679,Electrical Engineer,Energy,Manager,"Austin, TX",Recruiter 22,2025-01-13,2025-03-01,47,2025-Q1,Job Board,86
+REQ-00680,Robotics Engineer,AI & Robotics,Associate,"Austin, TX",Recruiter 18,2024-06-18,2024-08-22,65,2024-Q3,Internal,138
+REQ-00685,Service Advisor,Service,Staff,"Austin, TX",Recruiter 17,2025-01-05,2025-03-19,73,2025-Q1,Careers Site,50
+REQ-00687,Process Technician,Manufacturing,Mid,"Buffalo, NY",Recruiter 14,2025-03-09,2025-04-29,51,2025-Q2,Careers Site,131
+REQ-00690,Materials Planner,Supply Chain,Associate,"Palo Alto, CA",Recruiter 22,2024-02-11,2024-05-02,81,2024-Q2,LinkedIn,89
+REQ-00692,Quality Engineer,Manufacturing,Associate,"Fremont, CA",Recruiter 09,2025-05-21,2025-06-27,37,2025-Q2,Careers Site,103
+REQ-00693,Process Technician,Manufacturing,Senior,"Palo Alto, CA",Recruiter 01,2025-04-23,2025-06-09,47,2025-Q2,Agency,96
+REQ-00696,Project Coordinator,Energy,Mid,"Austin, TX",Recruiter 09,2024-05-25,2024-07-28,64,2024-Q3,Careers Site,105
+REQ-00697,Production Associate,Manufacturing,Mid,"Palo Alto, CA",Recruiter 01,2024-10-22,2024-12-13,52,2024-Q4,LinkedIn,90
+REQ-00698,Installation Technician,Energy,Staff,"Sparks, NV",Recruiter 13,2024-07-28,2024-09-24,58,2024-Q3,Internal,100
+REQ-00699,Production Associate,Manufacturing,Associate,"Austin, TX",Recruiter 24,2024-11-07,2024-12-08,31,2024-Q4,Unknown,70
+REQ-00701,Manufacturing Engineer,Manufacturing,Associate,"Fremont, CA",Recruiter 09,2025-03-13,2025-04-13,31,2025-Q2,Referral,85
+REQ-00702,Installation Technician,Energy,Senior,Remote,Recruiter 23,2025-05-07,2025-07-01,55,2025-Q3,Careers Site,94
+REQ-00703,Quality Engineer,Manufacturing,Senior,"Buffalo, NY",Recruiter 14,2024-04-13,2024-06-05,53,2024-Q2,Internal,114
+REQ-00704,Machine Learning Engineer,AI & Robotics,Senior,"Fremont, CA",Recruiter 18,2024-08-02,2024-11-05,95,2024-Q4,Referral,98
+REQ-00705,Quality Engineer,Manufacturing,Mid,"Buffalo, NY",Recruiter 01,2025-06-22,2025-07-29,37,2025-Q3,Referral,158
+REQ-00706,Process Technician,Manufacturing,Associate,"Buffalo, NY",Recruiter 07,2024-02-23,2024-04-06,43,2024-Q2,Job Board,54
+REQ-00707,Manufacturing Engineer,Manufacturing,Manager,"Fremont, CA",Recruiter 14,2025-03-09,2025-05-03,55,2025-Q2,Careers Site,75
+REQ-00708,Process Technician,Manufacturing,Mid,"Fremont, CA",Recruiter 19,2025-08-11,2025-09-10,30,2025-Q3,Referral,64
+REQ-00709,Robotics Engineer,AI & Robotics,Mid,"Fremont, CA",Recruiter 03,2025-03-07,2025-05-06,60,2025-Q2,Agency,109
+REQ-00711,Materials Planner,Supply Chain,Mid,"Fremont, CA",Recruiter 04,2024-03-12,2024-05-14,63,2024-Q2,LinkedIn,86
+REQ-00712,Manufacturing Engineer,Manufacturing,Associate,Remote,Recruiter 01,2024-03-16,2024-04-25,40,2024-Q2,Careers Site,34
+REQ-00713,Firmware Engineer,Vehicle Software,Staff,"Fremont, CA",Recruiter 15,2024-07-19,2024-09-28,71,2024-Q3,Referral,58
+REQ-00715,Quality Engineer,Manufacturing,Senior,"Fremont, CA",Recruiter 01,2025-04-23,2025-06-14,52,2025-Q2,Careers Site,90
+REQ-00716,Parts Advisor,Service,Mid,"Fremont, CA",Recruiter 21,2024-08-12,2024-09-25,44,2024-Q3,Job Board,65
+REQ-00720,Process Technician,Manufacturing,Associate,"Palo Alto, CA",Recruiter 14,2024-04-14,2024-05-13,29,2024-Q2,Referral,68
+REQ-00721,Firmware Engineer,Vehicle Software,Manager,"Palo Alto, CA",Recruiter 15,2025-01-03,2025-03-21,77,2025-Q1,Referral,55
+REQ-00723,Service Technician,Service,Senior,"Fremont, CA",Recruiter 20,2024-04-17,2024-05-27,40,2024-Q2,Job Board,61
+REQ-00724,Parts Advisor,Service,Senior,"Austin, TX",Recruiter 04,2024-03-17,2024-05-05,49,2024-Q2,LinkedIn,29
+REQ-00727,Process Technician,Manufacturing,Mid,"Palo Alto, CA",Recruiter 01,2025-01-04,2025-03-19,74,2025-Q1,Referral,75
+REQ-00728,Tax Analyst,Finance,Mid,"Fremont, CA",Recruiter 18,2025-10-16,2025-11-29,44,2025-Q4,LinkedIn,97
+REQ-00729,Field Engineer,Energy,Associate,"Sparks, NV",Recruiter 23,2024-07-31,2024-09-30,61,2024-Q3,LinkedIn,37
+REQ-00730,Production Associate,Manufacturing,Associate,"Fremont, CA",Recruiter 06,2024-02-07,2024-03-21,43,2024-Q1,Careers Site,103
+REQ-00732,Embedded Engineer,Vehicle Software,Senior,"Austin, TX",Recruiter 21,2024-11-07,2025-01-03,57,2025-Q1,Internal,98
+REQ-00733,Perception Engineer,AI & Robotics,Senior,"Buffalo, NY",Recruiter 18,2024-02-01,2024-04-06,65,2024-Q2,Referral,118
+REQ-00734,Service Technician,Service,Associate,"Austin, TX",Recruiter 02,2025-05-09,2025-06-17,39,2025-Q2,Job Board,54
+REQ-00738,Electrical Engineer,Energy,Senior,"Austin, TX",Recruiter 17,2025-06-29,2025-08-08,40,2025-Q3,University,32
+REQ-00739,Accountant,Finance,Senior,"Fremont, CA",Recruiter 06,2024-11-21,2025-01-17,57,2025-Q1,Careers Site,95
+REQ-00741,Service Advisor,Service,Mid,"Sparks, NV",Recruiter 08,2024-05-22,2024-07-16,55,2024-Q3,LinkedIn,71
+REQ-00742,Electrical Engineer,Energy,Associate,"Fremont, CA",Recruiter 23,2025-07-25,2025-10-25,92,2025-Q4,Job Board,43
+REQ-00745,HR Partner,People,Mid,"Fremont, CA",Recruiter 07,2025-01-27,2025-04-05,68,2025-Q2,Internal,95
+REQ-00747,Process Technician,Manufacturing,Associate,"Sparks, NV",Recruiter 24,2025-07-26,2025-08-27,32,2025-Q3,Careers Site,89
+REQ-00749,Project Coordinator,Energy,Associate,"Palo Alto, CA",Recruiter 12,2025-03-11,2025-04-22,42,2025-Q2,Referral,48
+REQ-00750,Buyer,Supply Chain,Associate,"Sparks, NV",Recruiter 22,2024-02-11,2024-04-12,61,2024-Q2,Internal,56
+REQ-00753,Production Associate,Manufacturing,Associate,"Austin, TX",Recruiter 14,2025-09-01,2025-09-26,25,2025-Q3,Careers Site,75
+REQ-00757,Data Engineer,AI & Robotics,Associate,"Fremont, CA",Recruiter 08,2025-04-21,2025-06-11,51,2025-Q2,Referral,76
+REQ-00759,Mobile Technician,Service,Mid,Remote,Recruiter 20,2025-01-09,2025-02-18,40,2025-Q1,Referral,82
+REQ-00762,Logistics Analyst,Supply Chain,Associate,"Palo Alto, CA",Recruiter 10,2024-01-06,2024-02-01,26,2024-Q1,Careers Site,53
+REQ-00765,Payroll Specialist,Finance,Senior,"Austin, TX",Recruiter 11,2025-06-28,2025-08-29,62,2025-Q3,Careers Site,32
+REQ-00766,Embedded Engineer,Vehicle Software,Associate,"Palo Alto, CA",Recruiter 21,2025-03-23,2025-05-18,56,2025-Q2,Job Board,102
+REQ-00767,HR Partner,People,Associate,"Austin, TX",Recruiter 07,2024-02-22,2024-04-12,50,2024-Q2,LinkedIn,92
+REQ-00768,Project Coordinator,Energy,Staff,"Sparks, NV",Recruiter 09,2024-01-16,2024-03-21,65,2024-Q1,LinkedIn,53
+REQ-00769,People Analyst,People,Mid,"Palo Alto, CA",Recruiter 12,2024-08-04,2024-10-19,76,2024-Q4,Referral,44
+REQ-00770,Manufacturing Engineer,Manufacturing,Manager,"Sparks, NV",Recruiter 14,2024-12-31,2025-02-09,40,2025-Q1,Careers Site,52
+REQ-00772,Service Advisor,Service,Associate,"Fremont, CA",Recruiter 17,2024-06-29,2024-08-01,33,2024-Q3,LinkedIn,43
+REQ-00773,Quality Engineer,Manufacturing,Mid,"Austin, TX",Recruiter 01,2025-10-13,2025-12-29,77,2025-Q4,LinkedIn,64
+REQ-00774,Supplier Quality Engineer,Supply Chain,Mid,"Palo Alto, CA",Recruiter 24,2025-06-28,2025-07-27,29,2025-Q3,Unknown,29
+REQ-00776,Process Technician,Manufacturing,Senior,"Austin, TX",Recruiter 09,2024-05-07,2024-06-23,47,2024-Q2,Referral,119
+REQ-00777,Buyer,Supply Chain,Mid,"Buffalo, NY",Recruiter 19,2025-01-17,2025-03-31,73,2025-Q1,Careers Site,40
+REQ-00778,Process Technician,Manufacturing,Associate,"Palo Alto, CA",Recruiter 07,2024-04-01,2024-05-09,38,2024-Q2,University,85
+REQ-00780,Quality Engineer,Manufacturing,Manager,"Austin, TX",Recruiter 14,2024-05-30,2024-08-12,74,2024-Q3,Referral,79
+REQ-00781,Logistics Analyst,Supply Chain,Manager,"Buffalo, NY",Recruiter 22,2024-01-08,2024-03-04,56,2024-Q1,Internal,28
+REQ-00782,Production Associate,Manufacturing,Associate,"Palo Alto, CA",Recruiter 24,2025-06-10,2025-08-14,65,2025-Q3,University,110
+REQ-00783,Manufacturing Engineer,Manufacturing,Associate,Remote,Recruiter 07,2024-11-03,2024-12-21,48,2024-Q4,Internal,109
+REQ-00784,Mobile Technician,Service,Senior,"Buffalo, NY",Recruiter 21,2025-08-31,2025-10-23,53,2025-Q4,LinkedIn,90
+REQ-00785,Manufacturing Engineer,Manufacturing,Senior,Remote,Recruiter 01,2025-11-15,2025-12-20,35,2025-Q4,LinkedIn,83
+REQ-00786,Field Engineer,Energy,Mid,"Austin, TX",Recruiter 13,2025-02-04,2025-03-30,54,2025-Q1,Careers Site,49
+REQ-00787,Manufacturing Engineer,Manufacturing,Associate,Remote,Recruiter 07,2025-08-04,2025-09-05,32,2025-Q3,University,66
+REQ-00788,Payroll Specialist,Finance,Mid,"Palo Alto, CA",Recruiter 06,2025-03-23,2025-05-19,57,2025-Q2,LinkedIn,46
+REQ-00789,Data Engineer,AI & Robotics,Senior,"Palo Alto, CA",Recruiter 18,2024-12-22,2025-03-16,84,2025-Q1,Internal,112
+REQ-00790,Perception Engineer,AI & Robotics,Senior,"Fremont, CA",Recruiter 20,2024-10-28,2025-01-11,75,2025-Q1,Job Board,193
+REQ-00791,Production Associate,Manufacturing,Senior,"Austin, TX",Recruiter 19,2025-05-25,2025-07-03,39,2025-Q3,LinkedIn,55
+REQ-00792,Production Associate,Manufacturing,Associate,Remote,Recruiter 14,2025-01-01,2025-02-13,43,2025-Q1,LinkedIn,132
+REQ-00793,Firmware Engineer,Vehicle Software,Mid,"Buffalo, NY",Recruiter 16,2024-05-26,2024-07-20,55,2024-Q3,Referral,36
+REQ-00794,Quality Engineer,Manufacturing,Associate,"Austin, TX",Recruiter 01,2025-06-16,2025-08-12,57,2025-Q3,Internal,141
+REQ-00797,Firmware Engineer,Vehicle Software,Mid,"Austin, TX",Recruiter 21,2024-10-23,2025-01-07,76,2025-Q1,Careers Site,97
+REQ-00798,Recruiter,People,Associate,Remote,Recruiter 07,2024-01-27,2024-03-02,35,2024-Q1,Referral,75
+REQ-00799,Firmware Engineer,Vehicle Software,Senior,Remote,Recruiter 16,2024-03-17,2024-05-13,57,2024-Q2,Careers Site,121
+REQ-00800,Materials Planner,Supply Chain,Associate,Remote,Recruiter 04,2024-02-09,2024-03-31,51,2024-Q1,Careers Site,105

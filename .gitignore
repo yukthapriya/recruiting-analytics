@@ -1,0 +1,7 @@
+# raw export is regenerated from a fixed seed (python -m pipeline.run generate)
+data/raw/
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+.env

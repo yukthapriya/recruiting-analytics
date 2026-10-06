@@ -1,0 +1,55 @@
+department,stage_rank,stage_name,reached,step_conversion,overall_conversion
+AI & Robotics,1,Applied,8413,,1.0000
+AI & Robotics,2,Recruiter Screen,1827,0.2172,0.2172
+AI & Robotics,3,Hiring Manager Screen,861,0.4713,0.1023
+AI & Robotics,4,Onsite,335,0.3891,0.0398
+AI & Robotics,5,Offer,73,0.2179,0.0087
+AI & Robotics,6,Hired,52,0.7123,0.0062
+All,1,Applied,58101,,1.0000
+All,2,Recruiter Screen,12400,0.2134,0.2134
+All,3,Hiring Manager Screen,5728,0.4619,0.0986
+All,4,Onsite,2193,0.3829,0.0377
+All,5,Offer,638,0.2909,0.0110
+All,6,Hired,476,0.7461,0.0082
+Energy,1,Applied,4508,,1.0000
+Energy,2,Recruiter Screen,939,0.2083,0.2083
+Energy,3,Hiring Manager Screen,418,0.4452,0.0927
+Energy,4,Onsite,160,0.3828,0.0355
+Energy,5,Offer,50,0.3125,0.0111
+Energy,6,Hired,39,0.7800,0.0087
+Finance,1,Applied,3721,,1.0000
+Finance,2,Recruiter Screen,799,0.2147,0.2147
+Finance,3,Hiring Manager Screen,364,0.4556,0.0978
+Finance,4,Onsite,146,0.4011,0.0392
+Finance,5,Offer,45,0.3082,0.0121
+Finance,6,Hired,39,0.8667,0.0105
+Manufacturing,1,Applied,17455,,1.0000
+Manufacturing,2,Recruiter Screen,3685,0.2111,0.2111
+Manufacturing,3,Hiring Manager Screen,1690,0.4586,0.0968
+Manufacturing,4,Onsite,666,0.3941,0.0382
+Manufacturing,5,Offer,192,0.2883,0.0110
+Manufacturing,6,Hired,137,0.7135,0.0078
+People,1,Applied,3915,,1.0000
+People,2,Recruiter Screen,798,0.2038,0.2038
+People,3,Hiring Manager Screen,371,0.4649,0.0948
+People,4,Onsite,126,0.3396,0.0322
+People,5,Offer,37,0.2937,0.0095
+People,6,Hired,31,0.8378,0.0079
+Service,1,Applied,8476,,1.0000
+Service,2,Recruiter Screen,1870,0.2206,0.2206
+Service,3,Hiring Manager Screen,888,0.4749,0.1048
+Service,4,Onsite,332,0.3739,0.0392
+Service,5,Offer,100,0.3012,0.0118
+Service,6,Hired,72,0.7200,0.0085
+Supply Chain,1,Applied,4953,,1.0000
+Supply Chain,2,Recruiter Screen,1054,0.2128,0.2128
+Supply Chain,3,Hiring Manager Screen,506,0.4801,0.1022
+Supply Chain,4,Onsite,193,0.3814,0.0390
+Supply Chain,5,Offer,66,0.3420,0.0133
+Supply Chain,6,Hired,51,0.7727,0.0103
+Vehicle Software,1,Applied,6660,,1.0000
+Vehicle Software,2,Recruiter Screen,1428,0.2144,0.2144
+Vehicle Software,3,Hiring Manager Screen,630,0.4412,0.0946
+Vehicle Software,4,Onsite,235,0.3730,0.0353
+Vehicle Software,5,Offer,75,0.3191,0.0113
+Vehicle Software,6,Hired,55,0.7333,0.0083

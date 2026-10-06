@@ -1,0 +1,46 @@
+department,stage_rank,stage_name,stage_exits,median_days,p90_days
+AI & Robotics,1,Applied,8276,9.2,14.8
+AI & Robotics,2,Recruiter Screen,1806,9.1,13.5
+AI & Robotics,3,Hiring Manager Screen,838,13.7,20.5
+AI & Robotics,4,Onsite,326,9.0,14.7
+AI & Robotics,5,Offer,71,3.5,6.2
+All,1,Applied,57552,5.8,10.6
+All,2,Recruiter Screen,12223,5.8,10.0
+All,3,Hiring Manager Screen,5564,8.7,15.2
+All,4,Onsite,2142,6.0,10.5
+All,5,Offer,625,3.7,6.5
+Energy,1,Applied,4484,6.1,10.0
+Energy,2,Recruiter Screen,929,6.1,9.4
+Energy,3,Hiring Manager Screen,410,9.3,13.8
+Energy,4,Onsite,158,7.1,10.0
+Energy,5,Offer,49,3.4,6.5
+Finance,1,Applied,3682,6.4,10.2
+Finance,2,Recruiter Screen,787,6.6,9.6
+Finance,3,Hiring Manager Screen,351,9.6,14.3
+Finance,4,Onsite,143,6.0,9.7
+Finance,5,Offer,44,3.9,6.9
+Manufacturing,1,Applied,17321,4.5,7.2
+Manufacturing,2,Recruiter Screen,3629,4.5,6.7
+Manufacturing,3,Hiring Manager Screen,1649,6.9,10.3
+Manufacturing,4,Onsite,650,4.8,7.2
+Manufacturing,5,Offer,187,3.7,6.8
+People,1,Applied,3872,5.7,9.4
+People,2,Recruiter Screen,786,5.9,8.6
+People,3,Hiring Manager Screen,351,8.3,12.6
+People,4,Onsite,124,6.0,8.6
+People,5,Offer,37,3.7,6.2
+Service,1,Applied,8421,5.2,8.3
+Service,2,Recruiter Screen,1845,5.3,7.7
+Service,3,Hiring Manager Screen,867,7.9,11.8
+Service,4,Onsite,328,5.4,7.9
+Service,5,Offer,99,3.8,6.4
+Supply Chain,1,Applied,4938,5.8,9.6
+Supply Chain,2,Recruiter Screen,1048,6.0,8.8
+Supply Chain,3,Hiring Manager Screen,497,9.1,13.6
+Supply Chain,4,Onsite,188,6.7,9.4
+Supply Chain,5,Offer,65,3.0,5.1
+Vehicle Software,1,Applied,6558,7.8,12.8
+Vehicle Software,2,Recruiter Screen,1393,7.7,11.7
+Vehicle Software,3,Hiring Manager Screen,601,11.8,18.2
+Vehicle Software,4,Onsite,225,7.9,12.8
+Vehicle Software,5,Offer,73,3.8,6.4

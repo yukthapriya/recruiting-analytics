@@ -1,0 +1,137 @@
+req_id,title,department,level,location,recruiter_name,opened_date,days_open,age_band,applications,in_progress
+REQ-00258,Quality Engineer,Manufacturing,Senior,"Austin, TX",Recruiter 06,2024-01-09,722,Over 180 days,58,0
+REQ-00689,Payroll Specialist,Finance,Senior,"Austin, TX",Recruiter 16,2024-01-18,713,Over 180 days,58,0
+REQ-00146,Robotics Engineer,AI & Robotics,Mid,Remote,Recruiter 03,2024-01-20,711,Over 180 days,82,0
+REQ-00322,Buyer,Supply Chain,Associate,"Austin, TX",Recruiter 15,2024-01-23,708,Over 180 days,44,0
+REQ-00170,QA Engineer,Vehicle Software,Staff,"Palo Alto, CA",Recruiter 21,2024-02-15,685,Over 180 days,114,0
+REQ-00694,Service Technician,Service,Associate,"Fremont, CA",Recruiter 21,2024-03-10,661,Over 180 days,106,0
+REQ-00442,Service Advisor,Service,Senior,"Austin, TX",Recruiter 20,2024-03-31,640,Over 180 days,42,0
+REQ-00499,Process Technician,Manufacturing,Mid,"Palo Alto, CA",Recruiter 14,2024-04-24,616,Over 180 days,132,0
+REQ-00259,Data Engineer,AI & Robotics,Associate,"Austin, TX",Recruiter 20,2024-05-01,609,Over 180 days,139,0
+REQ-00526,Buyer,Supply Chain,Senior,"Buffalo, NY",Recruiter 19,2024-05-10,600,Over 180 days,69,0
+REQ-00014,QA Engineer,Vehicle Software,Senior,"Austin, TX",Recruiter 21,2024-05-25,585,Over 180 days,50,0
+REQ-00274,People Analyst,People,Associate,"Palo Alto, CA",Recruiter 12,2024-06-02,577,Over 180 days,96,0
+REQ-00684,Accountant,Finance,Mid,"Austin, TX",Recruiter 23,2024-06-25,554,Over 180 days,40,0
+REQ-00503,Parts Advisor,Service,Staff,"Fremont, CA",Recruiter 17,2024-08-10,508,Over 180 days,8,0
+REQ-00430,Materials Planner,Supply Chain,Senior,"Austin, TX",Recruiter 04,2024-08-16,502,Over 180 days,55,0
+REQ-00232,Firmware Engineer,Vehicle Software,Senior,"Austin, TX",Recruiter 16,2024-08-21,497,Over 180 days,122,0
+REQ-00751,Financial Analyst,Finance,Mid,"Austin, TX",Recruiter 14,2024-08-27,491,Over 180 days,29,0
+REQ-00675,Electrical Engineer,Energy,Mid,"Fremont, CA",Recruiter 09,2024-09-21,466,Over 180 days,40,0
+REQ-00049,Logistics Analyst,Supply Chain,Mid,"Sparks, NV",Recruiter 22,2024-09-22,465,Over 180 days,24,0
+REQ-00686,Parts Advisor,Service,Mid,"Sparks, NV",Recruiter 05,2024-10-03,454,Over 180 days,34,0
+REQ-00470,Robotics Engineer,AI & Robotics,Senior,"Austin, TX",Recruiter 20,2024-10-20,437,Over 180 days,119,0
+REQ-00150,Tax Analyst,Finance,Associate,"Sparks, NV",Recruiter 13,2024-12-03,393,Over 180 days,19,0
+REQ-00154,Mobile Technician,Service,Mid,"Fremont, CA",Recruiter 08,2024-12-30,366,Over 180 days,53,0
+REQ-00194,Production Associate,Manufacturing,Associate,"Austin, TX",Recruiter 07,2025-01-07,358,Over 180 days,64,0
+REQ-00756,Software Engineer,Vehicle Software,Senior,"Sparks, NV",Recruiter 15,2025-01-29,336,Over 180 days,58,0
+REQ-00553,Manufacturing Engineer,Manufacturing,Mid,"Palo Alto, CA",Recruiter 14,2025-02-13,321,Over 180 days,91,0
+REQ-00069,Installation Technician,Energy,Associate,"Palo Alto, CA",Recruiter 09,2025-02-15,319,Over 180 days,25,0
+REQ-00476,Production Associate,Manufacturing,Mid,"Buffalo, NY",Recruiter 14,2025-02-24,310,Over 180 days,69,0
+REQ-00520,Process Technician,Manufacturing,Staff,"Palo Alto, CA",Recruiter 06,2025-02-27,307,Over 180 days,79,0
+REQ-00338,People Analyst,People,Associate,"Palo Alto, CA",Recruiter 07,2025-03-18,288,Over 180 days,114,0
+REQ-00074,Materials Planner,Supply Chain,Mid,"Fremont, CA",Recruiter 24,2025-03-27,279,Over 180 days,17,0
+REQ-00779,Service Advisor,Service,Associate,"Fremont, CA",Recruiter 11,2025-04-05,270,Over 180 days,77,0
+REQ-00343,Quality Engineer,Manufacturing,Mid,"Fremont, CA",Recruiter 19,2025-04-19,256,Over 180 days,8,0
+REQ-00541,Production Associate,Manufacturing,Associate,"Austin, TX",Recruiter 01,2025-05-14,231,Over 180 days,60,0
+REQ-00021,Parts Advisor,Service,Senior,"Fremont, CA",Recruiter 05,2025-05-30,215,Over 180 days,61,0
+REQ-00133,Embedded Engineer,Vehicle Software,Associate,"Austin, TX",Recruiter 21,2025-05-30,215,Over 180 days,22,0
+REQ-00649,Accountant,Finance,Manager,"Buffalo, NY",Recruiter 14,2025-06-13,201,Over 180 days,35,0
+REQ-00351,Process Technician,Manufacturing,Manager,"Sparks, NV",Recruiter 07,2025-07-07,177,91-180 days,60,0
+REQ-00695,Embedded Engineer,Vehicle Software,Mid,"Buffalo, NY",Recruiter 15,2025-07-08,176,91-180 days,71,0
+REQ-00210,Quality Engineer,Manufacturing,Mid,"Austin, TX",Recruiter 19,2025-07-17,167,91-180 days,87,0
+REQ-00178,Embedded Engineer,Vehicle Software,Senior,"Fremont, CA",Recruiter 15,2025-07-19,165,91-180 days,61,0
+REQ-00691,Mobile Technician,Service,Senior,"Palo Alto, CA",Recruiter 05,2025-07-29,155,91-180 days,47,0
+REQ-00591,Installation Technician,Energy,Associate,"Fremont, CA",Recruiter 12,2025-08-06,147,91-180 days,51,0
+REQ-00004,Production Associate,Manufacturing,Mid,"Buffalo, NY",Recruiter 09,2025-08-07,146,91-180 days,55,0
+REQ-00103,Process Technician,Manufacturing,Mid,"Fremont, CA",Recruiter 19,2025-08-08,145,91-180 days,130,0
+REQ-00613,Parts Advisor,Service,Mid,"Austin, TX",Recruiter 20,2025-08-10,143,91-180 days,49,0
+REQ-00740,Parts Advisor,Service,Associate,"Fremont, CA",Recruiter 01,2025-08-13,140,91-180 days,32,0
+REQ-00349,Manufacturing Engineer,Manufacturing,Mid,"Fremont, CA",Recruiter 19,2025-08-14,139,91-180 days,111,0
+REQ-00195,QA Engineer,Vehicle Software,Mid,"Buffalo, NY",Recruiter 21,2025-08-15,138,91-180 days,61,0
+REQ-00044,Parts Advisor,Service,Mid,"Austin, TX",Recruiter 21,2025-08-17,136,91-180 days,75,0
+REQ-00548,Embedded Engineer,Vehicle Software,Mid,"Austin, TX",Recruiter 16,2025-08-18,135,91-180 days,102,0
+REQ-00700,Manufacturing Engineer,Manufacturing,Senior,"Sparks, NV",Recruiter 24,2025-08-18,135,91-180 days,7,0
+REQ-00142,Machine Learning Engineer,AI & Robotics,Associate,"Palo Alto, CA",Recruiter 08,2025-08-18,135,91-180 days,50,0
+REQ-00192,Field Engineer,Energy,Senior,Remote,Recruiter 09,2025-08-19,134,91-180 days,62,0
+REQ-00231,Service Advisor,Service,Mid,"Austin, TX",Recruiter 11,2025-08-20,133,91-180 days,65,0
+REQ-00371,Mobile Technician,Service,Mid,"Buffalo, NY",Recruiter 02,2025-08-24,129,91-180 days,36,0
+REQ-00176,Field Engineer,Energy,Staff,"Fremont, CA",Recruiter 22,2025-08-25,128,91-180 days,86,0
+REQ-00681,Embedded Engineer,Vehicle Software,Associate,"Fremont, CA",Recruiter 16,2025-08-27,126,91-180 days,52,0
+REQ-00532,Buyer,Supply Chain,Senior,"Buffalo, NY",Recruiter 24,2025-08-29,124,91-180 days,31,0
+REQ-00182,Project Coordinator,Energy,Mid,"Palo Alto, CA",Recruiter 09,2025-08-30,123,91-180 days,68,0
+REQ-00764,Mobile Technician,Service,Mid,"Palo Alto, CA",Recruiter 11,2025-09-01,121,91-180 days,57,0
+REQ-00037,Parts Advisor,Service,Mid,"Austin, TX",Recruiter 05,2025-09-01,121,91-180 days,89,0
+REQ-00066,Field Engineer,Energy,Associate,"Fremont, CA",Recruiter 13,2025-09-02,120,91-180 days,81,0
+REQ-00710,Manufacturing Engineer,Manufacturing,Mid,"Palo Alto, CA",Recruiter 24,2025-09-03,119,91-180 days,97,0
+REQ-00098,Mobile Technician,Service,Mid,"Palo Alto, CA",Recruiter 11,2025-09-06,116,91-180 days,104,0
+REQ-00561,Mobile Technician,Service,Mid,"Fremont, CA",Recruiter 08,2025-09-07,115,91-180 days,110,0
+REQ-00743,Process Technician,Manufacturing,Manager,Remote,Recruiter 06,2025-09-07,115,91-180 days,14,0
+REQ-00674,Service Advisor,Service,Associate,"Buffalo, NY",Recruiter 11,2025-09-08,114,91-180 days,96,0
+REQ-00137,Quality Engineer,Manufacturing,Mid,"Sparks, NV",Recruiter 24,2025-09-09,113,91-180 days,78,0
+REQ-00775,Logistics Analyst,Supply Chain,Senior,"Sparks, NV",Recruiter 24,2025-09-09,113,91-180 days,107,0
+REQ-00140,Perception Engineer,AI & Robotics,Associate,"Buffalo, NY",Recruiter 08,2025-09-14,108,91-180 days,24,0
+REQ-00011,Robotics Engineer,AI & Robotics,Mid,"Palo Alto, CA",Recruiter 08,2025-09-19,103,91-180 days,86,0
+REQ-00376,Parts Advisor,Service,Mid,"Palo Alto, CA",Recruiter 08,2025-09-19,103,91-180 days,59,0
+REQ-00410,Mobile Technician,Service,Manager,"Fremont, CA",Recruiter 01,2025-09-29,93,91-180 days,92,0
+REQ-00218,Buyer,Supply Chain,Associate,"Sparks, NV",Recruiter 24,2025-10-02,90,90 days or less,87,0
+REQ-00024,Electrical Engineer,Energy,Mid,"Austin, TX",Recruiter 22,2025-10-05,87,90 days or less,53,0
+REQ-00468,Buyer,Supply Chain,Mid,"Sparks, NV",Recruiter 24,2025-10-06,86,90 days or less,60,0
+REQ-00288,Parts Advisor,Service,Senior,"Austin, TX",Recruiter 05,2025-10-14,78,90 days or less,87,0
+REQ-00545,Production Associate,Manufacturing,Associate,Remote,Recruiter 14,2025-10-15,77,90 days or less,27,0
+REQ-00036,Service Technician,Service,Associate,"Austin, TX",Recruiter 17,2025-10-18,74,90 days or less,38,0
+REQ-00214,Process Technician,Manufacturing,Staff,"Sparks, NV",Recruiter 14,2025-10-19,73,90 days or less,83,0
+REQ-00268,Materials Planner,Supply Chain,Mid,"Buffalo, NY",Recruiter 19,2025-10-23,69,90 days or less,68,2
+REQ-00266,Payroll Specialist,Finance,Associate,"Austin, TX",Recruiter 11,2025-10-26,66,90 days or less,71,2
+REQ-00217,Robotics Engineer,AI & Robotics,Senior,"Fremont, CA",Recruiter 18,2025-10-26,66,90 days or less,120,10
+REQ-00575,Field Engineer,Energy,Mid,"Austin, TX",Recruiter 13,2025-10-29,63,90 days or less,94,1
+REQ-00372,Accountant,Finance,Associate,"Fremont, CA",Recruiter 13,2025-10-30,62,90 days or less,62,1
+REQ-00478,Robotics Engineer,AI & Robotics,Mid,"Buffalo, NY",Recruiter 08,2025-10-31,61,90 days or less,173,14
+REQ-00324,Project Coordinator,Energy,Associate,"Sparks, NV",Recruiter 17,2025-10-31,61,90 days or less,51,0
+REQ-00104,Software Engineer,Vehicle Software,Associate,"Sparks, NV",Recruiter 16,2025-10-31,61,90 days or less,127,8
+REQ-00593,Accountant,Finance,Manager,"Palo Alto, CA",Recruiter 11,2025-11-01,60,90 days or less,42,3
+REQ-00416,Logistics Analyst,Supply Chain,Senior,"Sparks, NV",Recruiter 24,2025-11-01,60,90 days or less,21,1
+REQ-00263,Tax Analyst,Finance,Senior,"Buffalo, NY",Recruiter 23,2025-11-06,55,90 days or less,31,4
+REQ-00718,Payroll Specialist,Finance,Associate,"Sparks, NV",Recruiter 14,2025-11-07,54,90 days or less,81,5
+REQ-00102,Data Engineer,AI & Robotics,Associate,"Fremont, CA",Recruiter 08,2025-11-09,52,90 days or less,69,13
+REQ-00362,Process Technician,Manufacturing,Associate,"Austin, TX",Recruiter 06,2025-11-10,51,90 days or less,113,13
+REQ-00488,Quality Engineer,Manufacturing,Mid,"Sparks, NV",Recruiter 07,2025-11-10,51,90 days or less,45,3
+REQ-00312,Perception Engineer,AI & Robotics,Associate,"Fremont, CA",Recruiter 08,2025-11-11,50,90 days or less,106,17
+REQ-00542,Recruiting Coordinator,People,Mid,"Sparks, NV",Recruiter 07,2025-11-13,48,90 days or less,88,13
+REQ-00153,Recruiter,People,Mid,"Fremont, CA",Recruiter 07,2025-11-14,47,90 days or less,97,8
+REQ-00090,Payroll Specialist,Finance,Mid,"Austin, TX",Recruiter 18,2025-11-16,45,90 days or less,21,1
+REQ-00746,Quality Engineer,Manufacturing,Associate,"Austin, TX",Recruiter 09,2025-11-18,43,90 days or less,91,6
+REQ-00398,Electrical Engineer,Energy,Associate,"Fremont, CA",Recruiter 09,2025-11-20,41,90 days or less,57,13
+REQ-00464,Production Associate,Manufacturing,Associate,"Palo Alto, CA",Recruiter 24,2025-11-22,39,90 days or less,80,7
+REQ-00386,Production Associate,Manufacturing,Mid,"Palo Alto, CA",Recruiter 01,2025-11-22,39,90 days or less,92,8
+REQ-00560,Accountant,Finance,Mid,"Sparks, NV",Recruiter 11,2025-11-23,38,90 days or less,29,6
+REQ-00006,Electrical Engineer,Energy,Senior,Remote,Recruiter 22,2025-11-23,38,90 days or less,41,10
+REQ-00401,QA Engineer,Vehicle Software,Associate,"Buffalo, NY",Recruiter 21,2025-11-24,37,90 days or less,79,14
+REQ-00300,Firmware Engineer,Vehicle Software,Associate,"Austin, TX",Recruiter 16,2025-11-24,37,90 days or less,44,13
+REQ-00618,People Analyst,People,Senior,"Fremont, CA",Recruiter 07,2025-11-25,36,90 days or less,61,19
+REQ-00012,QA Engineer,Vehicle Software,Senior,"Sparks, NV",Recruiter 16,2025-11-25,36,90 days or less,56,17
+REQ-00626,Mobile Technician,Service,Associate,"Sparks, NV",Recruiter 02,2025-11-26,35,90 days or less,58,6
+REQ-00306,Embedded Engineer,Vehicle Software,Associate,"Fremont, CA",Recruiter 21,2025-11-27,34,90 days or less,66,16
+REQ-00085,Embedded Engineer,Vehicle Software,Mid,"Fremont, CA",Recruiter 21,2025-11-29,32,90 days or less,61,22
+REQ-00273,Process Technician,Manufacturing,Senior,"Palo Alto, CA",Recruiter 24,2025-11-30,31,90 days or less,89,24
+REQ-00587,Tax Analyst,Finance,Mid,Remote,Recruiter 16,2025-12-01,30,90 days or less,33,8
+REQ-00659,Manufacturing Engineer,Manufacturing,Associate,"Sparks, NV",Recruiter 09,2025-12-02,29,90 days or less,79,16
+REQ-00467,Installation Technician,Energy,Senior,"Austin, TX",Recruiter 05,2025-12-03,28,90 days or less,31,13
+REQ-00047,Service Advisor,Service,Mid,"Austin, TX",Recruiter 11,2025-12-05,26,90 days or less,61,15
+REQ-00463,Financial Analyst,Finance,Associate,"Austin, TX",Recruiter 11,2025-12-06,25,90 days or less,45,14
+REQ-00039,Process Technician,Manufacturing,Mid,"Fremont, CA",Recruiter 09,2025-12-07,24,90 days or less,59,17
+REQ-00453,Manufacturing Engineer,Manufacturing,Associate,"Buffalo, NY",Recruiter 24,2025-12-07,24,90 days or less,51,16
+REQ-00619,Software Engineer,Vehicle Software,Mid,"Fremont, CA",Recruiter 15,2025-12-08,23,90 days or less,59,25
+REQ-00193,Firmware Engineer,Vehicle Software,Senior,"Fremont, CA",Recruiter 16,2025-12-08,23,90 days or less,21,13
+REQ-00655,Firmware Engineer,Vehicle Software,Mid,"Palo Alto, CA",Recruiter 16,2025-12-10,21,90 days or less,49,23
+REQ-00608,Materials Planner,Supply Chain,Associate,"Fremont, CA",Recruiter 22,2025-12-11,20,90 days or less,24,10
+REQ-00581,Payroll Specialist,Finance,Associate,"Austin, TX",Recruiter 14,2025-12-11,20,90 days or less,24,9
+REQ-00015,Service Technician,Service,Mid,"Fremont, CA",Recruiter 17,2025-12-12,19,90 days or less,35,19
+REQ-00216,Robotics Engineer,AI & Robotics,Associate,"Palo Alto, CA",Recruiter 18,2025-12-15,16,90 days or less,40,27
+REQ-00559,Manufacturing Engineer,Manufacturing,Senior,"Palo Alto, CA",Recruiter 19,2025-12-15,16,90 days or less,34,15
+REQ-00536,Data Engineer,AI & Robotics,Manager,"Austin, TX",Recruiter 08,2025-12-16,15,90 days or less,47,40
+REQ-00378,Recruiting Coordinator,People,Mid,"Sparks, NV",Recruiter 07,2025-12-16,15,90 days or less,43,18
+REQ-00486,Service Technician,Service,Senior,"Palo Alto, CA",Recruiter 20,2025-12-18,13,90 days or less,29,18
+REQ-00209,Quality Engineer,Manufacturing,Senior,"Palo Alto, CA",Recruiter 01,2025-12-18,13,90 days or less,40,28
+REQ-00752,Data Engineer,AI & Robotics,Mid,Remote,Recruiter 08,2025-12-20,11,90 days or less,18,15
+REQ-00495,Manufacturing Engineer,Manufacturing,Associate,"Sparks, NV",Recruiter 14,2025-12-22,9,90 days or less,15,11
+REQ-00260,Perception Engineer,AI & Robotics,Mid,"Fremont, CA",Recruiter 18,2025-12-23,8,90 days or less,31,31

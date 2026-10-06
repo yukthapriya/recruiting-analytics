@@ -1,0 +1,8 @@
+check_name,rows_affected,rows_checked,pct_affected
+Applications with no matching requisition (excluded),57,58158,0.098
+Duplicate stage events (extra copies removed),773,79200,0.976
+Duplicate candidate records (merged into one person),161,46689,0.345
+Applications with out-of-order stage dates (excluded from durations),72,58101,0.124
+Applications with no source recorded (reported as Unknown),1146,58158,1.970
+Applications whose source spelling was standardized,8374,58158,14.399
+Source spellings missing from the mapping table,0,18,0.000

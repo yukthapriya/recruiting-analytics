@@ -1,0 +1,9 @@
+source_name,source_category,applications,recruiter_screens,onsites,offers,hires,share_of_applications,share_of_hires,application_to_hire_rate,screen_rate,offer_acceptance_rate,hires_with_90d_result,retention_90d_rate,spend_usd,cost_per_hire_usd,rank_by_hire_rate
+Internal,Network,1742,903,230,68,56,0.0300,0.1176,0.0321,0.5184,0.9032,50,0.9600,0.00,0,1
+Referral,Network,4708,2223,489,170,131,0.0810,0.2752,0.0278,0.4722,0.8733,112,0.9643,327500.00,2500,2
+Agency,Sourced,2320,899,172,54,38,0.0399,0.0798,0.0164,0.3875,0.7170,34,0.9412,666900.00,17550,3
+University,Campus,3385,738,100,33,25,0.0583,0.0525,0.0074,0.2180,0.8621,21,0.6190,152000.00,6080,4
+LinkedIn,Sourced,10314,2140,344,103,74,0.1775,0.1555,0.0072,0.2075,0.8043,63,0.8254,720000.00,9730,5
+Careers Site,Inbound,15166,2929,500,118,90,0.2610,0.1891,0.0059,0.1931,0.8571,74,0.9189,144000.00,1600,6
+Unknown,Unknown,1143,226,38,8,5,0.0197,0.0105,0.0044,0.1977,0.8333,5,0.8000,0,0,7
+Job Board,Inbound,19323,2342,320,84,57,0.3326,0.1197,0.0029,0.1212,0.7703,47,0.7234,528000.00,9263,8

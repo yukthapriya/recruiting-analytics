@@ -1,0 +1,73 @@
+department,filled_quarter,requisitions_filled,median_days_to_fill,p90_days_to_fill
+AI & Robotics,2024-Q1,2,58.0,58.8
+AI & Robotics,2024-Q2,7,60.0,80.2
+AI & Robotics,2024-Q3,9,64.0,71.8
+AI & Robotics,2024-Q4,4,85.5,93.2
+AI & Robotics,2025-Q1,10,66.0,85.1
+AI & Robotics,2025-Q2,10,73.5,84.1
+AI & Robotics,2025-Q3,5,57.0,69.2
+AI & Robotics,2025-Q4,5,65.0,89.8
+All,2024-Q1,35,43.0,57.6
+All,2024-Q2,67,49.0,75.4
+All,2024-Q3,61,55.0,73.0
+All,2024-Q4,57,52.0,78.4
+All,2025-Q1,70,53.5,77.5
+All,2025-Q2,68,50.0,75.3
+All,2025-Q3,61,48.0,68.0
+All,2025-Q4,57,52.0,69.0
+Energy,2024-Q1,3,51.0,62.2
+Energy,2024-Q2,7,47.0,69.4
+Energy,2024-Q3,5,61.0,66.4
+Energy,2024-Q4,3,57.0,59.4
+Energy,2025-Q1,7,52.0,69.8
+Energy,2025-Q2,6,55.0,68.0
+Energy,2025-Q3,4,41.0,51.1
+Energy,2025-Q4,4,60.5,83.0
+Finance,2024-Q1,4,57.0,62.2
+Finance,2024-Q2,4,55.0,56.4
+Finance,2024-Q3,4,52.0,59.4
+Finance,2024-Q4,4,50.5,64.2
+Finance,2025-Q1,2,51.0,55.8
+Finance,2025-Q2,8,65.0,77.8
+Finance,2025-Q3,5,56.0,65.6
+Finance,2025-Q4,8,48.0,69.6
+Manufacturing,2024-Q1,11,34.0,43.0
+Manufacturing,2024-Q2,18,39.0,75.2
+Manufacturing,2024-Q3,14,53.5,73.7
+Manufacturing,2024-Q4,12,39.5,51.6
+Manufacturing,2025-Q1,13,43.0,70.6
+Manufacturing,2025-Q2,21,44.0,55.0
+Manufacturing,2025-Q3,24,39.5,66.4
+Manufacturing,2025-Q4,24,49.5,61.7
+People,2024-Q1,5,36.0,49.8
+People,2024-Q2,6,43.5,64.5
+People,2024-Q3,6,51.0,72.0
+People,2024-Q4,4,50.5,70.6
+People,2025-Q1,3,48.0,52.8
+People,2025-Q2,2,54.5,65.3
+People,2025-Q3,4,62.0,68.5
+People,2025-Q4,1,56.0,56.0
+Service,2024-Q1,3,37.0,40.2
+Service,2024-Q2,10,51.5,61.5
+Service,2024-Q3,9,44.0,55.6
+Service,2024-Q4,7,49.0,69.8
+Service,2025-Q1,13,51.0,72.6
+Service,2025-Q2,10,38.5,48.4
+Service,2025-Q3,8,43.5,62.0
+Service,2025-Q4,12,50.5,55.7
+Supply Chain,2024-Q1,6,49.5,53.5
+Supply Chain,2024-Q2,9,63.0,76.2
+Supply Chain,2024-Q3,7,54.0,75.8
+Supply Chain,2024-Q4,9,64.0,87.0
+Supply Chain,2025-Q1,9,58.0,75.6
+Supply Chain,2025-Q2,6,41.5,48.0
+Supply Chain,2025-Q3,4,38.0,48.4
+Supply Chain,2025-Q4,1,34.0,34.0
+Vehicle Software,2024-Q1,1,44.0,44.0
+Vehicle Software,2024-Q2,6,53.0,72.0
+Vehicle Software,2024-Q3,7,55.0,75.8
+Vehicle Software,2024-Q4,14,53.5,75.4
+Vehicle Software,2025-Q1,13,63.0,85.2
+Vehicle Software,2025-Q2,5,56.0,66.8
+Vehicle Software,2025-Q3,7,54.0,77.0
+Vehicle Software,2025-Q4,2,59.0,59.8

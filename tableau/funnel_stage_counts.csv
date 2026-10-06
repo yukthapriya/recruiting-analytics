@@ -1,0 +1,3073 @@
+applied_quarter,department,source_name,stage_rank,stage_name,applications_reached
+2024-Q1,AI & Robotics,Agency,1,Applied,31
+2024-Q1,AI & Robotics,Agency,2,Recruiter Screen,14
+2024-Q1,AI & Robotics,Agency,3,Hiring Manager Screen,9
+2024-Q1,AI & Robotics,Agency,4,Onsite,3
+2024-Q1,AI & Robotics,Agency,5,Offer,0
+2024-Q1,AI & Robotics,Agency,6,Hired,0
+2024-Q1,AI & Robotics,Careers Site,1,Applied,229
+2024-Q1,AI & Robotics,Careers Site,2,Recruiter Screen,47
+2024-Q1,AI & Robotics,Careers Site,3,Hiring Manager Screen,18
+2024-Q1,AI & Robotics,Careers Site,4,Onsite,3
+2024-Q1,AI & Robotics,Careers Site,5,Offer,1
+2024-Q1,AI & Robotics,Careers Site,6,Hired,1
+2024-Q1,AI & Robotics,Internal,1,Applied,27
+2024-Q1,AI & Robotics,Internal,2,Recruiter Screen,18
+2024-Q1,AI & Robotics,Internal,3,Hiring Manager Screen,12
+2024-Q1,AI & Robotics,Internal,4,Onsite,9
+2024-Q1,AI & Robotics,Internal,5,Offer,1
+2024-Q1,AI & Robotics,Internal,6,Hired,1
+2024-Q1,AI & Robotics,Job Board,1,Applied,286
+2024-Q1,AI & Robotics,Job Board,2,Recruiter Screen,32
+2024-Q1,AI & Robotics,Job Board,3,Hiring Manager Screen,13
+2024-Q1,AI & Robotics,Job Board,4,Onsite,3
+2024-Q1,AI & Robotics,Job Board,5,Offer,1
+2024-Q1,AI & Robotics,Job Board,6,Hired,1
+2024-Q1,AI & Robotics,LinkedIn,1,Applied,157
+2024-Q1,AI & Robotics,LinkedIn,2,Recruiter Screen,30
+2024-Q1,AI & Robotics,LinkedIn,3,Hiring Manager Screen,13
+2024-Q1,AI & Robotics,LinkedIn,4,Onsite,2
+2024-Q1,AI & Robotics,LinkedIn,5,Offer,0
+2024-Q1,AI & Robotics,LinkedIn,6,Hired,0
+2024-Q1,AI & Robotics,Referral,1,Applied,88
+2024-Q1,AI & Robotics,Referral,2,Recruiter Screen,42
+2024-Q1,AI & Robotics,Referral,3,Hiring Manager Screen,22
+2024-Q1,AI & Robotics,Referral,4,Onsite,13
+2024-Q1,AI & Robotics,Referral,5,Offer,3
+2024-Q1,AI & Robotics,Referral,6,Hired,3
+2024-Q1,AI & Robotics,University,1,Applied,55
+2024-Q1,AI & Robotics,University,2,Recruiter Screen,14
+2024-Q1,AI & Robotics,University,3,Hiring Manager Screen,5
+2024-Q1,AI & Robotics,University,4,Onsite,0
+2024-Q1,AI & Robotics,University,5,Offer,0
+2024-Q1,AI & Robotics,University,6,Hired,0
+2024-Q1,AI & Robotics,Unknown,1,Applied,12
+2024-Q1,AI & Robotics,Unknown,2,Recruiter Screen,3
+2024-Q1,AI & Robotics,Unknown,3,Hiring Manager Screen,1
+2024-Q1,AI & Robotics,Unknown,4,Onsite,0
+2024-Q1,AI & Robotics,Unknown,5,Offer,0
+2024-Q1,AI & Robotics,Unknown,6,Hired,0
+2024-Q1,Energy,Agency,1,Applied,16
+2024-Q1,Energy,Agency,2,Recruiter Screen,11
+2024-Q1,Energy,Agency,3,Hiring Manager Screen,4
+2024-Q1,Energy,Agency,4,Onsite,2
+2024-Q1,Energy,Agency,5,Offer,1
+2024-Q1,Energy,Agency,6,Hired,1
+2024-Q1,Energy,Careers Site,1,Applied,115
+2024-Q1,Energy,Careers Site,2,Recruiter Screen,25
+2024-Q1,Energy,Careers Site,3,Hiring Manager Screen,12
+2024-Q1,Energy,Careers Site,4,Onsite,4
+2024-Q1,Energy,Careers Site,5,Offer,1
+2024-Q1,Energy,Careers Site,6,Hired,0
+2024-Q1,Energy,Internal,1,Applied,13
+2024-Q1,Energy,Internal,2,Recruiter Screen,5
+2024-Q1,Energy,Internal,3,Hiring Manager Screen,5
+2024-Q1,Energy,Internal,4,Onsite,3
+2024-Q1,Energy,Internal,5,Offer,1
+2024-Q1,Energy,Internal,6,Hired,0
+2024-Q1,Energy,Job Board,1,Applied,145
+2024-Q1,Energy,Job Board,2,Recruiter Screen,17
+2024-Q1,Energy,Job Board,3,Hiring Manager Screen,7
+2024-Q1,Energy,Job Board,4,Onsite,1
+2024-Q1,Energy,Job Board,5,Offer,0
+2024-Q1,Energy,Job Board,6,Hired,0
+2024-Q1,Energy,LinkedIn,1,Applied,76
+2024-Q1,Energy,LinkedIn,2,Recruiter Screen,19
+2024-Q1,Energy,LinkedIn,3,Hiring Manager Screen,13
+2024-Q1,Energy,LinkedIn,4,Onsite,5
+2024-Q1,Energy,LinkedIn,5,Offer,2
+2024-Q1,Energy,LinkedIn,6,Hired,2
+2024-Q1,Energy,Referral,1,Applied,41
+2024-Q1,Energy,Referral,2,Recruiter Screen,23
+2024-Q1,Energy,Referral,3,Hiring Manager Screen,10
+2024-Q1,Energy,Referral,4,Onsite,3
+2024-Q1,Energy,Referral,5,Offer,2
+2024-Q1,Energy,Referral,6,Hired,2
+2024-Q1,Energy,University,1,Applied,26
+2024-Q1,Energy,University,2,Recruiter Screen,6
+2024-Q1,Energy,University,3,Hiring Manager Screen,3
+2024-Q1,Energy,University,4,Onsite,1
+2024-Q1,Energy,University,5,Offer,1
+2024-Q1,Energy,University,6,Hired,1
+2024-Q1,Energy,Unknown,1,Applied,7
+2024-Q1,Energy,Unknown,2,Recruiter Screen,1
+2024-Q1,Energy,Unknown,3,Hiring Manager Screen,0
+2024-Q1,Energy,Unknown,4,Onsite,0
+2024-Q1,Energy,Unknown,5,Offer,0
+2024-Q1,Energy,Unknown,6,Hired,0
+2024-Q1,Finance,Agency,1,Applied,20
+2024-Q1,Finance,Agency,2,Recruiter Screen,9
+2024-Q1,Finance,Agency,3,Hiring Manager Screen,2
+2024-Q1,Finance,Agency,4,Onsite,2
+2024-Q1,Finance,Agency,5,Offer,1
+2024-Q1,Finance,Agency,6,Hired,1
+2024-Q1,Finance,Careers Site,1,Applied,138
+2024-Q1,Finance,Careers Site,2,Recruiter Screen,29
+2024-Q1,Finance,Careers Site,3,Hiring Manager Screen,12
+2024-Q1,Finance,Careers Site,4,Onsite,7
+2024-Q1,Finance,Careers Site,5,Offer,4
+2024-Q1,Finance,Careers Site,6,Hired,4
+2024-Q1,Finance,Internal,1,Applied,21
+2024-Q1,Finance,Internal,2,Recruiter Screen,10
+2024-Q1,Finance,Internal,3,Hiring Manager Screen,6
+2024-Q1,Finance,Internal,4,Onsite,3
+2024-Q1,Finance,Internal,5,Offer,2
+2024-Q1,Finance,Internal,6,Hired,1
+2024-Q1,Finance,Job Board,1,Applied,183
+2024-Q1,Finance,Job Board,2,Recruiter Screen,21
+2024-Q1,Finance,Job Board,3,Hiring Manager Screen,8
+2024-Q1,Finance,Job Board,4,Onsite,3
+2024-Q1,Finance,Job Board,5,Offer,0
+2024-Q1,Finance,Job Board,6,Hired,0
+2024-Q1,Finance,LinkedIn,1,Applied,92
+2024-Q1,Finance,LinkedIn,2,Recruiter Screen,19
+2024-Q1,Finance,LinkedIn,3,Hiring Manager Screen,8
+2024-Q1,Finance,LinkedIn,4,Onsite,0
+2024-Q1,Finance,LinkedIn,5,Offer,0
+2024-Q1,Finance,LinkedIn,6,Hired,0
+2024-Q1,Finance,Referral,1,Applied,44
+2024-Q1,Finance,Referral,2,Recruiter Screen,27
+2024-Q1,Finance,Referral,3,Hiring Manager Screen,9
+2024-Q1,Finance,Referral,4,Onsite,6
+2024-Q1,Finance,Referral,5,Offer,1
+2024-Q1,Finance,Referral,6,Hired,1
+2024-Q1,Finance,University,1,Applied,36
+2024-Q1,Finance,University,2,Recruiter Screen,8
+2024-Q1,Finance,University,3,Hiring Manager Screen,2
+2024-Q1,Finance,University,4,Onsite,0
+2024-Q1,Finance,University,5,Offer,0
+2024-Q1,Finance,University,6,Hired,0
+2024-Q1,Finance,Unknown,1,Applied,12
+2024-Q1,Finance,Unknown,2,Recruiter Screen,5
+2024-Q1,Finance,Unknown,3,Hiring Manager Screen,4
+2024-Q1,Finance,Unknown,4,Onsite,1
+2024-Q1,Finance,Unknown,5,Offer,0
+2024-Q1,Finance,Unknown,6,Hired,0
+2024-Q1,Manufacturing,Agency,1,Applied,60
+2024-Q1,Manufacturing,Agency,2,Recruiter Screen,18
+2024-Q1,Manufacturing,Agency,3,Hiring Manager Screen,9
+2024-Q1,Manufacturing,Agency,4,Onsite,5
+2024-Q1,Manufacturing,Agency,5,Offer,2
+2024-Q1,Manufacturing,Agency,6,Hired,2
+2024-Q1,Manufacturing,Careers Site,1,Applied,497
+2024-Q1,Manufacturing,Careers Site,2,Recruiter Screen,105
+2024-Q1,Manufacturing,Careers Site,3,Hiring Manager Screen,48
+2024-Q1,Manufacturing,Careers Site,4,Onsite,19
+2024-Q1,Manufacturing,Careers Site,5,Offer,3
+2024-Q1,Manufacturing,Careers Site,6,Hired,3
+2024-Q1,Manufacturing,Internal,1,Applied,49
+2024-Q1,Manufacturing,Internal,2,Recruiter Screen,25
+2024-Q1,Manufacturing,Internal,3,Hiring Manager Screen,16
+2024-Q1,Manufacturing,Internal,4,Onsite,9
+2024-Q1,Manufacturing,Internal,5,Offer,2
+2024-Q1,Manufacturing,Internal,6,Hired,2
+2024-Q1,Manufacturing,Job Board,1,Applied,607
+2024-Q1,Manufacturing,Job Board,2,Recruiter Screen,69
+2024-Q1,Manufacturing,Job Board,3,Hiring Manager Screen,25
+2024-Q1,Manufacturing,Job Board,4,Onsite,7
+2024-Q1,Manufacturing,Job Board,5,Offer,5
+2024-Q1,Manufacturing,Job Board,6,Hired,5
+2024-Q1,Manufacturing,LinkedIn,1,Applied,353
+2024-Q1,Manufacturing,LinkedIn,2,Recruiter Screen,67
+2024-Q1,Manufacturing,LinkedIn,3,Hiring Manager Screen,31
+2024-Q1,Manufacturing,LinkedIn,4,Onsite,10
+2024-Q1,Manufacturing,LinkedIn,5,Offer,2
+2024-Q1,Manufacturing,LinkedIn,6,Hired,0
+2024-Q1,Manufacturing,Referral,1,Applied,141
+2024-Q1,Manufacturing,Referral,2,Recruiter Screen,69
+2024-Q1,Manufacturing,Referral,3,Hiring Manager Screen,32
+2024-Q1,Manufacturing,Referral,4,Onsite,16
+2024-Q1,Manufacturing,Referral,5,Offer,4
+2024-Q1,Manufacturing,Referral,6,Hired,3
+2024-Q1,Manufacturing,University,1,Applied,129
+2024-Q1,Manufacturing,University,2,Recruiter Screen,24
+2024-Q1,Manufacturing,University,3,Hiring Manager Screen,9
+2024-Q1,Manufacturing,University,4,Onsite,0
+2024-Q1,Manufacturing,University,5,Offer,0
+2024-Q1,Manufacturing,University,6,Hired,0
+2024-Q1,Manufacturing,Unknown,1,Applied,45
+2024-Q1,Manufacturing,Unknown,2,Recruiter Screen,7
+2024-Q1,Manufacturing,Unknown,3,Hiring Manager Screen,3
+2024-Q1,Manufacturing,Unknown,4,Onsite,1
+2024-Q1,Manufacturing,Unknown,5,Offer,0
+2024-Q1,Manufacturing,Unknown,6,Hired,0
+2024-Q1,People,Agency,1,Applied,26
+2024-Q1,People,Agency,2,Recruiter Screen,12
+2024-Q1,People,Agency,3,Hiring Manager Screen,6
+2024-Q1,People,Agency,4,Onsite,2
+2024-Q1,People,Agency,5,Offer,1
+2024-Q1,People,Agency,6,Hired,1
+2024-Q1,People,Careers Site,1,Applied,146
+2024-Q1,People,Careers Site,2,Recruiter Screen,24
+2024-Q1,People,Careers Site,3,Hiring Manager Screen,10
+2024-Q1,People,Careers Site,4,Onsite,4
+2024-Q1,People,Careers Site,5,Offer,1
+2024-Q1,People,Careers Site,6,Hired,1
+2024-Q1,People,Internal,1,Applied,18
+2024-Q1,People,Internal,2,Recruiter Screen,14
+2024-Q1,People,Internal,3,Hiring Manager Screen,5
+2024-Q1,People,Internal,4,Onsite,1
+2024-Q1,People,Internal,5,Offer,0
+2024-Q1,People,Internal,6,Hired,0
+2024-Q1,People,Job Board,1,Applied,179
+2024-Q1,People,Job Board,2,Recruiter Screen,16
+2024-Q1,People,Job Board,3,Hiring Manager Screen,6
+2024-Q1,People,Job Board,4,Onsite,2
+2024-Q1,People,Job Board,5,Offer,1
+2024-Q1,People,Job Board,6,Hired,0
+2024-Q1,People,LinkedIn,1,Applied,100
+2024-Q1,People,LinkedIn,2,Recruiter Screen,15
+2024-Q1,People,LinkedIn,3,Hiring Manager Screen,7
+2024-Q1,People,LinkedIn,4,Onsite,2
+2024-Q1,People,LinkedIn,5,Offer,2
+2024-Q1,People,LinkedIn,6,Hired,2
+2024-Q1,People,Referral,1,Applied,38
+2024-Q1,People,Referral,2,Recruiter Screen,15
+2024-Q1,People,Referral,3,Hiring Manager Screen,9
+2024-Q1,People,Referral,4,Onsite,5
+2024-Q1,People,Referral,5,Offer,3
+2024-Q1,People,Referral,6,Hired,3
+2024-Q1,People,University,1,Applied,34
+2024-Q1,People,University,2,Recruiter Screen,7
+2024-Q1,People,University,3,Hiring Manager Screen,3
+2024-Q1,People,University,4,Onsite,0
+2024-Q1,People,University,5,Offer,0
+2024-Q1,People,University,6,Hired,0
+2024-Q1,People,Unknown,1,Applied,4
+2024-Q1,People,Unknown,2,Recruiter Screen,1
+2024-Q1,People,Unknown,3,Hiring Manager Screen,1
+2024-Q1,People,Unknown,4,Onsite,0
+2024-Q1,People,Unknown,5,Offer,0
+2024-Q1,People,Unknown,6,Hired,0
+2024-Q1,Service,Agency,1,Applied,15
+2024-Q1,Service,Agency,2,Recruiter Screen,5
+2024-Q1,Service,Agency,3,Hiring Manager Screen,3
+2024-Q1,Service,Agency,4,Onsite,1
+2024-Q1,Service,Agency,5,Offer,1
+2024-Q1,Service,Agency,6,Hired,1
+2024-Q1,Service,Careers Site,1,Applied,195
+2024-Q1,Service,Careers Site,2,Recruiter Screen,36
+2024-Q1,Service,Careers Site,3,Hiring Manager Screen,17
+2024-Q1,Service,Careers Site,4,Onsite,5
+2024-Q1,Service,Careers Site,5,Offer,1
+2024-Q1,Service,Careers Site,6,Hired,0
+2024-Q1,Service,Internal,1,Applied,24
+2024-Q1,Service,Internal,2,Recruiter Screen,14
+2024-Q1,Service,Internal,3,Hiring Manager Screen,8
+2024-Q1,Service,Internal,4,Onsite,5
+2024-Q1,Service,Internal,5,Offer,3
+2024-Q1,Service,Internal,6,Hired,3
+2024-Q1,Service,Job Board,1,Applied,220
+2024-Q1,Service,Job Board,2,Recruiter Screen,20
+2024-Q1,Service,Job Board,3,Hiring Manager Screen,9
+2024-Q1,Service,Job Board,4,Onsite,6
+2024-Q1,Service,Job Board,5,Offer,2
+2024-Q1,Service,Job Board,6,Hired,2
+2024-Q1,Service,LinkedIn,1,Applied,117
+2024-Q1,Service,LinkedIn,2,Recruiter Screen,26
+2024-Q1,Service,LinkedIn,3,Hiring Manager Screen,15
+2024-Q1,Service,LinkedIn,4,Onsite,4
+2024-Q1,Service,LinkedIn,5,Offer,1
+2024-Q1,Service,LinkedIn,6,Hired,1
+2024-Q1,Service,Referral,1,Applied,49
+2024-Q1,Service,Referral,2,Recruiter Screen,24
+2024-Q1,Service,Referral,3,Hiring Manager Screen,15
+2024-Q1,Service,Referral,4,Onsite,6
+2024-Q1,Service,Referral,5,Offer,1
+2024-Q1,Service,Referral,6,Hired,0
+2024-Q1,Service,University,1,Applied,26
+2024-Q1,Service,University,2,Recruiter Screen,5
+2024-Q1,Service,University,3,Hiring Manager Screen,2
+2024-Q1,Service,University,4,Onsite,1
+2024-Q1,Service,University,5,Offer,1
+2024-Q1,Service,University,6,Hired,1
+2024-Q1,Service,Unknown,1,Applied,11
+2024-Q1,Service,Unknown,2,Recruiter Screen,1
+2024-Q1,Service,Unknown,3,Hiring Manager Screen,0
+2024-Q1,Service,Unknown,4,Onsite,0
+2024-Q1,Service,Unknown,5,Offer,0
+2024-Q1,Service,Unknown,6,Hired,0
+2024-Q1,Supply Chain,Agency,1,Applied,41
+2024-Q1,Supply Chain,Agency,2,Recruiter Screen,22
+2024-Q1,Supply Chain,Agency,3,Hiring Manager Screen,13
+2024-Q1,Supply Chain,Agency,4,Onsite,7
+2024-Q1,Supply Chain,Agency,5,Offer,2
+2024-Q1,Supply Chain,Agency,6,Hired,1
+2024-Q1,Supply Chain,Careers Site,1,Applied,273
+2024-Q1,Supply Chain,Careers Site,2,Recruiter Screen,55
+2024-Q1,Supply Chain,Careers Site,3,Hiring Manager Screen,28
+2024-Q1,Supply Chain,Careers Site,4,Onsite,14
+2024-Q1,Supply Chain,Careers Site,5,Offer,2
+2024-Q1,Supply Chain,Careers Site,6,Hired,2
+2024-Q1,Supply Chain,Internal,1,Applied,38
+2024-Q1,Supply Chain,Internal,2,Recruiter Screen,24
+2024-Q1,Supply Chain,Internal,3,Hiring Manager Screen,16
+2024-Q1,Supply Chain,Internal,4,Onsite,6
+2024-Q1,Supply Chain,Internal,5,Offer,4
+2024-Q1,Supply Chain,Internal,6,Hired,4
+2024-Q1,Supply Chain,Job Board,1,Applied,365
+2024-Q1,Supply Chain,Job Board,2,Recruiter Screen,45
+2024-Q1,Supply Chain,Job Board,3,Hiring Manager Screen,19
+2024-Q1,Supply Chain,Job Board,4,Onsite,3
+2024-Q1,Supply Chain,Job Board,5,Offer,0
+2024-Q1,Supply Chain,Job Board,6,Hired,0
+2024-Q1,Supply Chain,LinkedIn,1,Applied,177
+2024-Q1,Supply Chain,LinkedIn,2,Recruiter Screen,34
+2024-Q1,Supply Chain,LinkedIn,3,Hiring Manager Screen,16
+2024-Q1,Supply Chain,LinkedIn,4,Onsite,4
+2024-Q1,Supply Chain,LinkedIn,5,Offer,1
+2024-Q1,Supply Chain,LinkedIn,6,Hired,0
+2024-Q1,Supply Chain,Referral,1,Applied,93
+2024-Q1,Supply Chain,Referral,2,Recruiter Screen,47
+2024-Q1,Supply Chain,Referral,3,Hiring Manager Screen,27
+2024-Q1,Supply Chain,Referral,4,Onsite,6
+2024-Q1,Supply Chain,Referral,5,Offer,3
+2024-Q1,Supply Chain,Referral,6,Hired,2
+2024-Q1,Supply Chain,University,1,Applied,67
+2024-Q1,Supply Chain,University,2,Recruiter Screen,18
+2024-Q1,Supply Chain,University,3,Hiring Manager Screen,10
+2024-Q1,Supply Chain,University,4,Onsite,5
+2024-Q1,Supply Chain,University,5,Offer,3
+2024-Q1,Supply Chain,University,6,Hired,1
+2024-Q1,Supply Chain,Unknown,1,Applied,22
+2024-Q1,Supply Chain,Unknown,2,Recruiter Screen,4
+2024-Q1,Supply Chain,Unknown,3,Hiring Manager Screen,1
+2024-Q1,Supply Chain,Unknown,4,Onsite,0
+2024-Q1,Supply Chain,Unknown,5,Offer,0
+2024-Q1,Supply Chain,Unknown,6,Hired,0
+2024-Q1,Vehicle Software,Agency,1,Applied,16
+2024-Q1,Vehicle Software,Agency,2,Recruiter Screen,3
+2024-Q1,Vehicle Software,Agency,3,Hiring Manager Screen,1
+2024-Q1,Vehicle Software,Agency,4,Onsite,0
+2024-Q1,Vehicle Software,Agency,5,Offer,0
+2024-Q1,Vehicle Software,Agency,6,Hired,0
+2024-Q1,Vehicle Software,Careers Site,1,Applied,120
+2024-Q1,Vehicle Software,Careers Site,2,Recruiter Screen,18
+2024-Q1,Vehicle Software,Careers Site,3,Hiring Manager Screen,10
+2024-Q1,Vehicle Software,Careers Site,4,Onsite,2
+2024-Q1,Vehicle Software,Careers Site,5,Offer,0
+2024-Q1,Vehicle Software,Careers Site,6,Hired,0
+2024-Q1,Vehicle Software,Internal,1,Applied,14
+2024-Q1,Vehicle Software,Internal,2,Recruiter Screen,8
+2024-Q1,Vehicle Software,Internal,3,Hiring Manager Screen,1
+2024-Q1,Vehicle Software,Internal,4,Onsite,1
+2024-Q1,Vehicle Software,Internal,5,Offer,0
+2024-Q1,Vehicle Software,Internal,6,Hired,0
+2024-Q1,Vehicle Software,Job Board,1,Applied,180
+2024-Q1,Vehicle Software,Job Board,2,Recruiter Screen,20
+2024-Q1,Vehicle Software,Job Board,3,Hiring Manager Screen,8
+2024-Q1,Vehicle Software,Job Board,4,Onsite,3
+2024-Q1,Vehicle Software,Job Board,5,Offer,2
+2024-Q1,Vehicle Software,Job Board,6,Hired,1
+2024-Q1,Vehicle Software,LinkedIn,1,Applied,108
+2024-Q1,Vehicle Software,LinkedIn,2,Recruiter Screen,24
+2024-Q1,Vehicle Software,LinkedIn,3,Hiring Manager Screen,10
+2024-Q1,Vehicle Software,LinkedIn,4,Onsite,4
+2024-Q1,Vehicle Software,LinkedIn,5,Offer,2
+2024-Q1,Vehicle Software,LinkedIn,6,Hired,2
+2024-Q1,Vehicle Software,Referral,1,Applied,44
+2024-Q1,Vehicle Software,Referral,2,Recruiter Screen,23
+2024-Q1,Vehicle Software,Referral,3,Hiring Manager Screen,11
+2024-Q1,Vehicle Software,Referral,4,Onsite,1
+2024-Q1,Vehicle Software,Referral,5,Offer,1
+2024-Q1,Vehicle Software,Referral,6,Hired,1
+2024-Q1,Vehicle Software,University,1,Applied,27
+2024-Q1,Vehicle Software,University,2,Recruiter Screen,7
+2024-Q1,Vehicle Software,University,3,Hiring Manager Screen,2
+2024-Q1,Vehicle Software,University,4,Onsite,0
+2024-Q1,Vehicle Software,University,5,Offer,0
+2024-Q1,Vehicle Software,University,6,Hired,0
+2024-Q1,Vehicle Software,Unknown,1,Applied,10
+2024-Q1,Vehicle Software,Unknown,2,Recruiter Screen,1
+2024-Q1,Vehicle Software,Unknown,3,Hiring Manager Screen,0
+2024-Q1,Vehicle Software,Unknown,4,Onsite,0
+2024-Q1,Vehicle Software,Unknown,5,Offer,0
+2024-Q1,Vehicle Software,Unknown,6,Hired,0
+2024-Q2,AI & Robotics,Agency,1,Applied,50
+2024-Q2,AI & Robotics,Agency,2,Recruiter Screen,19
+2024-Q2,AI & Robotics,Agency,3,Hiring Manager Screen,14
+2024-Q2,AI & Robotics,Agency,4,Onsite,6
+2024-Q2,AI & Robotics,Agency,5,Offer,2
+2024-Q2,AI & Robotics,Agency,6,Hired,1
+2024-Q2,AI & Robotics,Careers Site,1,Applied,395
+2024-Q2,AI & Robotics,Careers Site,2,Recruiter Screen,83
+2024-Q2,AI & Robotics,Careers Site,3,Hiring Manager Screen,32
+2024-Q2,AI & Robotics,Careers Site,4,Onsite,11
+2024-Q2,AI & Robotics,Careers Site,5,Offer,2
+2024-Q2,AI & Robotics,Careers Site,6,Hired,2
+2024-Q2,AI & Robotics,Internal,1,Applied,53
+2024-Q2,AI & Robotics,Internal,2,Recruiter Screen,23
+2024-Q2,AI & Robotics,Internal,3,Hiring Manager Screen,13
+2024-Q2,AI & Robotics,Internal,4,Onsite,5
+2024-Q2,AI & Robotics,Internal,5,Offer,1
+2024-Q2,AI & Robotics,Internal,6,Hired,0
+2024-Q2,AI & Robotics,Job Board,1,Applied,476
+2024-Q2,AI & Robotics,Job Board,2,Recruiter Screen,65
+2024-Q2,AI & Robotics,Job Board,3,Hiring Manager Screen,19
+2024-Q2,AI & Robotics,Job Board,4,Onsite,5
+2024-Q2,AI & Robotics,Job Board,5,Offer,0
+2024-Q2,AI & Robotics,Job Board,6,Hired,0
+2024-Q2,AI & Robotics,LinkedIn,1,Applied,282
+2024-Q2,AI & Robotics,LinkedIn,2,Recruiter Screen,61
+2024-Q2,AI & Robotics,LinkedIn,3,Hiring Manager Screen,35
+2024-Q2,AI & Robotics,LinkedIn,4,Onsite,18
+2024-Q2,AI & Robotics,LinkedIn,5,Offer,3
+2024-Q2,AI & Robotics,LinkedIn,6,Hired,2
+2024-Q2,AI & Robotics,Referral,1,Applied,119
+2024-Q2,AI & Robotics,Referral,2,Recruiter Screen,47
+2024-Q2,AI & Robotics,Referral,3,Hiring Manager Screen,23
+2024-Q2,AI & Robotics,Referral,4,Onsite,10
+2024-Q2,AI & Robotics,Referral,5,Offer,3
+2024-Q2,AI & Robotics,Referral,6,Hired,2
+2024-Q2,AI & Robotics,University,1,Applied,86
+2024-Q2,AI & Robotics,University,2,Recruiter Screen,22
+2024-Q2,AI & Robotics,University,3,Hiring Manager Screen,12
+2024-Q2,AI & Robotics,University,4,Onsite,5
+2024-Q2,AI & Robotics,University,5,Offer,1
+2024-Q2,AI & Robotics,University,6,Hired,1
+2024-Q2,AI & Robotics,Unknown,1,Applied,36
+2024-Q2,AI & Robotics,Unknown,2,Recruiter Screen,6
+2024-Q2,AI & Robotics,Unknown,3,Hiring Manager Screen,5
+2024-Q2,AI & Robotics,Unknown,4,Onsite,2
+2024-Q2,AI & Robotics,Unknown,5,Offer,0
+2024-Q2,AI & Robotics,Unknown,6,Hired,0
+2024-Q2,Energy,Agency,1,Applied,38
+2024-Q2,Energy,Agency,2,Recruiter Screen,13
+2024-Q2,Energy,Agency,3,Hiring Manager Screen,6
+2024-Q2,Energy,Agency,4,Onsite,2
+2024-Q2,Energy,Agency,5,Offer,0
+2024-Q2,Energy,Agency,6,Hired,0
+2024-Q2,Energy,Careers Site,1,Applied,174
+2024-Q2,Energy,Careers Site,2,Recruiter Screen,29
+2024-Q2,Energy,Careers Site,3,Hiring Manager Screen,16
+2024-Q2,Energy,Careers Site,4,Onsite,8
+2024-Q2,Energy,Careers Site,5,Offer,3
+2024-Q2,Energy,Careers Site,6,Hired,2
+2024-Q2,Energy,Internal,1,Applied,21
+2024-Q2,Energy,Internal,2,Recruiter Screen,7
+2024-Q2,Energy,Internal,3,Hiring Manager Screen,4
+2024-Q2,Energy,Internal,4,Onsite,2
+2024-Q2,Energy,Internal,5,Offer,0
+2024-Q2,Energy,Internal,6,Hired,0
+2024-Q2,Energy,Job Board,1,Applied,207
+2024-Q2,Energy,Job Board,2,Recruiter Screen,21
+2024-Q2,Energy,Job Board,3,Hiring Manager Screen,4
+2024-Q2,Energy,Job Board,4,Onsite,1
+2024-Q2,Energy,Job Board,5,Offer,1
+2024-Q2,Energy,Job Board,6,Hired,1
+2024-Q2,Energy,LinkedIn,1,Applied,121
+2024-Q2,Energy,LinkedIn,2,Recruiter Screen,16
+2024-Q2,Energy,LinkedIn,3,Hiring Manager Screen,4
+2024-Q2,Energy,LinkedIn,4,Onsite,2
+2024-Q2,Energy,LinkedIn,5,Offer,1
+2024-Q2,Energy,LinkedIn,6,Hired,1
+2024-Q2,Energy,Referral,1,Applied,40
+2024-Q2,Energy,Referral,2,Recruiter Screen,19
+2024-Q2,Energy,Referral,3,Hiring Manager Screen,10
+2024-Q2,Energy,Referral,4,Onsite,4
+2024-Q2,Energy,Referral,5,Offer,2
+2024-Q2,Energy,Referral,6,Hired,2
+2024-Q2,Energy,University,1,Applied,28
+2024-Q2,Energy,University,2,Recruiter Screen,5
+2024-Q2,Energy,University,3,Hiring Manager Screen,1
+2024-Q2,Energy,University,4,Onsite,0
+2024-Q2,Energy,University,5,Offer,0
+2024-Q2,Energy,University,6,Hired,0
+2024-Q2,Energy,Unknown,1,Applied,10
+2024-Q2,Energy,Unknown,2,Recruiter Screen,1
+2024-Q2,Energy,Unknown,3,Hiring Manager Screen,1
+2024-Q2,Energy,Unknown,4,Onsite,1
+2024-Q2,Energy,Unknown,5,Offer,1
+2024-Q2,Energy,Unknown,6,Hired,1
+2024-Q2,Finance,Agency,1,Applied,15
+2024-Q2,Finance,Agency,2,Recruiter Screen,8
+2024-Q2,Finance,Agency,3,Hiring Manager Screen,4
+2024-Q2,Finance,Agency,4,Onsite,2
+2024-Q2,Finance,Agency,5,Offer,0
+2024-Q2,Finance,Agency,6,Hired,0
+2024-Q2,Finance,Careers Site,1,Applied,63
+2024-Q2,Finance,Careers Site,2,Recruiter Screen,12
+2024-Q2,Finance,Careers Site,3,Hiring Manager Screen,4
+2024-Q2,Finance,Careers Site,4,Onsite,2
+2024-Q2,Finance,Careers Site,5,Offer,1
+2024-Q2,Finance,Careers Site,6,Hired,1
+2024-Q2,Finance,Internal,1,Applied,11
+2024-Q2,Finance,Internal,2,Recruiter Screen,3
+2024-Q2,Finance,Internal,3,Hiring Manager Screen,3
+2024-Q2,Finance,Internal,4,Onsite,2
+2024-Q2,Finance,Internal,5,Offer,0
+2024-Q2,Finance,Internal,6,Hired,0
+2024-Q2,Finance,Job Board,1,Applied,80
+2024-Q2,Finance,Job Board,2,Recruiter Screen,8
+2024-Q2,Finance,Job Board,3,Hiring Manager Screen,6
+2024-Q2,Finance,Job Board,4,Onsite,3
+2024-Q2,Finance,Job Board,5,Offer,2
+2024-Q2,Finance,Job Board,6,Hired,2
+2024-Q2,Finance,LinkedIn,1,Applied,45
+2024-Q2,Finance,LinkedIn,2,Recruiter Screen,4
+2024-Q2,Finance,LinkedIn,3,Hiring Manager Screen,2
+2024-Q2,Finance,LinkedIn,4,Onsite,0
+2024-Q2,Finance,LinkedIn,5,Offer,0
+2024-Q2,Finance,LinkedIn,6,Hired,0
+2024-Q2,Finance,Referral,1,Applied,16
+2024-Q2,Finance,Referral,2,Recruiter Screen,5
+2024-Q2,Finance,Referral,3,Hiring Manager Screen,1
+2024-Q2,Finance,Referral,4,Onsite,0
+2024-Q2,Finance,Referral,5,Offer,0
+2024-Q2,Finance,Referral,6,Hired,0
+2024-Q2,Finance,University,1,Applied,15
+2024-Q2,Finance,University,2,Recruiter Screen,3
+2024-Q2,Finance,University,3,Hiring Manager Screen,1
+2024-Q2,Finance,University,4,Onsite,0
+2024-Q2,Finance,University,5,Offer,0
+2024-Q2,Finance,University,6,Hired,0
+2024-Q2,Finance,Unknown,1,Applied,5
+2024-Q2,Finance,Unknown,2,Recruiter Screen,1
+2024-Q2,Finance,Unknown,3,Hiring Manager Screen,1
+2024-Q2,Finance,Unknown,4,Onsite,1
+2024-Q2,Finance,Unknown,5,Offer,1
+2024-Q2,Finance,Unknown,6,Hired,1
+2024-Q2,Manufacturing,Agency,1,Applied,73
+2024-Q2,Manufacturing,Agency,2,Recruiter Screen,24
+2024-Q2,Manufacturing,Agency,3,Hiring Manager Screen,10
+2024-Q2,Manufacturing,Agency,4,Onsite,7
+2024-Q2,Manufacturing,Agency,5,Offer,2
+2024-Q2,Manufacturing,Agency,6,Hired,2
+2024-Q2,Manufacturing,Careers Site,1,Applied,422
+2024-Q2,Manufacturing,Careers Site,2,Recruiter Screen,73
+2024-Q2,Manufacturing,Careers Site,3,Hiring Manager Screen,30
+2024-Q2,Manufacturing,Careers Site,4,Onsite,14
+2024-Q2,Manufacturing,Careers Site,5,Offer,4
+2024-Q2,Manufacturing,Careers Site,6,Hired,4
+2024-Q2,Manufacturing,Internal,1,Applied,38
+2024-Q2,Manufacturing,Internal,2,Recruiter Screen,22
+2024-Q2,Manufacturing,Internal,3,Hiring Manager Screen,15
+2024-Q2,Manufacturing,Internal,4,Onsite,9
+2024-Q2,Manufacturing,Internal,5,Offer,2
+2024-Q2,Manufacturing,Internal,6,Hired,2
+2024-Q2,Manufacturing,Job Board,1,Applied,576
+2024-Q2,Manufacturing,Job Board,2,Recruiter Screen,72
+2024-Q2,Manufacturing,Job Board,3,Hiring Manager Screen,24
+2024-Q2,Manufacturing,Job Board,4,Onsite,7
+2024-Q2,Manufacturing,Job Board,5,Offer,0
+2024-Q2,Manufacturing,Job Board,6,Hired,0
+2024-Q2,Manufacturing,LinkedIn,1,Applied,294
+2024-Q2,Manufacturing,LinkedIn,2,Recruiter Screen,55
+2024-Q2,Manufacturing,LinkedIn,3,Hiring Manager Screen,22
+2024-Q2,Manufacturing,LinkedIn,4,Onsite,6
+2024-Q2,Manufacturing,LinkedIn,5,Offer,3
+2024-Q2,Manufacturing,LinkedIn,6,Hired,2
+2024-Q2,Manufacturing,Referral,1,Applied,149
+2024-Q2,Manufacturing,Referral,2,Recruiter Screen,68
+2024-Q2,Manufacturing,Referral,3,Hiring Manager Screen,36
+2024-Q2,Manufacturing,Referral,4,Onsite,13
+2024-Q2,Manufacturing,Referral,5,Offer,5
+2024-Q2,Manufacturing,Referral,6,Hired,5
+2024-Q2,Manufacturing,University,1,Applied,92
+2024-Q2,Manufacturing,University,2,Recruiter Screen,23
+2024-Q2,Manufacturing,University,3,Hiring Manager Screen,8
+2024-Q2,Manufacturing,University,4,Onsite,2
+2024-Q2,Manufacturing,University,5,Offer,1
+2024-Q2,Manufacturing,University,6,Hired,1
+2024-Q2,Manufacturing,Unknown,1,Applied,25
+2024-Q2,Manufacturing,Unknown,2,Recruiter Screen,5
+2024-Q2,Manufacturing,Unknown,3,Hiring Manager Screen,1
+2024-Q2,Manufacturing,Unknown,4,Onsite,0
+2024-Q2,Manufacturing,Unknown,5,Offer,0
+2024-Q2,Manufacturing,Unknown,6,Hired,0
+2024-Q2,People,Agency,1,Applied,38
+2024-Q2,People,Agency,2,Recruiter Screen,20
+2024-Q2,People,Agency,3,Hiring Manager Screen,11
+2024-Q2,People,Agency,4,Onsite,7
+2024-Q2,People,Agency,5,Offer,2
+2024-Q2,People,Agency,6,Hired,2
+2024-Q2,People,Careers Site,1,Applied,224
+2024-Q2,People,Careers Site,2,Recruiter Screen,43
+2024-Q2,People,Careers Site,3,Hiring Manager Screen,16
+2024-Q2,People,Careers Site,4,Onsite,1
+2024-Q2,People,Careers Site,5,Offer,0
+2024-Q2,People,Careers Site,6,Hired,0
+2024-Q2,People,Internal,1,Applied,29
+2024-Q2,People,Internal,2,Recruiter Screen,13
+2024-Q2,People,Internal,3,Hiring Manager Screen,6
+2024-Q2,People,Internal,4,Onsite,2
+2024-Q2,People,Internal,5,Offer,1
+2024-Q2,People,Internal,6,Hired,1
+2024-Q2,People,Job Board,1,Applied,264
+2024-Q2,People,Job Board,2,Recruiter Screen,30
+2024-Q2,People,Job Board,3,Hiring Manager Screen,10
+2024-Q2,People,Job Board,4,Onsite,4
+2024-Q2,People,Job Board,5,Offer,1
+2024-Q2,People,Job Board,6,Hired,0
+2024-Q2,People,LinkedIn,1,Applied,164
+2024-Q2,People,LinkedIn,2,Recruiter Screen,34
+2024-Q2,People,LinkedIn,3,Hiring Manager Screen,16
+2024-Q2,People,LinkedIn,4,Onsite,4
+2024-Q2,People,LinkedIn,5,Offer,1
+2024-Q2,People,LinkedIn,6,Hired,1
+2024-Q2,People,Referral,1,Applied,65
+2024-Q2,People,Referral,2,Recruiter Screen,27
+2024-Q2,People,Referral,3,Hiring Manager Screen,12
+2024-Q2,People,Referral,4,Onsite,5
+2024-Q2,People,Referral,5,Offer,0
+2024-Q2,People,Referral,6,Hired,0
+2024-Q2,People,University,1,Applied,44
+2024-Q2,People,University,2,Recruiter Screen,9
+2024-Q2,People,University,3,Hiring Manager Screen,5
+2024-Q2,People,University,4,Onsite,1
+2024-Q2,People,University,5,Offer,0
+2024-Q2,People,University,6,Hired,0
+2024-Q2,People,Unknown,1,Applied,20
+2024-Q2,People,Unknown,2,Recruiter Screen,4
+2024-Q2,People,Unknown,3,Hiring Manager Screen,3
+2024-Q2,People,Unknown,4,Onsite,1
+2024-Q2,People,Unknown,5,Offer,0
+2024-Q2,People,Unknown,6,Hired,0
+2024-Q2,Service,Agency,1,Applied,35
+2024-Q2,Service,Agency,2,Recruiter Screen,17
+2024-Q2,Service,Agency,3,Hiring Manager Screen,7
+2024-Q2,Service,Agency,4,Onsite,4
+2024-Q2,Service,Agency,5,Offer,0
+2024-Q2,Service,Agency,6,Hired,0
+2024-Q2,Service,Careers Site,1,Applied,258
+2024-Q2,Service,Careers Site,2,Recruiter Screen,46
+2024-Q2,Service,Careers Site,3,Hiring Manager Screen,20
+2024-Q2,Service,Careers Site,4,Onsite,9
+2024-Q2,Service,Careers Site,5,Offer,4
+2024-Q2,Service,Careers Site,6,Hired,1
+2024-Q2,Service,Internal,1,Applied,32
+2024-Q2,Service,Internal,2,Recruiter Screen,15
+2024-Q2,Service,Internal,3,Hiring Manager Screen,8
+2024-Q2,Service,Internal,4,Onsite,3
+2024-Q2,Service,Internal,5,Offer,0
+2024-Q2,Service,Internal,6,Hired,0
+2024-Q2,Service,Job Board,1,Applied,318
+2024-Q2,Service,Job Board,2,Recruiter Screen,39
+2024-Q2,Service,Job Board,3,Hiring Manager Screen,19
+2024-Q2,Service,Job Board,4,Onsite,3
+2024-Q2,Service,Job Board,5,Offer,1
+2024-Q2,Service,Job Board,6,Hired,1
+2024-Q2,Service,LinkedIn,1,Applied,171
+2024-Q2,Service,LinkedIn,2,Recruiter Screen,39
+2024-Q2,Service,LinkedIn,3,Hiring Manager Screen,18
+2024-Q2,Service,LinkedIn,4,Onsite,5
+2024-Q2,Service,LinkedIn,5,Offer,1
+2024-Q2,Service,LinkedIn,6,Hired,1
+2024-Q2,Service,Referral,1,Applied,85
+2024-Q2,Service,Referral,2,Recruiter Screen,38
+2024-Q2,Service,Referral,3,Hiring Manager Screen,19
+2024-Q2,Service,Referral,4,Onsite,8
+2024-Q2,Service,Referral,5,Offer,3
+2024-Q2,Service,Referral,6,Hired,3
+2024-Q2,Service,University,1,Applied,56
+2024-Q2,Service,University,2,Recruiter Screen,14
+2024-Q2,Service,University,3,Hiring Manager Screen,6
+2024-Q2,Service,University,4,Onsite,2
+2024-Q2,Service,University,5,Offer,1
+2024-Q2,Service,University,6,Hired,1
+2024-Q2,Service,Unknown,1,Applied,19
+2024-Q2,Service,Unknown,2,Recruiter Screen,4
+2024-Q2,Service,Unknown,3,Hiring Manager Screen,2
+2024-Q2,Service,Unknown,4,Onsite,2
+2024-Q2,Service,Unknown,5,Offer,0
+2024-Q2,Service,Unknown,6,Hired,0
+2024-Q2,Supply Chain,Agency,1,Applied,26
+2024-Q2,Supply Chain,Agency,2,Recruiter Screen,8
+2024-Q2,Supply Chain,Agency,3,Hiring Manager Screen,5
+2024-Q2,Supply Chain,Agency,4,Onsite,2
+2024-Q2,Supply Chain,Agency,5,Offer,1
+2024-Q2,Supply Chain,Agency,6,Hired,1
+2024-Q2,Supply Chain,Careers Site,1,Applied,151
+2024-Q2,Supply Chain,Careers Site,2,Recruiter Screen,23
+2024-Q2,Supply Chain,Careers Site,3,Hiring Manager Screen,11
+2024-Q2,Supply Chain,Careers Site,4,Onsite,4
+2024-Q2,Supply Chain,Careers Site,5,Offer,1
+2024-Q2,Supply Chain,Careers Site,6,Hired,1
+2024-Q2,Supply Chain,Internal,1,Applied,19
+2024-Q2,Supply Chain,Internal,2,Recruiter Screen,8
+2024-Q2,Supply Chain,Internal,3,Hiring Manager Screen,3
+2024-Q2,Supply Chain,Internal,4,Onsite,3
+2024-Q2,Supply Chain,Internal,5,Offer,1
+2024-Q2,Supply Chain,Internal,6,Hired,1
+2024-Q2,Supply Chain,Job Board,1,Applied,182
+2024-Q2,Supply Chain,Job Board,2,Recruiter Screen,34
+2024-Q2,Supply Chain,Job Board,3,Hiring Manager Screen,11
+2024-Q2,Supply Chain,Job Board,4,Onsite,4
+2024-Q2,Supply Chain,Job Board,5,Offer,1
+2024-Q2,Supply Chain,Job Board,6,Hired,0
+2024-Q2,Supply Chain,LinkedIn,1,Applied,99
+2024-Q2,Supply Chain,LinkedIn,2,Recruiter Screen,19
+2024-Q2,Supply Chain,LinkedIn,3,Hiring Manager Screen,5
+2024-Q2,Supply Chain,LinkedIn,4,Onsite,3
+2024-Q2,Supply Chain,LinkedIn,5,Offer,2
+2024-Q2,Supply Chain,LinkedIn,6,Hired,2
+2024-Q2,Supply Chain,Referral,1,Applied,54
+2024-Q2,Supply Chain,Referral,2,Recruiter Screen,23
+2024-Q2,Supply Chain,Referral,3,Hiring Manager Screen,12
+2024-Q2,Supply Chain,Referral,4,Onsite,4
+2024-Q2,Supply Chain,Referral,5,Offer,2
+2024-Q2,Supply Chain,Referral,6,Hired,2
+2024-Q2,Supply Chain,University,1,Applied,31
+2024-Q2,Supply Chain,University,2,Recruiter Screen,5
+2024-Q2,Supply Chain,University,3,Hiring Manager Screen,1
+2024-Q2,Supply Chain,University,4,Onsite,0
+2024-Q2,Supply Chain,University,5,Offer,0
+2024-Q2,Supply Chain,University,6,Hired,0
+2024-Q2,Supply Chain,Unknown,1,Applied,14
+2024-Q2,Supply Chain,Unknown,2,Recruiter Screen,4
+2024-Q2,Supply Chain,Unknown,3,Hiring Manager Screen,3
+2024-Q2,Supply Chain,Unknown,4,Onsite,0
+2024-Q2,Supply Chain,Unknown,5,Offer,0
+2024-Q2,Supply Chain,Unknown,6,Hired,0
+2024-Q2,Vehicle Software,Agency,1,Applied,29
+2024-Q2,Vehicle Software,Agency,2,Recruiter Screen,12
+2024-Q2,Vehicle Software,Agency,3,Hiring Manager Screen,5
+2024-Q2,Vehicle Software,Agency,4,Onsite,1
+2024-Q2,Vehicle Software,Agency,5,Offer,1
+2024-Q2,Vehicle Software,Agency,6,Hired,1
+2024-Q2,Vehicle Software,Careers Site,1,Applied,197
+2024-Q2,Vehicle Software,Careers Site,2,Recruiter Screen,30
+2024-Q2,Vehicle Software,Careers Site,3,Hiring Manager Screen,16
+2024-Q2,Vehicle Software,Careers Site,4,Onsite,9
+2024-Q2,Vehicle Software,Careers Site,5,Offer,3
+2024-Q2,Vehicle Software,Careers Site,6,Hired,3
+2024-Q2,Vehicle Software,Internal,1,Applied,21
+2024-Q2,Vehicle Software,Internal,2,Recruiter Screen,12
+2024-Q2,Vehicle Software,Internal,3,Hiring Manager Screen,8
+2024-Q2,Vehicle Software,Internal,4,Onsite,5
+2024-Q2,Vehicle Software,Internal,5,Offer,2
+2024-Q2,Vehicle Software,Internal,6,Hired,2
+2024-Q2,Vehicle Software,Job Board,1,Applied,261
+2024-Q2,Vehicle Software,Job Board,2,Recruiter Screen,36
+2024-Q2,Vehicle Software,Job Board,3,Hiring Manager Screen,16
+2024-Q2,Vehicle Software,Job Board,4,Onsite,2
+2024-Q2,Vehicle Software,Job Board,5,Offer,0
+2024-Q2,Vehicle Software,Job Board,6,Hired,0
+2024-Q2,Vehicle Software,LinkedIn,1,Applied,131
+2024-Q2,Vehicle Software,LinkedIn,2,Recruiter Screen,28
+2024-Q2,Vehicle Software,LinkedIn,3,Hiring Manager Screen,13
+2024-Q2,Vehicle Software,LinkedIn,4,Onsite,4
+2024-Q2,Vehicle Software,LinkedIn,5,Offer,1
+2024-Q2,Vehicle Software,LinkedIn,6,Hired,1
+2024-Q2,Vehicle Software,Referral,1,Applied,77
+2024-Q2,Vehicle Software,Referral,2,Recruiter Screen,33
+2024-Q2,Vehicle Software,Referral,3,Hiring Manager Screen,19
+2024-Q2,Vehicle Software,Referral,4,Onsite,13
+2024-Q2,Vehicle Software,Referral,5,Offer,5
+2024-Q2,Vehicle Software,Referral,6,Hired,2
+2024-Q2,Vehicle Software,University,1,Applied,54
+2024-Q2,Vehicle Software,University,2,Recruiter Screen,14
+2024-Q2,Vehicle Software,University,3,Hiring Manager Screen,5
+2024-Q2,Vehicle Software,University,4,Onsite,1
+2024-Q2,Vehicle Software,University,5,Offer,0
+2024-Q2,Vehicle Software,University,6,Hired,0
+2024-Q2,Vehicle Software,Unknown,1,Applied,19
+2024-Q2,Vehicle Software,Unknown,2,Recruiter Screen,6
+2024-Q2,Vehicle Software,Unknown,3,Hiring Manager Screen,2
+2024-Q2,Vehicle Software,Unknown,4,Onsite,0
+2024-Q2,Vehicle Software,Unknown,5,Offer,0
+2024-Q2,Vehicle Software,Unknown,6,Hired,0
+2024-Q3,AI & Robotics,Agency,1,Applied,41
+2024-Q3,AI & Robotics,Agency,2,Recruiter Screen,16
+2024-Q3,AI & Robotics,Agency,3,Hiring Manager Screen,7
+2024-Q3,AI & Robotics,Agency,4,Onsite,4
+2024-Q3,AI & Robotics,Agency,5,Offer,2
+2024-Q3,AI & Robotics,Agency,6,Hired,1
+2024-Q3,AI & Robotics,Careers Site,1,Applied,202
+2024-Q3,AI & Robotics,Careers Site,2,Recruiter Screen,55
+2024-Q3,AI & Robotics,Careers Site,3,Hiring Manager Screen,29
+2024-Q3,AI & Robotics,Careers Site,4,Onsite,11
+2024-Q3,AI & Robotics,Careers Site,5,Offer,1
+2024-Q3,AI & Robotics,Careers Site,6,Hired,1
+2024-Q3,AI & Robotics,Internal,1,Applied,25
+2024-Q3,AI & Robotics,Internal,2,Recruiter Screen,9
+2024-Q3,AI & Robotics,Internal,3,Hiring Manager Screen,7
+2024-Q3,AI & Robotics,Internal,4,Onsite,4
+2024-Q3,AI & Robotics,Internal,5,Offer,2
+2024-Q3,AI & Robotics,Internal,6,Hired,2
+2024-Q3,AI & Robotics,Job Board,1,Applied,255
+2024-Q3,AI & Robotics,Job Board,2,Recruiter Screen,30
+2024-Q3,AI & Robotics,Job Board,3,Hiring Manager Screen,7
+2024-Q3,AI & Robotics,Job Board,4,Onsite,3
+2024-Q3,AI & Robotics,Job Board,5,Offer,1
+2024-Q3,AI & Robotics,Job Board,6,Hired,0
+2024-Q3,AI & Robotics,LinkedIn,1,Applied,165
+2024-Q3,AI & Robotics,LinkedIn,2,Recruiter Screen,41
+2024-Q3,AI & Robotics,LinkedIn,3,Hiring Manager Screen,16
+2024-Q3,AI & Robotics,LinkedIn,4,Onsite,7
+2024-Q3,AI & Robotics,LinkedIn,5,Offer,1
+2024-Q3,AI & Robotics,LinkedIn,6,Hired,1
+2024-Q3,AI & Robotics,Referral,1,Applied,73
+2024-Q3,AI & Robotics,Referral,2,Recruiter Screen,37
+2024-Q3,AI & Robotics,Referral,3,Hiring Manager Screen,17
+2024-Q3,AI & Robotics,Referral,4,Onsite,8
+2024-Q3,AI & Robotics,Referral,5,Offer,3
+2024-Q3,AI & Robotics,Referral,6,Hired,3
+2024-Q3,AI & Robotics,University,1,Applied,59
+2024-Q3,AI & Robotics,University,2,Recruiter Screen,12
+2024-Q3,AI & Robotics,University,3,Hiring Manager Screen,5
+2024-Q3,AI & Robotics,University,4,Onsite,2
+2024-Q3,AI & Robotics,University,5,Offer,0
+2024-Q3,AI & Robotics,University,6,Hired,0
+2024-Q3,AI & Robotics,Unknown,1,Applied,8
+2024-Q3,AI & Robotics,Unknown,2,Recruiter Screen,1
+2024-Q3,AI & Robotics,Unknown,3,Hiring Manager Screen,1
+2024-Q3,AI & Robotics,Unknown,4,Onsite,0
+2024-Q3,AI & Robotics,Unknown,5,Offer,0
+2024-Q3,AI & Robotics,Unknown,6,Hired,0
+2024-Q3,Energy,Agency,1,Applied,20
+2024-Q3,Energy,Agency,2,Recruiter Screen,12
+2024-Q3,Energy,Agency,3,Hiring Manager Screen,5
+2024-Q3,Energy,Agency,4,Onsite,1
+2024-Q3,Energy,Agency,5,Offer,0
+2024-Q3,Energy,Agency,6,Hired,0
+2024-Q3,Energy,Careers Site,1,Applied,141
+2024-Q3,Energy,Careers Site,2,Recruiter Screen,33
+2024-Q3,Energy,Careers Site,3,Hiring Manager Screen,15
+2024-Q3,Energy,Careers Site,4,Onsite,3
+2024-Q3,Energy,Careers Site,5,Offer,1
+2024-Q3,Energy,Careers Site,6,Hired,0
+2024-Q3,Energy,Internal,1,Applied,12
+2024-Q3,Energy,Internal,2,Recruiter Screen,3
+2024-Q3,Energy,Internal,3,Hiring Manager Screen,2
+2024-Q3,Energy,Internal,4,Onsite,2
+2024-Q3,Energy,Internal,5,Offer,2
+2024-Q3,Energy,Internal,6,Hired,1
+2024-Q3,Energy,Job Board,1,Applied,167
+2024-Q3,Energy,Job Board,2,Recruiter Screen,23
+2024-Q3,Energy,Job Board,3,Hiring Manager Screen,7
+2024-Q3,Energy,Job Board,4,Onsite,0
+2024-Q3,Energy,Job Board,5,Offer,0
+2024-Q3,Energy,Job Board,6,Hired,0
+2024-Q3,Energy,LinkedIn,1,Applied,77
+2024-Q3,Energy,LinkedIn,2,Recruiter Screen,13
+2024-Q3,Energy,LinkedIn,3,Hiring Manager Screen,5
+2024-Q3,Energy,LinkedIn,4,Onsite,3
+2024-Q3,Energy,LinkedIn,5,Offer,1
+2024-Q3,Energy,LinkedIn,6,Hired,1
+2024-Q3,Energy,Referral,1,Applied,45
+2024-Q3,Energy,Referral,2,Recruiter Screen,27
+2024-Q3,Energy,Referral,3,Hiring Manager Screen,10
+2024-Q3,Energy,Referral,4,Onsite,3
+2024-Q3,Energy,Referral,5,Offer,0
+2024-Q3,Energy,Referral,6,Hired,0
+2024-Q3,Energy,University,1,Applied,41
+2024-Q3,Energy,University,2,Recruiter Screen,7
+2024-Q3,Energy,University,3,Hiring Manager Screen,4
+2024-Q3,Energy,University,4,Onsite,2
+2024-Q3,Energy,University,5,Offer,1
+2024-Q3,Energy,University,6,Hired,1
+2024-Q3,Energy,Unknown,1,Applied,13
+2024-Q3,Energy,Unknown,2,Recruiter Screen,3
+2024-Q3,Energy,Unknown,3,Hiring Manager Screen,2
+2024-Q3,Energy,Unknown,4,Onsite,1
+2024-Q3,Energy,Unknown,5,Offer,0
+2024-Q3,Energy,Unknown,6,Hired,0
+2024-Q3,Finance,Agency,1,Applied,20
+2024-Q3,Finance,Agency,2,Recruiter Screen,9
+2024-Q3,Finance,Agency,3,Hiring Manager Screen,4
+2024-Q3,Finance,Agency,4,Onsite,2
+2024-Q3,Finance,Agency,5,Offer,1
+2024-Q3,Finance,Agency,6,Hired,1
+2024-Q3,Finance,Careers Site,1,Applied,64
+2024-Q3,Finance,Careers Site,2,Recruiter Screen,12
+2024-Q3,Finance,Careers Site,3,Hiring Manager Screen,7
+2024-Q3,Finance,Careers Site,4,Onsite,3
+2024-Q3,Finance,Careers Site,5,Offer,1
+2024-Q3,Finance,Careers Site,6,Hired,1
+2024-Q3,Finance,Internal,1,Applied,4
+2024-Q3,Finance,Internal,2,Recruiter Screen,2
+2024-Q3,Finance,Internal,3,Hiring Manager Screen,1
+2024-Q3,Finance,Internal,4,Onsite,1
+2024-Q3,Finance,Internal,5,Offer,0
+2024-Q3,Finance,Internal,6,Hired,0
+2024-Q3,Finance,Job Board,1,Applied,89
+2024-Q3,Finance,Job Board,2,Recruiter Screen,7
+2024-Q3,Finance,Job Board,3,Hiring Manager Screen,1
+2024-Q3,Finance,Job Board,4,Onsite,0
+2024-Q3,Finance,Job Board,5,Offer,0
+2024-Q3,Finance,Job Board,6,Hired,0
+2024-Q3,Finance,LinkedIn,1,Applied,48
+2024-Q3,Finance,LinkedIn,2,Recruiter Screen,7
+2024-Q3,Finance,LinkedIn,3,Hiring Manager Screen,2
+2024-Q3,Finance,LinkedIn,4,Onsite,1
+2024-Q3,Finance,LinkedIn,5,Offer,0
+2024-Q3,Finance,LinkedIn,6,Hired,0
+2024-Q3,Finance,Referral,1,Applied,19
+2024-Q3,Finance,Referral,2,Recruiter Screen,7
+2024-Q3,Finance,Referral,3,Hiring Manager Screen,1
+2024-Q3,Finance,Referral,4,Onsite,0
+2024-Q3,Finance,Referral,5,Offer,0
+2024-Q3,Finance,Referral,6,Hired,0
+2024-Q3,Finance,University,1,Applied,10
+2024-Q3,Finance,University,2,Recruiter Screen,1
+2024-Q3,Finance,University,3,Hiring Manager Screen,1
+2024-Q3,Finance,University,4,Onsite,1
+2024-Q3,Finance,University,5,Offer,0
+2024-Q3,Finance,University,6,Hired,0
+2024-Q3,Finance,Unknown,1,Applied,7
+2024-Q3,Finance,Unknown,2,Recruiter Screen,2
+2024-Q3,Finance,Unknown,3,Hiring Manager Screen,1
+2024-Q3,Finance,Unknown,4,Onsite,0
+2024-Q3,Finance,Unknown,5,Offer,0
+2024-Q3,Finance,Unknown,6,Hired,0
+2024-Q3,Manufacturing,Agency,1,Applied,75
+2024-Q3,Manufacturing,Agency,2,Recruiter Screen,33
+2024-Q3,Manufacturing,Agency,3,Hiring Manager Screen,16
+2024-Q3,Manufacturing,Agency,4,Onsite,5
+2024-Q3,Manufacturing,Agency,5,Offer,2
+2024-Q3,Manufacturing,Agency,6,Hired,2
+2024-Q3,Manufacturing,Careers Site,1,Applied,420
+2024-Q3,Manufacturing,Careers Site,2,Recruiter Screen,79
+2024-Q3,Manufacturing,Careers Site,3,Hiring Manager Screen,39
+2024-Q3,Manufacturing,Careers Site,4,Onsite,16
+2024-Q3,Manufacturing,Careers Site,5,Offer,3
+2024-Q3,Manufacturing,Careers Site,6,Hired,0
+2024-Q3,Manufacturing,Internal,1,Applied,57
+2024-Q3,Manufacturing,Internal,2,Recruiter Screen,34
+2024-Q3,Manufacturing,Internal,3,Hiring Manager Screen,19
+2024-Q3,Manufacturing,Internal,4,Onsite,11
+2024-Q3,Manufacturing,Internal,5,Offer,1
+2024-Q3,Manufacturing,Internal,6,Hired,0
+2024-Q3,Manufacturing,Job Board,1,Applied,549
+2024-Q3,Manufacturing,Job Board,2,Recruiter Screen,64
+2024-Q3,Manufacturing,Job Board,3,Hiring Manager Screen,25
+2024-Q3,Manufacturing,Job Board,4,Onsite,7
+2024-Q3,Manufacturing,Job Board,5,Offer,4
+2024-Q3,Manufacturing,Job Board,6,Hired,2
+2024-Q3,Manufacturing,LinkedIn,1,Applied,317
+2024-Q3,Manufacturing,LinkedIn,2,Recruiter Screen,72
+2024-Q3,Manufacturing,LinkedIn,3,Hiring Manager Screen,30
+2024-Q3,Manufacturing,LinkedIn,4,Onsite,11
+2024-Q3,Manufacturing,LinkedIn,5,Offer,5
+2024-Q3,Manufacturing,LinkedIn,6,Hired,4
+2024-Q3,Manufacturing,Referral,1,Applied,138
+2024-Q3,Manufacturing,Referral,2,Recruiter Screen,63
+2024-Q3,Manufacturing,Referral,3,Hiring Manager Screen,38
+2024-Q3,Manufacturing,Referral,4,Onsite,21
+2024-Q3,Manufacturing,Referral,5,Offer,8
+2024-Q3,Manufacturing,Referral,6,Hired,5
+2024-Q3,Manufacturing,University,1,Applied,91
+2024-Q3,Manufacturing,University,2,Recruiter Screen,20
+2024-Q3,Manufacturing,University,3,Hiring Manager Screen,10
+2024-Q3,Manufacturing,University,4,Onsite,5
+2024-Q3,Manufacturing,University,5,Offer,2
+2024-Q3,Manufacturing,University,6,Hired,2
+2024-Q3,Manufacturing,Unknown,1,Applied,29
+2024-Q3,Manufacturing,Unknown,2,Recruiter Screen,5
+2024-Q3,Manufacturing,Unknown,3,Hiring Manager Screen,2
+2024-Q3,Manufacturing,Unknown,4,Onsite,2
+2024-Q3,Manufacturing,Unknown,5,Offer,1
+2024-Q3,Manufacturing,Unknown,6,Hired,0
+2024-Q3,People,Agency,1,Applied,23
+2024-Q3,People,Agency,2,Recruiter Screen,11
+2024-Q3,People,Agency,3,Hiring Manager Screen,8
+2024-Q3,People,Agency,4,Onsite,3
+2024-Q3,People,Agency,5,Offer,1
+2024-Q3,People,Agency,6,Hired,1
+2024-Q3,People,Careers Site,1,Applied,126
+2024-Q3,People,Careers Site,2,Recruiter Screen,24
+2024-Q3,People,Careers Site,3,Hiring Manager Screen,8
+2024-Q3,People,Careers Site,4,Onsite,4
+2024-Q3,People,Careers Site,5,Offer,1
+2024-Q3,People,Careers Site,6,Hired,1
+2024-Q3,People,Internal,1,Applied,18
+2024-Q3,People,Internal,2,Recruiter Screen,7
+2024-Q3,People,Internal,3,Hiring Manager Screen,4
+2024-Q3,People,Internal,4,Onsite,1
+2024-Q3,People,Internal,5,Offer,0
+2024-Q3,People,Internal,6,Hired,0
+2024-Q3,People,Job Board,1,Applied,203
+2024-Q3,People,Job Board,2,Recruiter Screen,17
+2024-Q3,People,Job Board,3,Hiring Manager Screen,10
+2024-Q3,People,Job Board,4,Onsite,6
+2024-Q3,People,Job Board,5,Offer,3
+2024-Q3,People,Job Board,6,Hired,3
+2024-Q3,People,LinkedIn,1,Applied,99
+2024-Q3,People,LinkedIn,2,Recruiter Screen,22
+2024-Q3,People,LinkedIn,3,Hiring Manager Screen,8
+2024-Q3,People,LinkedIn,4,Onsite,2
+2024-Q3,People,LinkedIn,5,Offer,0
+2024-Q3,People,LinkedIn,6,Hired,0
+2024-Q3,People,Referral,1,Applied,43
+2024-Q3,People,Referral,2,Recruiter Screen,22
+2024-Q3,People,Referral,3,Hiring Manager Screen,12
+2024-Q3,People,Referral,4,Onsite,6
+2024-Q3,People,Referral,5,Offer,3
+2024-Q3,People,Referral,6,Hired,3
+2024-Q3,People,University,1,Applied,29
+2024-Q3,People,University,2,Recruiter Screen,4
+2024-Q3,People,University,3,Hiring Manager Screen,1
+2024-Q3,People,University,4,Onsite,0
+2024-Q3,People,University,5,Offer,0
+2024-Q3,People,University,6,Hired,0
+2024-Q3,People,Unknown,1,Applied,7
+2024-Q3,People,Unknown,2,Recruiter Screen,0
+2024-Q3,People,Unknown,3,Hiring Manager Screen,0
+2024-Q3,People,Unknown,4,Onsite,0
+2024-Q3,People,Unknown,5,Offer,0
+2024-Q3,People,Unknown,6,Hired,0
+2024-Q3,Service,Agency,1,Applied,41
+2024-Q3,Service,Agency,2,Recruiter Screen,16
+2024-Q3,Service,Agency,3,Hiring Manager Screen,8
+2024-Q3,Service,Agency,4,Onsite,4
+2024-Q3,Service,Agency,5,Offer,1
+2024-Q3,Service,Agency,6,Hired,0
+2024-Q3,Service,Careers Site,1,Applied,218
+2024-Q3,Service,Careers Site,2,Recruiter Screen,46
+2024-Q3,Service,Careers Site,3,Hiring Manager Screen,20
+2024-Q3,Service,Careers Site,4,Onsite,7
+2024-Q3,Service,Careers Site,5,Offer,1
+2024-Q3,Service,Careers Site,6,Hired,1
+2024-Q3,Service,Internal,1,Applied,35
+2024-Q3,Service,Internal,2,Recruiter Screen,19
+2024-Q3,Service,Internal,3,Hiring Manager Screen,11
+2024-Q3,Service,Internal,4,Onsite,3
+2024-Q3,Service,Internal,5,Offer,2
+2024-Q3,Service,Internal,6,Hired,0
+2024-Q3,Service,Job Board,1,Applied,318
+2024-Q3,Service,Job Board,2,Recruiter Screen,52
+2024-Q3,Service,Job Board,3,Hiring Manager Screen,18
+2024-Q3,Service,Job Board,4,Onsite,7
+2024-Q3,Service,Job Board,5,Offer,4
+2024-Q3,Service,Job Board,6,Hired,4
+2024-Q3,Service,LinkedIn,1,Applied,174
+2024-Q3,Service,LinkedIn,2,Recruiter Screen,38
+2024-Q3,Service,LinkedIn,3,Hiring Manager Screen,11
+2024-Q3,Service,LinkedIn,4,Onsite,3
+2024-Q3,Service,LinkedIn,5,Offer,1
+2024-Q3,Service,LinkedIn,6,Hired,1
+2024-Q3,Service,Referral,1,Applied,79
+2024-Q3,Service,Referral,2,Recruiter Screen,42
+2024-Q3,Service,Referral,3,Hiring Manager Screen,25
+2024-Q3,Service,Referral,4,Onsite,6
+2024-Q3,Service,Referral,5,Offer,3
+2024-Q3,Service,Referral,6,Hired,2
+2024-Q3,Service,University,1,Applied,63
+2024-Q3,Service,University,2,Recruiter Screen,21
+2024-Q3,Service,University,3,Hiring Manager Screen,6
+2024-Q3,Service,University,4,Onsite,3
+2024-Q3,Service,University,5,Offer,2
+2024-Q3,Service,University,6,Hired,2
+2024-Q3,Service,Unknown,1,Applied,20
+2024-Q3,Service,Unknown,2,Recruiter Screen,2
+2024-Q3,Service,Unknown,3,Hiring Manager Screen,1
+2024-Q3,Service,Unknown,4,Onsite,1
+2024-Q3,Service,Unknown,5,Offer,0
+2024-Q3,Service,Unknown,6,Hired,0
+2024-Q3,Supply Chain,Agency,1,Applied,39
+2024-Q3,Supply Chain,Agency,2,Recruiter Screen,14
+2024-Q3,Supply Chain,Agency,3,Hiring Manager Screen,7
+2024-Q3,Supply Chain,Agency,4,Onsite,0
+2024-Q3,Supply Chain,Agency,5,Offer,0
+2024-Q3,Supply Chain,Agency,6,Hired,0
+2024-Q3,Supply Chain,Careers Site,1,Applied,197
+2024-Q3,Supply Chain,Careers Site,2,Recruiter Screen,37
+2024-Q3,Supply Chain,Careers Site,3,Hiring Manager Screen,15
+2024-Q3,Supply Chain,Careers Site,4,Onsite,8
+2024-Q3,Supply Chain,Careers Site,5,Offer,2
+2024-Q3,Supply Chain,Careers Site,6,Hired,1
+2024-Q3,Supply Chain,Internal,1,Applied,17
+2024-Q3,Supply Chain,Internal,2,Recruiter Screen,9
+2024-Q3,Supply Chain,Internal,3,Hiring Manager Screen,5
+2024-Q3,Supply Chain,Internal,4,Onsite,3
+2024-Q3,Supply Chain,Internal,5,Offer,0
+2024-Q3,Supply Chain,Internal,6,Hired,0
+2024-Q3,Supply Chain,Job Board,1,Applied,293
+2024-Q3,Supply Chain,Job Board,2,Recruiter Screen,29
+2024-Q3,Supply Chain,Job Board,3,Hiring Manager Screen,10
+2024-Q3,Supply Chain,Job Board,4,Onsite,4
+2024-Q3,Supply Chain,Job Board,5,Offer,2
+2024-Q3,Supply Chain,Job Board,6,Hired,2
+2024-Q3,Supply Chain,LinkedIn,1,Applied,116
+2024-Q3,Supply Chain,LinkedIn,2,Recruiter Screen,23
+2024-Q3,Supply Chain,LinkedIn,3,Hiring Manager Screen,10
+2024-Q3,Supply Chain,LinkedIn,4,Onsite,4
+2024-Q3,Supply Chain,LinkedIn,5,Offer,1
+2024-Q3,Supply Chain,LinkedIn,6,Hired,1
+2024-Q3,Supply Chain,Referral,1,Applied,59
+2024-Q3,Supply Chain,Referral,2,Recruiter Screen,22
+2024-Q3,Supply Chain,Referral,3,Hiring Manager Screen,13
+2024-Q3,Supply Chain,Referral,4,Onsite,7
+2024-Q3,Supply Chain,Referral,5,Offer,5
+2024-Q3,Supply Chain,Referral,6,Hired,5
+2024-Q3,Supply Chain,University,1,Applied,53
+2024-Q3,Supply Chain,University,2,Recruiter Screen,12
+2024-Q3,Supply Chain,University,3,Hiring Manager Screen,6
+2024-Q3,Supply Chain,University,4,Onsite,3
+2024-Q3,Supply Chain,University,5,Offer,0
+2024-Q3,Supply Chain,University,6,Hired,0
+2024-Q3,Supply Chain,Unknown,1,Applied,16
+2024-Q3,Supply Chain,Unknown,2,Recruiter Screen,5
+2024-Q3,Supply Chain,Unknown,3,Hiring Manager Screen,2
+2024-Q3,Supply Chain,Unknown,4,Onsite,1
+2024-Q3,Supply Chain,Unknown,5,Offer,0
+2024-Q3,Supply Chain,Unknown,6,Hired,0
+2024-Q3,Vehicle Software,Agency,1,Applied,37
+2024-Q3,Vehicle Software,Agency,2,Recruiter Screen,13
+2024-Q3,Vehicle Software,Agency,3,Hiring Manager Screen,8
+2024-Q3,Vehicle Software,Agency,4,Onsite,5
+2024-Q3,Vehicle Software,Agency,5,Offer,2
+2024-Q3,Vehicle Software,Agency,6,Hired,2
+2024-Q3,Vehicle Software,Careers Site,1,Applied,201
+2024-Q3,Vehicle Software,Careers Site,2,Recruiter Screen,34
+2024-Q3,Vehicle Software,Careers Site,3,Hiring Manager Screen,16
+2024-Q3,Vehicle Software,Careers Site,4,Onsite,6
+2024-Q3,Vehicle Software,Careers Site,5,Offer,0
+2024-Q3,Vehicle Software,Careers Site,6,Hired,0
+2024-Q3,Vehicle Software,Internal,1,Applied,29
+2024-Q3,Vehicle Software,Internal,2,Recruiter Screen,11
+2024-Q3,Vehicle Software,Internal,3,Hiring Manager Screen,6
+2024-Q3,Vehicle Software,Internal,4,Onsite,2
+2024-Q3,Vehicle Software,Internal,5,Offer,0
+2024-Q3,Vehicle Software,Internal,6,Hired,0
+2024-Q3,Vehicle Software,Job Board,1,Applied,269
+2024-Q3,Vehicle Software,Job Board,2,Recruiter Screen,38
+2024-Q3,Vehicle Software,Job Board,3,Hiring Manager Screen,9
+2024-Q3,Vehicle Software,Job Board,4,Onsite,3
+2024-Q3,Vehicle Software,Job Board,5,Offer,0
+2024-Q3,Vehicle Software,Job Board,6,Hired,0
+2024-Q3,Vehicle Software,LinkedIn,1,Applied,147
+2024-Q3,Vehicle Software,LinkedIn,2,Recruiter Screen,34
+2024-Q3,Vehicle Software,LinkedIn,3,Hiring Manager Screen,16
+2024-Q3,Vehicle Software,LinkedIn,4,Onsite,7
+2024-Q3,Vehicle Software,LinkedIn,5,Offer,3
+2024-Q3,Vehicle Software,LinkedIn,6,Hired,2
+2024-Q3,Vehicle Software,Referral,1,Applied,64
+2024-Q3,Vehicle Software,Referral,2,Recruiter Screen,27
+2024-Q3,Vehicle Software,Referral,3,Hiring Manager Screen,13
+2024-Q3,Vehicle Software,Referral,4,Onsite,4
+2024-Q3,Vehicle Software,Referral,5,Offer,3
+2024-Q3,Vehicle Software,Referral,6,Hired,2
+2024-Q3,Vehicle Software,University,1,Applied,53
+2024-Q3,Vehicle Software,University,2,Recruiter Screen,5
+2024-Q3,Vehicle Software,University,3,Hiring Manager Screen,1
+2024-Q3,Vehicle Software,University,4,Onsite,0
+2024-Q3,Vehicle Software,University,5,Offer,0
+2024-Q3,Vehicle Software,University,6,Hired,0
+2024-Q3,Vehicle Software,Unknown,1,Applied,19
+2024-Q3,Vehicle Software,Unknown,2,Recruiter Screen,2
+2024-Q3,Vehicle Software,Unknown,3,Hiring Manager Screen,2
+2024-Q3,Vehicle Software,Unknown,4,Onsite,1
+2024-Q3,Vehicle Software,Unknown,5,Offer,0
+2024-Q3,Vehicle Software,Unknown,6,Hired,0
+2024-Q4,AI & Robotics,Agency,1,Applied,35
+2024-Q4,AI & Robotics,Agency,2,Recruiter Screen,16
+2024-Q4,AI & Robotics,Agency,3,Hiring Manager Screen,8
+2024-Q4,AI & Robotics,Agency,4,Onsite,3
+2024-Q4,AI & Robotics,Agency,5,Offer,1
+2024-Q4,AI & Robotics,Agency,6,Hired,1
+2024-Q4,AI & Robotics,Careers Site,1,Applied,261
+2024-Q4,AI & Robotics,Careers Site,2,Recruiter Screen,53
+2024-Q4,AI & Robotics,Careers Site,3,Hiring Manager Screen,24
+2024-Q4,AI & Robotics,Careers Site,4,Onsite,6
+2024-Q4,AI & Robotics,Careers Site,5,Offer,1
+2024-Q4,AI & Robotics,Careers Site,6,Hired,0
+2024-Q4,AI & Robotics,Internal,1,Applied,26
+2024-Q4,AI & Robotics,Internal,2,Recruiter Screen,10
+2024-Q4,AI & Robotics,Internal,3,Hiring Manager Screen,4
+2024-Q4,AI & Robotics,Internal,4,Onsite,2
+2024-Q4,AI & Robotics,Internal,5,Offer,0
+2024-Q4,AI & Robotics,Internal,6,Hired,0
+2024-Q4,AI & Robotics,Job Board,1,Applied,330
+2024-Q4,AI & Robotics,Job Board,2,Recruiter Screen,50
+2024-Q4,AI & Robotics,Job Board,3,Hiring Manager Screen,27
+2024-Q4,AI & Robotics,Job Board,4,Onsite,12
+2024-Q4,AI & Robotics,Job Board,5,Offer,2
+2024-Q4,AI & Robotics,Job Board,6,Hired,1
+2024-Q4,AI & Robotics,LinkedIn,1,Applied,161
+2024-Q4,AI & Robotics,LinkedIn,2,Recruiter Screen,31
+2024-Q4,AI & Robotics,LinkedIn,3,Hiring Manager Screen,13
+2024-Q4,AI & Robotics,LinkedIn,4,Onsite,4
+2024-Q4,AI & Robotics,LinkedIn,5,Offer,0
+2024-Q4,AI & Robotics,LinkedIn,6,Hired,0
+2024-Q4,AI & Robotics,Referral,1,Applied,77
+2024-Q4,AI & Robotics,Referral,2,Recruiter Screen,39
+2024-Q4,AI & Robotics,Referral,3,Hiring Manager Screen,16
+2024-Q4,AI & Robotics,Referral,4,Onsite,6
+2024-Q4,AI & Robotics,Referral,5,Offer,1
+2024-Q4,AI & Robotics,Referral,6,Hired,0
+2024-Q4,AI & Robotics,University,1,Applied,55
+2024-Q4,AI & Robotics,University,2,Recruiter Screen,15
+2024-Q4,AI & Robotics,University,3,Hiring Manager Screen,8
+2024-Q4,AI & Robotics,University,4,Onsite,1
+2024-Q4,AI & Robotics,University,5,Offer,0
+2024-Q4,AI & Robotics,University,6,Hired,0
+2024-Q4,AI & Robotics,Unknown,1,Applied,18
+2024-Q4,AI & Robotics,Unknown,2,Recruiter Screen,5
+2024-Q4,AI & Robotics,Unknown,3,Hiring Manager Screen,2
+2024-Q4,AI & Robotics,Unknown,4,Onsite,1
+2024-Q4,AI & Robotics,Unknown,5,Offer,0
+2024-Q4,AI & Robotics,Unknown,6,Hired,0
+2024-Q4,Energy,Agency,1,Applied,16
+2024-Q4,Energy,Agency,2,Recruiter Screen,6
+2024-Q4,Energy,Agency,3,Hiring Manager Screen,1
+2024-Q4,Energy,Agency,4,Onsite,1
+2024-Q4,Energy,Agency,5,Offer,0
+2024-Q4,Energy,Agency,6,Hired,0
+2024-Q4,Energy,Careers Site,1,Applied,136
+2024-Q4,Energy,Careers Site,2,Recruiter Screen,18
+2024-Q4,Energy,Careers Site,3,Hiring Manager Screen,5
+2024-Q4,Energy,Careers Site,4,Onsite,3
+2024-Q4,Energy,Careers Site,5,Offer,0
+2024-Q4,Energy,Careers Site,6,Hired,0
+2024-Q4,Energy,Internal,1,Applied,21
+2024-Q4,Energy,Internal,2,Recruiter Screen,9
+2024-Q4,Energy,Internal,3,Hiring Manager Screen,5
+2024-Q4,Energy,Internal,4,Onsite,4
+2024-Q4,Energy,Internal,5,Offer,0
+2024-Q4,Energy,Internal,6,Hired,0
+2024-Q4,Energy,Job Board,1,Applied,140
+2024-Q4,Energy,Job Board,2,Recruiter Screen,11
+2024-Q4,Energy,Job Board,3,Hiring Manager Screen,3
+2024-Q4,Energy,Job Board,4,Onsite,0
+2024-Q4,Energy,Job Board,5,Offer,0
+2024-Q4,Energy,Job Board,6,Hired,0
+2024-Q4,Energy,LinkedIn,1,Applied,90
+2024-Q4,Energy,LinkedIn,2,Recruiter Screen,19
+2024-Q4,Energy,LinkedIn,3,Hiring Manager Screen,7
+2024-Q4,Energy,LinkedIn,4,Onsite,4
+2024-Q4,Energy,LinkedIn,5,Offer,2
+2024-Q4,Energy,LinkedIn,6,Hired,1
+2024-Q4,Energy,Referral,1,Applied,34
+2024-Q4,Energy,Referral,2,Recruiter Screen,18
+2024-Q4,Energy,Referral,3,Hiring Manager Screen,9
+2024-Q4,Energy,Referral,4,Onsite,5
+2024-Q4,Energy,Referral,5,Offer,3
+2024-Q4,Energy,Referral,6,Hired,3
+2024-Q4,Energy,University,1,Applied,18
+2024-Q4,Energy,University,2,Recruiter Screen,8
+2024-Q4,Energy,University,3,Hiring Manager Screen,5
+2024-Q4,Energy,University,4,Onsite,2
+2024-Q4,Energy,University,5,Offer,0
+2024-Q4,Energy,University,6,Hired,0
+2024-Q4,Energy,Unknown,1,Applied,6
+2024-Q4,Energy,Unknown,2,Recruiter Screen,0
+2024-Q4,Energy,Unknown,3,Hiring Manager Screen,0
+2024-Q4,Energy,Unknown,4,Onsite,0
+2024-Q4,Energy,Unknown,5,Offer,0
+2024-Q4,Energy,Unknown,6,Hired,0
+2024-Q4,Finance,Agency,1,Applied,19
+2024-Q4,Finance,Agency,2,Recruiter Screen,5
+2024-Q4,Finance,Agency,3,Hiring Manager Screen,3
+2024-Q4,Finance,Agency,4,Onsite,1
+2024-Q4,Finance,Agency,5,Offer,0
+2024-Q4,Finance,Agency,6,Hired,0
+2024-Q4,Finance,Careers Site,1,Applied,165
+2024-Q4,Finance,Careers Site,2,Recruiter Screen,32
+2024-Q4,Finance,Careers Site,3,Hiring Manager Screen,18
+2024-Q4,Finance,Careers Site,4,Onsite,7
+2024-Q4,Finance,Careers Site,5,Offer,2
+2024-Q4,Finance,Careers Site,6,Hired,2
+2024-Q4,Finance,Internal,1,Applied,14
+2024-Q4,Finance,Internal,2,Recruiter Screen,9
+2024-Q4,Finance,Internal,3,Hiring Manager Screen,5
+2024-Q4,Finance,Internal,4,Onsite,3
+2024-Q4,Finance,Internal,5,Offer,1
+2024-Q4,Finance,Internal,6,Hired,1
+2024-Q4,Finance,Job Board,1,Applied,200
+2024-Q4,Finance,Job Board,2,Recruiter Screen,22
+2024-Q4,Finance,Job Board,3,Hiring Manager Screen,8
+2024-Q4,Finance,Job Board,4,Onsite,5
+2024-Q4,Finance,Job Board,5,Offer,1
+2024-Q4,Finance,Job Board,6,Hired,0
+2024-Q4,Finance,LinkedIn,1,Applied,106
+2024-Q4,Finance,LinkedIn,2,Recruiter Screen,22
+2024-Q4,Finance,LinkedIn,3,Hiring Manager Screen,9
+2024-Q4,Finance,LinkedIn,4,Onsite,4
+2024-Q4,Finance,LinkedIn,5,Offer,0
+2024-Q4,Finance,LinkedIn,6,Hired,0
+2024-Q4,Finance,Referral,1,Applied,48
+2024-Q4,Finance,Referral,2,Recruiter Screen,24
+2024-Q4,Finance,Referral,3,Hiring Manager Screen,14
+2024-Q4,Finance,Referral,4,Onsite,4
+2024-Q4,Finance,Referral,5,Offer,1
+2024-Q4,Finance,Referral,6,Hired,1
+2024-Q4,Finance,University,1,Applied,32
+2024-Q4,Finance,University,2,Recruiter Screen,8
+2024-Q4,Finance,University,3,Hiring Manager Screen,2
+2024-Q4,Finance,University,4,Onsite,2
+2024-Q4,Finance,University,5,Offer,1
+2024-Q4,Finance,University,6,Hired,0
+2024-Q4,Finance,Unknown,1,Applied,9
+2024-Q4,Finance,Unknown,2,Recruiter Screen,4
+2024-Q4,Finance,Unknown,3,Hiring Manager Screen,1
+2024-Q4,Finance,Unknown,4,Onsite,0
+2024-Q4,Finance,Unknown,5,Offer,0
+2024-Q4,Finance,Unknown,6,Hired,0
+2024-Q4,Manufacturing,Agency,1,Applied,57
+2024-Q4,Manufacturing,Agency,2,Recruiter Screen,21
+2024-Q4,Manufacturing,Agency,3,Hiring Manager Screen,11
+2024-Q4,Manufacturing,Agency,4,Onsite,6
+2024-Q4,Manufacturing,Agency,5,Offer,1
+2024-Q4,Manufacturing,Agency,6,Hired,0
+2024-Q4,Manufacturing,Careers Site,1,Applied,402
+2024-Q4,Manufacturing,Careers Site,2,Recruiter Screen,75
+2024-Q4,Manufacturing,Careers Site,3,Hiring Manager Screen,34
+2024-Q4,Manufacturing,Careers Site,4,Onsite,14
+2024-Q4,Manufacturing,Careers Site,5,Offer,4
+2024-Q4,Manufacturing,Careers Site,6,Hired,2
+2024-Q4,Manufacturing,Internal,1,Applied,53
+2024-Q4,Manufacturing,Internal,2,Recruiter Screen,26
+2024-Q4,Manufacturing,Internal,3,Hiring Manager Screen,13
+2024-Q4,Manufacturing,Internal,4,Onsite,4
+2024-Q4,Manufacturing,Internal,5,Offer,1
+2024-Q4,Manufacturing,Internal,6,Hired,1
+2024-Q4,Manufacturing,Job Board,1,Applied,510
+2024-Q4,Manufacturing,Job Board,2,Recruiter Screen,68
+2024-Q4,Manufacturing,Job Board,3,Hiring Manager Screen,27
+2024-Q4,Manufacturing,Job Board,4,Onsite,6
+2024-Q4,Manufacturing,Job Board,5,Offer,0
+2024-Q4,Manufacturing,Job Board,6,Hired,0
+2024-Q4,Manufacturing,LinkedIn,1,Applied,294
+2024-Q4,Manufacturing,LinkedIn,2,Recruiter Screen,52
+2024-Q4,Manufacturing,LinkedIn,3,Hiring Manager Screen,19
+2024-Q4,Manufacturing,LinkedIn,4,Onsite,7
+2024-Q4,Manufacturing,LinkedIn,5,Offer,5
+2024-Q4,Manufacturing,LinkedIn,6,Hired,4
+2024-Q4,Manufacturing,Referral,1,Applied,123
+2024-Q4,Manufacturing,Referral,2,Recruiter Screen,62
+2024-Q4,Manufacturing,Referral,3,Hiring Manager Screen,30
+2024-Q4,Manufacturing,Referral,4,Onsite,13
+2024-Q4,Manufacturing,Referral,5,Offer,3
+2024-Q4,Manufacturing,Referral,6,Hired,3
+2024-Q4,Manufacturing,University,1,Applied,76
+2024-Q4,Manufacturing,University,2,Recruiter Screen,21
+2024-Q4,Manufacturing,University,3,Hiring Manager Screen,8
+2024-Q4,Manufacturing,University,4,Onsite,2
+2024-Q4,Manufacturing,University,5,Offer,1
+2024-Q4,Manufacturing,University,6,Hired,1
+2024-Q4,Manufacturing,Unknown,1,Applied,23
+2024-Q4,Manufacturing,Unknown,2,Recruiter Screen,3
+2024-Q4,Manufacturing,Unknown,3,Hiring Manager Screen,2
+2024-Q4,Manufacturing,Unknown,4,Onsite,1
+2024-Q4,Manufacturing,Unknown,5,Offer,1
+2024-Q4,Manufacturing,Unknown,6,Hired,1
+2024-Q4,People,Agency,1,Applied,17
+2024-Q4,People,Agency,2,Recruiter Screen,7
+2024-Q4,People,Agency,3,Hiring Manager Screen,5
+2024-Q4,People,Agency,4,Onsite,1
+2024-Q4,People,Agency,5,Offer,0
+2024-Q4,People,Agency,6,Hired,0
+2024-Q4,People,Careers Site,1,Applied,130
+2024-Q4,People,Careers Site,2,Recruiter Screen,23
+2024-Q4,People,Careers Site,3,Hiring Manager Screen,9
+2024-Q4,People,Careers Site,4,Onsite,3
+2024-Q4,People,Careers Site,5,Offer,1
+2024-Q4,People,Careers Site,6,Hired,1
+2024-Q4,People,Internal,1,Applied,17
+2024-Q4,People,Internal,2,Recruiter Screen,8
+2024-Q4,People,Internal,3,Hiring Manager Screen,5
+2024-Q4,People,Internal,4,Onsite,2
+2024-Q4,People,Internal,5,Offer,0
+2024-Q4,People,Internal,6,Hired,0
+2024-Q4,People,Job Board,1,Applied,135
+2024-Q4,People,Job Board,2,Recruiter Screen,22
+2024-Q4,People,Job Board,3,Hiring Manager Screen,10
+2024-Q4,People,Job Board,4,Onsite,5
+2024-Q4,People,Job Board,5,Offer,0
+2024-Q4,People,Job Board,6,Hired,0
+2024-Q4,People,LinkedIn,1,Applied,69
+2024-Q4,People,LinkedIn,2,Recruiter Screen,13
+2024-Q4,People,LinkedIn,3,Hiring Manager Screen,7
+2024-Q4,People,LinkedIn,4,Onsite,3
+2024-Q4,People,LinkedIn,5,Offer,2
+2024-Q4,People,LinkedIn,6,Hired,2
+2024-Q4,People,Referral,1,Applied,41
+2024-Q4,People,Referral,2,Recruiter Screen,22
+2024-Q4,People,Referral,3,Hiring Manager Screen,13
+2024-Q4,People,Referral,4,Onsite,5
+2024-Q4,People,Referral,5,Offer,2
+2024-Q4,People,Referral,6,Hired,1
+2024-Q4,People,University,1,Applied,27
+2024-Q4,People,University,2,Recruiter Screen,2
+2024-Q4,People,University,3,Hiring Manager Screen,2
+2024-Q4,People,University,4,Onsite,0
+2024-Q4,People,University,5,Offer,0
+2024-Q4,People,University,6,Hired,0
+2024-Q4,People,Unknown,1,Applied,12
+2024-Q4,People,Unknown,2,Recruiter Screen,6
+2024-Q4,People,Unknown,3,Hiring Manager Screen,4
+2024-Q4,People,Unknown,4,Onsite,2
+2024-Q4,People,Unknown,5,Offer,0
+2024-Q4,People,Unknown,6,Hired,0
+2024-Q4,Service,Agency,1,Applied,31
+2024-Q4,Service,Agency,2,Recruiter Screen,14
+2024-Q4,Service,Agency,3,Hiring Manager Screen,8
+2024-Q4,Service,Agency,4,Onsite,1
+2024-Q4,Service,Agency,5,Offer,0
+2024-Q4,Service,Agency,6,Hired,0
+2024-Q4,Service,Careers Site,1,Applied,197
+2024-Q4,Service,Careers Site,2,Recruiter Screen,41
+2024-Q4,Service,Careers Site,3,Hiring Manager Screen,20
+2024-Q4,Service,Careers Site,4,Onsite,6
+2024-Q4,Service,Careers Site,5,Offer,3
+2024-Q4,Service,Careers Site,6,Hired,3
+2024-Q4,Service,Internal,1,Applied,30
+2024-Q4,Service,Internal,2,Recruiter Screen,15
+2024-Q4,Service,Internal,3,Hiring Manager Screen,10
+2024-Q4,Service,Internal,4,Onsite,6
+2024-Q4,Service,Internal,5,Offer,2
+2024-Q4,Service,Internal,6,Hired,2
+2024-Q4,Service,Job Board,1,Applied,300
+2024-Q4,Service,Job Board,2,Recruiter Screen,40
+2024-Q4,Service,Job Board,3,Hiring Manager Screen,20
+2024-Q4,Service,Job Board,4,Onsite,4
+2024-Q4,Service,Job Board,5,Offer,0
+2024-Q4,Service,Job Board,6,Hired,0
+2024-Q4,Service,LinkedIn,1,Applied,158
+2024-Q4,Service,LinkedIn,2,Recruiter Screen,29
+2024-Q4,Service,LinkedIn,3,Hiring Manager Screen,15
+2024-Q4,Service,LinkedIn,4,Onsite,5
+2024-Q4,Service,LinkedIn,5,Offer,1
+2024-Q4,Service,LinkedIn,6,Hired,1
+2024-Q4,Service,Referral,1,Applied,74
+2024-Q4,Service,Referral,2,Recruiter Screen,38
+2024-Q4,Service,Referral,3,Hiring Manager Screen,22
+2024-Q4,Service,Referral,4,Onsite,15
+2024-Q4,Service,Referral,5,Offer,3
+2024-Q4,Service,Referral,6,Hired,3
+2024-Q4,Service,University,1,Applied,56
+2024-Q4,Service,University,2,Recruiter Screen,6
+2024-Q4,Service,University,3,Hiring Manager Screen,2
+2024-Q4,Service,University,4,Onsite,2
+2024-Q4,Service,University,5,Offer,0
+2024-Q4,Service,University,6,Hired,0
+2024-Q4,Service,Unknown,1,Applied,20
+2024-Q4,Service,Unknown,2,Recruiter Screen,6
+2024-Q4,Service,Unknown,3,Hiring Manager Screen,3
+2024-Q4,Service,Unknown,4,Onsite,0
+2024-Q4,Service,Unknown,5,Offer,0
+2024-Q4,Service,Unknown,6,Hired,0
+2024-Q4,Supply Chain,Agency,1,Applied,20
+2024-Q4,Supply Chain,Agency,2,Recruiter Screen,5
+2024-Q4,Supply Chain,Agency,3,Hiring Manager Screen,1
+2024-Q4,Supply Chain,Agency,4,Onsite,0
+2024-Q4,Supply Chain,Agency,5,Offer,0
+2024-Q4,Supply Chain,Agency,6,Hired,0
+2024-Q4,Supply Chain,Careers Site,1,Applied,158
+2024-Q4,Supply Chain,Careers Site,2,Recruiter Screen,29
+2024-Q4,Supply Chain,Careers Site,3,Hiring Manager Screen,17
+2024-Q4,Supply Chain,Careers Site,4,Onsite,4
+2024-Q4,Supply Chain,Careers Site,5,Offer,2
+2024-Q4,Supply Chain,Careers Site,6,Hired,1
+2024-Q4,Supply Chain,Internal,1,Applied,15
+2024-Q4,Supply Chain,Internal,2,Recruiter Screen,8
+2024-Q4,Supply Chain,Internal,3,Hiring Manager Screen,1
+2024-Q4,Supply Chain,Internal,4,Onsite,1
+2024-Q4,Supply Chain,Internal,5,Offer,1
+2024-Q4,Supply Chain,Internal,6,Hired,1
+2024-Q4,Supply Chain,Job Board,1,Applied,205
+2024-Q4,Supply Chain,Job Board,2,Recruiter Screen,23
+2024-Q4,Supply Chain,Job Board,3,Hiring Manager Screen,9
+2024-Q4,Supply Chain,Job Board,4,Onsite,3
+2024-Q4,Supply Chain,Job Board,5,Offer,1
+2024-Q4,Supply Chain,Job Board,6,Hired,1
+2024-Q4,Supply Chain,LinkedIn,1,Applied,128
+2024-Q4,Supply Chain,LinkedIn,2,Recruiter Screen,21
+2024-Q4,Supply Chain,LinkedIn,3,Hiring Manager Screen,11
+2024-Q4,Supply Chain,LinkedIn,4,Onsite,3
+2024-Q4,Supply Chain,LinkedIn,5,Offer,1
+2024-Q4,Supply Chain,LinkedIn,6,Hired,1
+2024-Q4,Supply Chain,Referral,1,Applied,45
+2024-Q4,Supply Chain,Referral,2,Recruiter Screen,20
+2024-Q4,Supply Chain,Referral,3,Hiring Manager Screen,10
+2024-Q4,Supply Chain,Referral,4,Onsite,6
+2024-Q4,Supply Chain,Referral,5,Offer,4
+2024-Q4,Supply Chain,Referral,6,Hired,3
+2024-Q4,Supply Chain,University,1,Applied,31
+2024-Q4,Supply Chain,University,2,Recruiter Screen,3
+2024-Q4,Supply Chain,University,3,Hiring Manager Screen,1
+2024-Q4,Supply Chain,University,4,Onsite,0
+2024-Q4,Supply Chain,University,5,Offer,0
+2024-Q4,Supply Chain,University,6,Hired,0
+2024-Q4,Supply Chain,Unknown,1,Applied,15
+2024-Q4,Supply Chain,Unknown,2,Recruiter Screen,4
+2024-Q4,Supply Chain,Unknown,3,Hiring Manager Screen,3
+2024-Q4,Supply Chain,Unknown,4,Onsite,1
+2024-Q4,Supply Chain,Unknown,5,Offer,0
+2024-Q4,Supply Chain,Unknown,6,Hired,0
+2024-Q4,Vehicle Software,Agency,1,Applied,65
+2024-Q4,Vehicle Software,Agency,2,Recruiter Screen,26
+2024-Q4,Vehicle Software,Agency,3,Hiring Manager Screen,9
+2024-Q4,Vehicle Software,Agency,4,Onsite,1
+2024-Q4,Vehicle Software,Agency,5,Offer,1
+2024-Q4,Vehicle Software,Agency,6,Hired,0
+2024-Q4,Vehicle Software,Careers Site,1,Applied,369
+2024-Q4,Vehicle Software,Careers Site,2,Recruiter Screen,84
+2024-Q4,Vehicle Software,Careers Site,3,Hiring Manager Screen,33
+2024-Q4,Vehicle Software,Careers Site,4,Onsite,13
+2024-Q4,Vehicle Software,Careers Site,5,Offer,3
+2024-Q4,Vehicle Software,Careers Site,6,Hired,3
+2024-Q4,Vehicle Software,Internal,1,Applied,37
+2024-Q4,Vehicle Software,Internal,2,Recruiter Screen,20
+2024-Q4,Vehicle Software,Internal,3,Hiring Manager Screen,7
+2024-Q4,Vehicle Software,Internal,4,Onsite,4
+2024-Q4,Vehicle Software,Internal,5,Offer,2
+2024-Q4,Vehicle Software,Internal,6,Hired,2
+2024-Q4,Vehicle Software,Job Board,1,Applied,511
+2024-Q4,Vehicle Software,Job Board,2,Recruiter Screen,77
+2024-Q4,Vehicle Software,Job Board,3,Hiring Manager Screen,29
+2024-Q4,Vehicle Software,Job Board,4,Onsite,12
+2024-Q4,Vehicle Software,Job Board,5,Offer,4
+2024-Q4,Vehicle Software,Job Board,6,Hired,4
+2024-Q4,Vehicle Software,LinkedIn,1,Applied,247
+2024-Q4,Vehicle Software,LinkedIn,2,Recruiter Screen,50
+2024-Q4,Vehicle Software,LinkedIn,3,Hiring Manager Screen,20
+2024-Q4,Vehicle Software,LinkedIn,4,Onsite,7
+2024-Q4,Vehicle Software,LinkedIn,5,Offer,3
+2024-Q4,Vehicle Software,LinkedIn,6,Hired,3
+2024-Q4,Vehicle Software,Referral,1,Applied,141
+2024-Q4,Vehicle Software,Referral,2,Recruiter Screen,59
+2024-Q4,Vehicle Software,Referral,3,Hiring Manager Screen,36
+2024-Q4,Vehicle Software,Referral,4,Onsite,18
+2024-Q4,Vehicle Software,Referral,5,Offer,9
+2024-Q4,Vehicle Software,Referral,6,Hired,4
+2024-Q4,Vehicle Software,University,1,Applied,99
+2024-Q4,Vehicle Software,University,2,Recruiter Screen,20
+2024-Q4,Vehicle Software,University,3,Hiring Manager Screen,8
+2024-Q4,Vehicle Software,University,4,Onsite,3
+2024-Q4,Vehicle Software,University,5,Offer,0
+2024-Q4,Vehicle Software,University,6,Hired,0
+2024-Q4,Vehicle Software,Unknown,1,Applied,27
+2024-Q4,Vehicle Software,Unknown,2,Recruiter Screen,7
+2024-Q4,Vehicle Software,Unknown,3,Hiring Manager Screen,3
+2024-Q4,Vehicle Software,Unknown,4,Onsite,0
+2024-Q4,Vehicle Software,Unknown,5,Offer,0
+2024-Q4,Vehicle Software,Unknown,6,Hired,0
+2025-Q1,AI & Robotics,Agency,1,Applied,49
+2025-Q1,AI & Robotics,Agency,2,Recruiter Screen,25
+2025-Q1,AI & Robotics,Agency,3,Hiring Manager Screen,13
+2025-Q1,AI & Robotics,Agency,4,Onsite,3
+2025-Q1,AI & Robotics,Agency,5,Offer,1
+2025-Q1,AI & Robotics,Agency,6,Hired,1
+2025-Q1,AI & Robotics,Careers Site,1,Applied,333
+2025-Q1,AI & Robotics,Careers Site,2,Recruiter Screen,53
+2025-Q1,AI & Robotics,Careers Site,3,Hiring Manager Screen,27
+2025-Q1,AI & Robotics,Careers Site,4,Onsite,5
+2025-Q1,AI & Robotics,Careers Site,5,Offer,1
+2025-Q1,AI & Robotics,Careers Site,6,Hired,1
+2025-Q1,AI & Robotics,Internal,1,Applied,48
+2025-Q1,AI & Robotics,Internal,2,Recruiter Screen,25
+2025-Q1,AI & Robotics,Internal,3,Hiring Manager Screen,12
+2025-Q1,AI & Robotics,Internal,4,Onsite,7
+2025-Q1,AI & Robotics,Internal,5,Offer,4
+2025-Q1,AI & Robotics,Internal,6,Hired,4
+2025-Q1,AI & Robotics,Job Board,1,Applied,432
+2025-Q1,AI & Robotics,Job Board,2,Recruiter Screen,52
+2025-Q1,AI & Robotics,Job Board,3,Hiring Manager Screen,27
+2025-Q1,AI & Robotics,Job Board,4,Onsite,8
+2025-Q1,AI & Robotics,Job Board,5,Offer,0
+2025-Q1,AI & Robotics,Job Board,6,Hired,0
+2025-Q1,AI & Robotics,LinkedIn,1,Applied,229
+2025-Q1,AI & Robotics,LinkedIn,2,Recruiter Screen,47
+2025-Q1,AI & Robotics,LinkedIn,3,Hiring Manager Screen,20
+2025-Q1,AI & Robotics,LinkedIn,4,Onsite,9
+2025-Q1,AI & Robotics,LinkedIn,5,Offer,3
+2025-Q1,AI & Robotics,LinkedIn,6,Hired,2
+2025-Q1,AI & Robotics,Referral,1,Applied,105
+2025-Q1,AI & Robotics,Referral,2,Recruiter Screen,57
+2025-Q1,AI & Robotics,Referral,3,Hiring Manager Screen,30
+2025-Q1,AI & Robotics,Referral,4,Onsite,15
+2025-Q1,AI & Robotics,Referral,5,Offer,4
+2025-Q1,AI & Robotics,Referral,6,Hired,3
+2025-Q1,AI & Robotics,University,1,Applied,71
+2025-Q1,AI & Robotics,University,2,Recruiter Screen,17
+2025-Q1,AI & Robotics,University,3,Hiring Manager Screen,8
+2025-Q1,AI & Robotics,University,4,Onsite,5
+2025-Q1,AI & Robotics,University,5,Offer,0
+2025-Q1,AI & Robotics,University,6,Hired,0
+2025-Q1,AI & Robotics,Unknown,1,Applied,27
+2025-Q1,AI & Robotics,Unknown,2,Recruiter Screen,4
+2025-Q1,AI & Robotics,Unknown,3,Hiring Manager Screen,2
+2025-Q1,AI & Robotics,Unknown,4,Onsite,0
+2025-Q1,AI & Robotics,Unknown,5,Offer,0
+2025-Q1,AI & Robotics,Unknown,6,Hired,0
+2025-Q1,Energy,Agency,1,Applied,33
+2025-Q1,Energy,Agency,2,Recruiter Screen,16
+2025-Q1,Energy,Agency,3,Hiring Manager Screen,4
+2025-Q1,Energy,Agency,4,Onsite,3
+2025-Q1,Energy,Agency,5,Offer,1
+2025-Q1,Energy,Agency,6,Hired,1
+2025-Q1,Energy,Careers Site,1,Applied,192
+2025-Q1,Energy,Careers Site,2,Recruiter Screen,42
+2025-Q1,Energy,Careers Site,3,Hiring Manager Screen,16
+2025-Q1,Energy,Careers Site,4,Onsite,7
+2025-Q1,Energy,Careers Site,5,Offer,2
+2025-Q1,Energy,Careers Site,6,Hired,2
+2025-Q1,Energy,Internal,1,Applied,27
+2025-Q1,Energy,Internal,2,Recruiter Screen,15
+2025-Q1,Energy,Internal,3,Hiring Manager Screen,10
+2025-Q1,Energy,Internal,4,Onsite,5
+2025-Q1,Energy,Internal,5,Offer,1
+2025-Q1,Energy,Internal,6,Hired,1
+2025-Q1,Energy,Job Board,1,Applied,248
+2025-Q1,Energy,Job Board,2,Recruiter Screen,29
+2025-Q1,Energy,Job Board,3,Hiring Manager Screen,14
+2025-Q1,Energy,Job Board,4,Onsite,4
+2025-Q1,Energy,Job Board,5,Offer,1
+2025-Q1,Energy,Job Board,6,Hired,1
+2025-Q1,Energy,LinkedIn,1,Applied,116
+2025-Q1,Energy,LinkedIn,2,Recruiter Screen,19
+2025-Q1,Energy,LinkedIn,3,Hiring Manager Screen,6
+2025-Q1,Energy,LinkedIn,4,Onsite,2
+2025-Q1,Energy,LinkedIn,5,Offer,0
+2025-Q1,Energy,LinkedIn,6,Hired,0
+2025-Q1,Energy,Referral,1,Applied,44
+2025-Q1,Energy,Referral,2,Recruiter Screen,23
+2025-Q1,Energy,Referral,3,Hiring Manager Screen,16
+2025-Q1,Energy,Referral,4,Onsite,7
+2025-Q1,Energy,Referral,5,Offer,2
+2025-Q1,Energy,Referral,6,Hired,2
+2025-Q1,Energy,University,1,Applied,44
+2025-Q1,Energy,University,2,Recruiter Screen,8
+2025-Q1,Energy,University,3,Hiring Manager Screen,2
+2025-Q1,Energy,University,4,Onsite,1
+2025-Q1,Energy,University,5,Offer,1
+2025-Q1,Energy,University,6,Hired,1
+2025-Q1,Energy,Unknown,1,Applied,14
+2025-Q1,Energy,Unknown,2,Recruiter Screen,1
+2025-Q1,Energy,Unknown,3,Hiring Manager Screen,0
+2025-Q1,Energy,Unknown,4,Onsite,0
+2025-Q1,Energy,Unknown,5,Offer,0
+2025-Q1,Energy,Unknown,6,Hired,0
+2025-Q1,Finance,Agency,1,Applied,10
+2025-Q1,Finance,Agency,2,Recruiter Screen,6
+2025-Q1,Finance,Agency,3,Hiring Manager Screen,1
+2025-Q1,Finance,Agency,4,Onsite,1
+2025-Q1,Finance,Agency,5,Offer,0
+2025-Q1,Finance,Agency,6,Hired,0
+2025-Q1,Finance,Careers Site,1,Applied,81
+2025-Q1,Finance,Careers Site,2,Recruiter Screen,16
+2025-Q1,Finance,Careers Site,3,Hiring Manager Screen,14
+2025-Q1,Finance,Careers Site,4,Onsite,5
+2025-Q1,Finance,Careers Site,5,Offer,1
+2025-Q1,Finance,Careers Site,6,Hired,1
+2025-Q1,Finance,Internal,1,Applied,3
+2025-Q1,Finance,Internal,2,Recruiter Screen,2
+2025-Q1,Finance,Internal,3,Hiring Manager Screen,2
+2025-Q1,Finance,Internal,4,Onsite,2
+2025-Q1,Finance,Internal,5,Offer,1
+2025-Q1,Finance,Internal,6,Hired,0
+2025-Q1,Finance,Job Board,1,Applied,77
+2025-Q1,Finance,Job Board,2,Recruiter Screen,8
+2025-Q1,Finance,Job Board,3,Hiring Manager Screen,5
+2025-Q1,Finance,Job Board,4,Onsite,2
+2025-Q1,Finance,Job Board,5,Offer,1
+2025-Q1,Finance,Job Board,6,Hired,1
+2025-Q1,Finance,LinkedIn,1,Applied,46
+2025-Q1,Finance,LinkedIn,2,Recruiter Screen,11
+2025-Q1,Finance,LinkedIn,3,Hiring Manager Screen,2
+2025-Q1,Finance,LinkedIn,4,Onsite,0
+2025-Q1,Finance,LinkedIn,5,Offer,0
+2025-Q1,Finance,LinkedIn,6,Hired,0
+2025-Q1,Finance,Referral,1,Applied,24
+2025-Q1,Finance,Referral,2,Recruiter Screen,9
+2025-Q1,Finance,Referral,3,Hiring Manager Screen,5
+2025-Q1,Finance,Referral,4,Onsite,2
+2025-Q1,Finance,Referral,5,Offer,1
+2025-Q1,Finance,Referral,6,Hired,1
+2025-Q1,Finance,University,1,Applied,14
+2025-Q1,Finance,University,2,Recruiter Screen,3
+2025-Q1,Finance,University,3,Hiring Manager Screen,3
+2025-Q1,Finance,University,4,Onsite,1
+2025-Q1,Finance,University,5,Offer,0
+2025-Q1,Finance,University,6,Hired,0
+2025-Q1,Finance,Unknown,1,Applied,8
+2025-Q1,Finance,Unknown,2,Recruiter Screen,0
+2025-Q1,Finance,Unknown,3,Hiring Manager Screen,0
+2025-Q1,Finance,Unknown,4,Onsite,0
+2025-Q1,Finance,Unknown,5,Offer,0
+2025-Q1,Finance,Unknown,6,Hired,0
+2025-Q1,Manufacturing,Agency,1,Applied,93
+2025-Q1,Manufacturing,Agency,2,Recruiter Screen,37
+2025-Q1,Manufacturing,Agency,3,Hiring Manager Screen,15
+2025-Q1,Manufacturing,Agency,4,Onsite,4
+2025-Q1,Manufacturing,Agency,5,Offer,2
+2025-Q1,Manufacturing,Agency,6,Hired,1
+2025-Q1,Manufacturing,Careers Site,1,Applied,596
+2025-Q1,Manufacturing,Careers Site,2,Recruiter Screen,125
+2025-Q1,Manufacturing,Careers Site,3,Hiring Manager Screen,56
+2025-Q1,Manufacturing,Careers Site,4,Onsite,22
+2025-Q1,Manufacturing,Careers Site,5,Offer,3
+2025-Q1,Manufacturing,Careers Site,6,Hired,2
+2025-Q1,Manufacturing,Internal,1,Applied,64
+2025-Q1,Manufacturing,Internal,2,Recruiter Screen,32
+2025-Q1,Manufacturing,Internal,3,Hiring Manager Screen,18
+2025-Q1,Manufacturing,Internal,4,Onsite,6
+2025-Q1,Manufacturing,Internal,5,Offer,1
+2025-Q1,Manufacturing,Internal,6,Hired,1
+2025-Q1,Manufacturing,Job Board,1,Applied,744
+2025-Q1,Manufacturing,Job Board,2,Recruiter Screen,79
+2025-Q1,Manufacturing,Job Board,3,Hiring Manager Screen,32
+2025-Q1,Manufacturing,Job Board,4,Onsite,8
+2025-Q1,Manufacturing,Job Board,5,Offer,1
+2025-Q1,Manufacturing,Job Board,6,Hired,0
+2025-Q1,Manufacturing,LinkedIn,1,Applied,361
+2025-Q1,Manufacturing,LinkedIn,2,Recruiter Screen,79
+2025-Q1,Manufacturing,LinkedIn,3,Hiring Manager Screen,33
+2025-Q1,Manufacturing,LinkedIn,4,Onsite,15
+2025-Q1,Manufacturing,LinkedIn,5,Offer,6
+2025-Q1,Manufacturing,LinkedIn,6,Hired,2
+2025-Q1,Manufacturing,Referral,1,Applied,175
+2025-Q1,Manufacturing,Referral,2,Recruiter Screen,76
+2025-Q1,Manufacturing,Referral,3,Hiring Manager Screen,42
+2025-Q1,Manufacturing,Referral,4,Onsite,20
+2025-Q1,Manufacturing,Referral,5,Offer,10
+2025-Q1,Manufacturing,Referral,6,Hired,9
+2025-Q1,Manufacturing,University,1,Applied,143
+2025-Q1,Manufacturing,University,2,Recruiter Screen,29
+2025-Q1,Manufacturing,University,3,Hiring Manager Screen,13
+2025-Q1,Manufacturing,University,4,Onsite,5
+2025-Q1,Manufacturing,University,5,Offer,2
+2025-Q1,Manufacturing,University,6,Hired,1
+2025-Q1,Manufacturing,Unknown,1,Applied,48
+2025-Q1,Manufacturing,Unknown,2,Recruiter Screen,14
+2025-Q1,Manufacturing,Unknown,3,Hiring Manager Screen,8
+2025-Q1,Manufacturing,Unknown,4,Onsite,2
+2025-Q1,Manufacturing,Unknown,5,Offer,1
+2025-Q1,Manufacturing,Unknown,6,Hired,0
+2025-Q1,People,Agency,1,Applied,8
+2025-Q1,People,Agency,2,Recruiter Screen,2
+2025-Q1,People,Agency,3,Hiring Manager Screen,1
+2025-Q1,People,Agency,4,Onsite,1
+2025-Q1,People,Agency,5,Offer,1
+2025-Q1,People,Agency,6,Hired,1
+2025-Q1,People,Careers Site,1,Applied,72
+2025-Q1,People,Careers Site,2,Recruiter Screen,13
+2025-Q1,People,Careers Site,3,Hiring Manager Screen,6
+2025-Q1,People,Careers Site,4,Onsite,1
+2025-Q1,People,Careers Site,5,Offer,0
+2025-Q1,People,Careers Site,6,Hired,0
+2025-Q1,People,Internal,1,Applied,7
+2025-Q1,People,Internal,2,Recruiter Screen,5
+2025-Q1,People,Internal,3,Hiring Manager Screen,3
+2025-Q1,People,Internal,4,Onsite,1
+2025-Q1,People,Internal,5,Offer,1
+2025-Q1,People,Internal,6,Hired,1
+2025-Q1,People,Job Board,1,Applied,81
+2025-Q1,People,Job Board,2,Recruiter Screen,7
+2025-Q1,People,Job Board,3,Hiring Manager Screen,2
+2025-Q1,People,Job Board,4,Onsite,2
+2025-Q1,People,Job Board,5,Offer,0
+2025-Q1,People,Job Board,6,Hired,0
+2025-Q1,People,LinkedIn,1,Applied,47
+2025-Q1,People,LinkedIn,2,Recruiter Screen,10
+2025-Q1,People,LinkedIn,3,Hiring Manager Screen,6
+2025-Q1,People,LinkedIn,4,Onsite,2
+2025-Q1,People,LinkedIn,5,Offer,1
+2025-Q1,People,LinkedIn,6,Hired,0
+2025-Q1,People,Referral,1,Applied,20
+2025-Q1,People,Referral,2,Recruiter Screen,7
+2025-Q1,People,Referral,3,Hiring Manager Screen,4
+2025-Q1,People,Referral,4,Onsite,1
+2025-Q1,People,Referral,5,Offer,0
+2025-Q1,People,Referral,6,Hired,0
+2025-Q1,People,University,1,Applied,14
+2025-Q1,People,University,2,Recruiter Screen,1
+2025-Q1,People,University,3,Hiring Manager Screen,0
+2025-Q1,People,University,4,Onsite,0
+2025-Q1,People,University,5,Offer,0
+2025-Q1,People,University,6,Hired,0
+2025-Q1,People,Unknown,1,Applied,4
+2025-Q1,People,Unknown,2,Recruiter Screen,2
+2025-Q1,People,Unknown,3,Hiring Manager Screen,1
+2025-Q1,People,Unknown,4,Onsite,0
+2025-Q1,People,Unknown,5,Offer,0
+2025-Q1,People,Unknown,6,Hired,0
+2025-Q1,Service,Agency,1,Applied,49
+2025-Q1,Service,Agency,2,Recruiter Screen,16
+2025-Q1,Service,Agency,3,Hiring Manager Screen,9
+2025-Q1,Service,Agency,4,Onsite,4
+2025-Q1,Service,Agency,5,Offer,0
+2025-Q1,Service,Agency,6,Hired,0
+2025-Q1,Service,Careers Site,1,Applied,255
+2025-Q1,Service,Careers Site,2,Recruiter Screen,47
+2025-Q1,Service,Careers Site,3,Hiring Manager Screen,19
+2025-Q1,Service,Careers Site,4,Onsite,10
+2025-Q1,Service,Careers Site,5,Offer,5
+2025-Q1,Service,Careers Site,6,Hired,4
+2025-Q1,Service,Internal,1,Applied,37
+2025-Q1,Service,Internal,2,Recruiter Screen,18
+2025-Q1,Service,Internal,3,Hiring Manager Screen,14
+2025-Q1,Service,Internal,4,Onsite,9
+2025-Q1,Service,Internal,5,Offer,3
+2025-Q1,Service,Internal,6,Hired,1
+2025-Q1,Service,Job Board,1,Applied,332
+2025-Q1,Service,Job Board,2,Recruiter Screen,49
+2025-Q1,Service,Job Board,3,Hiring Manager Screen,23
+2025-Q1,Service,Job Board,4,Onsite,6
+2025-Q1,Service,Job Board,5,Offer,3
+2025-Q1,Service,Job Board,6,Hired,1
+2025-Q1,Service,LinkedIn,1,Applied,173
+2025-Q1,Service,LinkedIn,2,Recruiter Screen,37
+2025-Q1,Service,LinkedIn,3,Hiring Manager Screen,17
+2025-Q1,Service,LinkedIn,4,Onsite,8
+2025-Q1,Service,LinkedIn,5,Offer,3
+2025-Q1,Service,LinkedIn,6,Hired,2
+2025-Q1,Service,Referral,1,Applied,78
+2025-Q1,Service,Referral,2,Recruiter Screen,35
+2025-Q1,Service,Referral,3,Hiring Manager Screen,16
+2025-Q1,Service,Referral,4,Onsite,6
+2025-Q1,Service,Referral,5,Offer,3
+2025-Q1,Service,Referral,6,Hired,3
+2025-Q1,Service,University,1,Applied,65
+2025-Q1,Service,University,2,Recruiter Screen,12
+2025-Q1,Service,University,3,Hiring Manager Screen,5
+2025-Q1,Service,University,4,Onsite,3
+2025-Q1,Service,University,5,Offer,1
+2025-Q1,Service,University,6,Hired,0
+2025-Q1,Service,Unknown,1,Applied,24
+2025-Q1,Service,Unknown,2,Recruiter Screen,4
+2025-Q1,Service,Unknown,3,Hiring Manager Screen,2
+2025-Q1,Service,Unknown,4,Onsite,1
+2025-Q1,Service,Unknown,5,Offer,0
+2025-Q1,Service,Unknown,6,Hired,0
+2025-Q1,Supply Chain,Agency,1,Applied,28
+2025-Q1,Supply Chain,Agency,2,Recruiter Screen,8
+2025-Q1,Supply Chain,Agency,3,Hiring Manager Screen,6
+2025-Q1,Supply Chain,Agency,4,Onsite,4
+2025-Q1,Supply Chain,Agency,5,Offer,2
+2025-Q1,Supply Chain,Agency,6,Hired,1
+2025-Q1,Supply Chain,Careers Site,1,Applied,203
+2025-Q1,Supply Chain,Careers Site,2,Recruiter Screen,48
+2025-Q1,Supply Chain,Careers Site,3,Hiring Manager Screen,18
+2025-Q1,Supply Chain,Careers Site,4,Onsite,9
+2025-Q1,Supply Chain,Careers Site,5,Offer,5
+2025-Q1,Supply Chain,Careers Site,6,Hired,3
+2025-Q1,Supply Chain,Internal,1,Applied,28
+2025-Q1,Supply Chain,Internal,2,Recruiter Screen,15
+2025-Q1,Supply Chain,Internal,3,Hiring Manager Screen,7
+2025-Q1,Supply Chain,Internal,4,Onsite,3
+2025-Q1,Supply Chain,Internal,5,Offer,0
+2025-Q1,Supply Chain,Internal,6,Hired,0
+2025-Q1,Supply Chain,Job Board,1,Applied,245
+2025-Q1,Supply Chain,Job Board,2,Recruiter Screen,32
+2025-Q1,Supply Chain,Job Board,3,Hiring Manager Screen,12
+2025-Q1,Supply Chain,Job Board,4,Onsite,6
+2025-Q1,Supply Chain,Job Board,5,Offer,1
+2025-Q1,Supply Chain,Job Board,6,Hired,1
+2025-Q1,Supply Chain,LinkedIn,1,Applied,123
+2025-Q1,Supply Chain,LinkedIn,2,Recruiter Screen,26
+2025-Q1,Supply Chain,LinkedIn,3,Hiring Manager Screen,10
+2025-Q1,Supply Chain,LinkedIn,4,Onsite,2
+2025-Q1,Supply Chain,LinkedIn,5,Offer,1
+2025-Q1,Supply Chain,LinkedIn,6,Hired,1
+2025-Q1,Supply Chain,Referral,1,Applied,41
+2025-Q1,Supply Chain,Referral,2,Recruiter Screen,26
+2025-Q1,Supply Chain,Referral,3,Hiring Manager Screen,16
+2025-Q1,Supply Chain,Referral,4,Onsite,6
+2025-Q1,Supply Chain,Referral,5,Offer,3
+2025-Q1,Supply Chain,Referral,6,Hired,2
+2025-Q1,Supply Chain,University,1,Applied,44
+2025-Q1,Supply Chain,University,2,Recruiter Screen,9
+2025-Q1,Supply Chain,University,3,Hiring Manager Screen,5
+2025-Q1,Supply Chain,University,4,Onsite,3
+2025-Q1,Supply Chain,University,5,Offer,1
+2025-Q1,Supply Chain,University,6,Hired,1
+2025-Q1,Supply Chain,Unknown,1,Applied,8
+2025-Q1,Supply Chain,Unknown,2,Recruiter Screen,1
+2025-Q1,Supply Chain,Unknown,3,Hiring Manager Screen,1
+2025-Q1,Supply Chain,Unknown,4,Onsite,0
+2025-Q1,Supply Chain,Unknown,5,Offer,0
+2025-Q1,Supply Chain,Unknown,6,Hired,0
+2025-Q1,Vehicle Software,Agency,1,Applied,24
+2025-Q1,Vehicle Software,Agency,2,Recruiter Screen,8
+2025-Q1,Vehicle Software,Agency,3,Hiring Manager Screen,4
+2025-Q1,Vehicle Software,Agency,4,Onsite,3
+2025-Q1,Vehicle Software,Agency,5,Offer,0
+2025-Q1,Vehicle Software,Agency,6,Hired,0
+2025-Q1,Vehicle Software,Careers Site,1,Applied,194
+2025-Q1,Vehicle Software,Careers Site,2,Recruiter Screen,43
+2025-Q1,Vehicle Software,Careers Site,3,Hiring Manager Screen,26
+2025-Q1,Vehicle Software,Careers Site,4,Onsite,9
+2025-Q1,Vehicle Software,Careers Site,5,Offer,2
+2025-Q1,Vehicle Software,Careers Site,6,Hired,2
+2025-Q1,Vehicle Software,Internal,1,Applied,28
+2025-Q1,Vehicle Software,Internal,2,Recruiter Screen,20
+2025-Q1,Vehicle Software,Internal,3,Hiring Manager Screen,13
+2025-Q1,Vehicle Software,Internal,4,Onsite,4
+2025-Q1,Vehicle Software,Internal,5,Offer,1
+2025-Q1,Vehicle Software,Internal,6,Hired,1
+2025-Q1,Vehicle Software,Job Board,1,Applied,209
+2025-Q1,Vehicle Software,Job Board,2,Recruiter Screen,30
+2025-Q1,Vehicle Software,Job Board,3,Hiring Manager Screen,11
+2025-Q1,Vehicle Software,Job Board,4,Onsite,3
+2025-Q1,Vehicle Software,Job Board,5,Offer,0
+2025-Q1,Vehicle Software,Job Board,6,Hired,0
+2025-Q1,Vehicle Software,LinkedIn,1,Applied,118
+2025-Q1,Vehicle Software,LinkedIn,2,Recruiter Screen,23
+2025-Q1,Vehicle Software,LinkedIn,3,Hiring Manager Screen,8
+2025-Q1,Vehicle Software,LinkedIn,4,Onsite,3
+2025-Q1,Vehicle Software,LinkedIn,5,Offer,0
+2025-Q1,Vehicle Software,LinkedIn,6,Hired,0
+2025-Q1,Vehicle Software,Referral,1,Applied,48
+2025-Q1,Vehicle Software,Referral,2,Recruiter Screen,23
+2025-Q1,Vehicle Software,Referral,3,Hiring Manager Screen,12
+2025-Q1,Vehicle Software,Referral,4,Onsite,6
+2025-Q1,Vehicle Software,Referral,5,Offer,3
+2025-Q1,Vehicle Software,Referral,6,Hired,2
+2025-Q1,Vehicle Software,University,1,Applied,39
+2025-Q1,Vehicle Software,University,2,Recruiter Screen,7
+2025-Q1,Vehicle Software,University,3,Hiring Manager Screen,2
+2025-Q1,Vehicle Software,University,4,Onsite,1
+2025-Q1,Vehicle Software,University,5,Offer,1
+2025-Q1,Vehicle Software,University,6,Hired,1
+2025-Q1,Vehicle Software,Unknown,1,Applied,14
+2025-Q1,Vehicle Software,Unknown,2,Recruiter Screen,1
+2025-Q1,Vehicle Software,Unknown,3,Hiring Manager Screen,1
+2025-Q1,Vehicle Software,Unknown,4,Onsite,0
+2025-Q1,Vehicle Software,Unknown,5,Offer,0
+2025-Q1,Vehicle Software,Unknown,6,Hired,0
+2025-Q2,AI & Robotics,Agency,1,Applied,49
+2025-Q2,AI & Robotics,Agency,2,Recruiter Screen,25
+2025-Q2,AI & Robotics,Agency,3,Hiring Manager Screen,13
+2025-Q2,AI & Robotics,Agency,4,Onsite,5
+2025-Q2,AI & Robotics,Agency,5,Offer,2
+2025-Q2,AI & Robotics,Agency,6,Hired,1
+2025-Q2,AI & Robotics,Careers Site,1,Applied,291
+2025-Q2,AI & Robotics,Careers Site,2,Recruiter Screen,55
+2025-Q2,AI & Robotics,Careers Site,3,Hiring Manager Screen,23
+2025-Q2,AI & Robotics,Careers Site,4,Onsite,11
+2025-Q2,AI & Robotics,Careers Site,5,Offer,1
+2025-Q2,AI & Robotics,Careers Site,6,Hired,1
+2025-Q2,AI & Robotics,Internal,1,Applied,50
+2025-Q2,AI & Robotics,Internal,2,Recruiter Screen,28
+2025-Q2,AI & Robotics,Internal,3,Hiring Manager Screen,16
+2025-Q2,AI & Robotics,Internal,4,Onsite,8
+2025-Q2,AI & Robotics,Internal,5,Offer,2
+2025-Q2,AI & Robotics,Internal,6,Hired,1
+2025-Q2,AI & Robotics,Job Board,1,Applied,416
+2025-Q2,AI & Robotics,Job Board,2,Recruiter Screen,43
+2025-Q2,AI & Robotics,Job Board,3,Hiring Manager Screen,16
+2025-Q2,AI & Robotics,Job Board,4,Onsite,4
+2025-Q2,AI & Robotics,Job Board,5,Offer,0
+2025-Q2,AI & Robotics,Job Board,6,Hired,0
+2025-Q2,AI & Robotics,LinkedIn,1,Applied,232
+2025-Q2,AI & Robotics,LinkedIn,2,Recruiter Screen,50
+2025-Q2,AI & Robotics,LinkedIn,3,Hiring Manager Screen,28
+2025-Q2,AI & Robotics,LinkedIn,4,Onsite,11
+2025-Q2,AI & Robotics,LinkedIn,5,Offer,4
+2025-Q2,AI & Robotics,LinkedIn,6,Hired,3
+2025-Q2,AI & Robotics,Referral,1,Applied,108
+2025-Q2,AI & Robotics,Referral,2,Recruiter Screen,49
+2025-Q2,AI & Robotics,Referral,3,Hiring Manager Screen,23
+2025-Q2,AI & Robotics,Referral,4,Onsite,8
+2025-Q2,AI & Robotics,Referral,5,Offer,3
+2025-Q2,AI & Robotics,Referral,6,Hired,3
+2025-Q2,AI & Robotics,University,1,Applied,89
+2025-Q2,AI & Robotics,University,2,Recruiter Screen,16
+2025-Q2,AI & Robotics,University,3,Hiring Manager Screen,9
+2025-Q2,AI & Robotics,University,4,Onsite,3
+2025-Q2,AI & Robotics,University,5,Offer,1
+2025-Q2,AI & Robotics,University,6,Hired,1
+2025-Q2,AI & Robotics,Unknown,1,Applied,25
+2025-Q2,AI & Robotics,Unknown,2,Recruiter Screen,4
+2025-Q2,AI & Robotics,Unknown,3,Hiring Manager Screen,1
+2025-Q2,AI & Robotics,Unknown,4,Onsite,1
+2025-Q2,AI & Robotics,Unknown,5,Offer,0
+2025-Q2,AI & Robotics,Unknown,6,Hired,0
+2025-Q2,Energy,Agency,1,Applied,20
+2025-Q2,Energy,Agency,2,Recruiter Screen,8
+2025-Q2,Energy,Agency,3,Hiring Manager Screen,4
+2025-Q2,Energy,Agency,4,Onsite,0
+2025-Q2,Energy,Agency,5,Offer,0
+2025-Q2,Energy,Agency,6,Hired,0
+2025-Q2,Energy,Careers Site,1,Applied,171
+2025-Q2,Energy,Careers Site,2,Recruiter Screen,27
+2025-Q2,Energy,Careers Site,3,Hiring Manager Screen,14
+2025-Q2,Energy,Careers Site,4,Onsite,6
+2025-Q2,Energy,Careers Site,5,Offer,2
+2025-Q2,Energy,Careers Site,6,Hired,1
+2025-Q2,Energy,Internal,1,Applied,22
+2025-Q2,Energy,Internal,2,Recruiter Screen,13
+2025-Q2,Energy,Internal,3,Hiring Manager Screen,3
+2025-Q2,Energy,Internal,4,Onsite,1
+2025-Q2,Energy,Internal,5,Offer,1
+2025-Q2,Energy,Internal,6,Hired,1
+2025-Q2,Energy,Job Board,1,Applied,236
+2025-Q2,Energy,Job Board,2,Recruiter Screen,25
+2025-Q2,Energy,Job Board,3,Hiring Manager Screen,14
+2025-Q2,Energy,Job Board,4,Onsite,4
+2025-Q2,Energy,Job Board,5,Offer,1
+2025-Q2,Energy,Job Board,6,Hired,0
+2025-Q2,Energy,LinkedIn,1,Applied,119
+2025-Q2,Energy,LinkedIn,2,Recruiter Screen,28
+2025-Q2,Energy,LinkedIn,3,Hiring Manager Screen,15
+2025-Q2,Energy,LinkedIn,4,Onsite,2
+2025-Q2,Energy,LinkedIn,5,Offer,0
+2025-Q2,Energy,LinkedIn,6,Hired,0
+2025-Q2,Energy,Referral,1,Applied,48
+2025-Q2,Energy,Referral,2,Recruiter Screen,27
+2025-Q2,Energy,Referral,3,Hiring Manager Screen,13
+2025-Q2,Energy,Referral,4,Onsite,8
+2025-Q2,Energy,Referral,5,Offer,2
+2025-Q2,Energy,Referral,6,Hired,2
+2025-Q2,Energy,University,1,Applied,39
+2025-Q2,Energy,University,2,Recruiter Screen,7
+2025-Q2,Energy,University,3,Hiring Manager Screen,3
+2025-Q2,Energy,University,4,Onsite,1
+2025-Q2,Energy,University,5,Offer,1
+2025-Q2,Energy,University,6,Hired,1
+2025-Q2,Energy,Unknown,1,Applied,17
+2025-Q2,Energy,Unknown,2,Recruiter Screen,0
+2025-Q2,Energy,Unknown,3,Hiring Manager Screen,0
+2025-Q2,Energy,Unknown,4,Onsite,0
+2025-Q2,Energy,Unknown,5,Offer,0
+2025-Q2,Energy,Unknown,6,Hired,0
+2025-Q2,Finance,Agency,1,Applied,20
+2025-Q2,Finance,Agency,2,Recruiter Screen,7
+2025-Q2,Finance,Agency,3,Hiring Manager Screen,4
+2025-Q2,Finance,Agency,4,Onsite,2
+2025-Q2,Finance,Agency,5,Offer,2
+2025-Q2,Finance,Agency,6,Hired,2
+2025-Q2,Finance,Careers Site,1,Applied,133
+2025-Q2,Finance,Careers Site,2,Recruiter Screen,26
+2025-Q2,Finance,Careers Site,3,Hiring Manager Screen,10
+2025-Q2,Finance,Careers Site,4,Onsite,4
+2025-Q2,Finance,Careers Site,5,Offer,1
+2025-Q2,Finance,Careers Site,6,Hired,1
+2025-Q2,Finance,Internal,1,Applied,20
+2025-Q2,Finance,Internal,2,Recruiter Screen,6
+2025-Q2,Finance,Internal,3,Hiring Manager Screen,2
+2025-Q2,Finance,Internal,4,Onsite,1
+2025-Q2,Finance,Internal,5,Offer,0
+2025-Q2,Finance,Internal,6,Hired,0
+2025-Q2,Finance,Job Board,1,Applied,184
+2025-Q2,Finance,Job Board,2,Recruiter Screen,26
+2025-Q2,Finance,Job Board,3,Hiring Manager Screen,13
+2025-Q2,Finance,Job Board,4,Onsite,4
+2025-Q2,Finance,Job Board,5,Offer,0
+2025-Q2,Finance,Job Board,6,Hired,0
+2025-Q2,Finance,LinkedIn,1,Applied,103
+2025-Q2,Finance,LinkedIn,2,Recruiter Screen,25
+2025-Q2,Finance,LinkedIn,3,Hiring Manager Screen,12
+2025-Q2,Finance,LinkedIn,4,Onsite,7
+2025-Q2,Finance,LinkedIn,5,Offer,2
+2025-Q2,Finance,LinkedIn,6,Hired,2
+2025-Q2,Finance,Referral,1,Applied,41
+2025-Q2,Finance,Referral,2,Recruiter Screen,15
+2025-Q2,Finance,Referral,3,Hiring Manager Screen,10
+2025-Q2,Finance,Referral,4,Onsite,2
+2025-Q2,Finance,Referral,5,Offer,0
+2025-Q2,Finance,Referral,6,Hired,0
+2025-Q2,Finance,University,1,Applied,23
+2025-Q2,Finance,University,2,Recruiter Screen,6
+2025-Q2,Finance,University,3,Hiring Manager Screen,3
+2025-Q2,Finance,University,4,Onsite,1
+2025-Q2,Finance,University,5,Offer,1
+2025-Q2,Finance,University,6,Hired,1
+2025-Q2,Finance,Unknown,1,Applied,7
+2025-Q2,Finance,Unknown,2,Recruiter Screen,2
+2025-Q2,Finance,Unknown,3,Hiring Manager Screen,1
+2025-Q2,Finance,Unknown,4,Onsite,1
+2025-Q2,Finance,Unknown,5,Offer,0
+2025-Q2,Finance,Unknown,6,Hired,0
+2025-Q2,Manufacturing,Agency,1,Applied,114
+2025-Q2,Manufacturing,Agency,2,Recruiter Screen,45
+2025-Q2,Manufacturing,Agency,3,Hiring Manager Screen,22
+2025-Q2,Manufacturing,Agency,4,Onsite,10
+2025-Q2,Manufacturing,Agency,5,Offer,3
+2025-Q2,Manufacturing,Agency,6,Hired,2
+2025-Q2,Manufacturing,Careers Site,1,Applied,818
+2025-Q2,Manufacturing,Careers Site,2,Recruiter Screen,168
+2025-Q2,Manufacturing,Careers Site,3,Hiring Manager Screen,81
+2025-Q2,Manufacturing,Careers Site,4,Onsite,35
+2025-Q2,Manufacturing,Careers Site,5,Offer,9
+2025-Q2,Manufacturing,Careers Site,6,Hired,9
+2025-Q2,Manufacturing,Internal,1,Applied,76
+2025-Q2,Manufacturing,Internal,2,Recruiter Screen,43
+2025-Q2,Manufacturing,Internal,3,Hiring Manager Screen,25
+2025-Q2,Manufacturing,Internal,4,Onsite,6
+2025-Q2,Manufacturing,Internal,5,Offer,3
+2025-Q2,Manufacturing,Internal,6,Hired,2
+2025-Q2,Manufacturing,Job Board,1,Applied,1030
+2025-Q2,Manufacturing,Job Board,2,Recruiter Screen,117
+2025-Q2,Manufacturing,Job Board,3,Hiring Manager Screen,46
+2025-Q2,Manufacturing,Job Board,4,Onsite,15
+2025-Q2,Manufacturing,Job Board,5,Offer,3
+2025-Q2,Manufacturing,Job Board,6,Hired,3
+2025-Q2,Manufacturing,LinkedIn,1,Applied,530
+2025-Q2,Manufacturing,LinkedIn,2,Recruiter Screen,100
+2025-Q2,Manufacturing,LinkedIn,3,Hiring Manager Screen,48
+2025-Q2,Manufacturing,LinkedIn,4,Onsite,22
+2025-Q2,Manufacturing,LinkedIn,5,Offer,4
+2025-Q2,Manufacturing,LinkedIn,6,Hired,3
+2025-Q2,Manufacturing,Referral,1,Applied,250
+2025-Q2,Manufacturing,Referral,2,Recruiter Screen,106
+2025-Q2,Manufacturing,Referral,3,Hiring Manager Screen,57
+2025-Q2,Manufacturing,Referral,4,Onsite,22
+2025-Q2,Manufacturing,Referral,5,Offer,7
+2025-Q2,Manufacturing,Referral,6,Hired,2
+2025-Q2,Manufacturing,University,1,Applied,160
+2025-Q2,Manufacturing,University,2,Recruiter Screen,42
+2025-Q2,Manufacturing,University,3,Hiring Manager Screen,16
+2025-Q2,Manufacturing,University,4,Onsite,4
+2025-Q2,Manufacturing,University,5,Offer,1
+2025-Q2,Manufacturing,University,6,Hired,0
+2025-Q2,Manufacturing,Unknown,1,Applied,71
+2025-Q2,Manufacturing,Unknown,2,Recruiter Screen,17
+2025-Q2,Manufacturing,Unknown,3,Hiring Manager Screen,7
+2025-Q2,Manufacturing,Unknown,4,Onsite,1
+2025-Q2,Manufacturing,Unknown,5,Offer,0
+2025-Q2,Manufacturing,Unknown,6,Hired,0
+2025-Q2,People,Agency,1,Applied,17
+2025-Q2,People,Agency,2,Recruiter Screen,3
+2025-Q2,People,Agency,3,Hiring Manager Screen,1
+2025-Q2,People,Agency,4,Onsite,0
+2025-Q2,People,Agency,5,Offer,0
+2025-Q2,People,Agency,6,Hired,0
+2025-Q2,People,Careers Site,1,Applied,124
+2025-Q2,People,Careers Site,2,Recruiter Screen,23
+2025-Q2,People,Careers Site,3,Hiring Manager Screen,14
+2025-Q2,People,Careers Site,4,Onsite,2
+2025-Q2,People,Careers Site,5,Offer,0
+2025-Q2,People,Careers Site,6,Hired,0
+2025-Q2,People,Internal,1,Applied,16
+2025-Q2,People,Internal,2,Recruiter Screen,8
+2025-Q2,People,Internal,3,Hiring Manager Screen,4
+2025-Q2,People,Internal,4,Onsite,1
+2025-Q2,People,Internal,5,Offer,0
+2025-Q2,People,Internal,6,Hired,0
+2025-Q2,People,Job Board,1,Applied,150
+2025-Q2,People,Job Board,2,Recruiter Screen,23
+2025-Q2,People,Job Board,3,Hiring Manager Screen,9
+2025-Q2,People,Job Board,4,Onsite,3
+2025-Q2,People,Job Board,5,Offer,1
+2025-Q2,People,Job Board,6,Hired,0
+2025-Q2,People,LinkedIn,1,Applied,84
+2025-Q2,People,LinkedIn,2,Recruiter Screen,20
+2025-Q2,People,LinkedIn,3,Hiring Manager Screen,9
+2025-Q2,People,LinkedIn,4,Onsite,2
+2025-Q2,People,LinkedIn,5,Offer,0
+2025-Q2,People,LinkedIn,6,Hired,0
+2025-Q2,People,Referral,1,Applied,29
+2025-Q2,People,Referral,2,Recruiter Screen,16
+2025-Q2,People,Referral,3,Hiring Manager Screen,7
+2025-Q2,People,Referral,4,Onsite,3
+2025-Q2,People,Referral,5,Offer,2
+2025-Q2,People,Referral,6,Hired,2
+2025-Q2,People,University,1,Applied,25
+2025-Q2,People,University,2,Recruiter Screen,5
+2025-Q2,People,University,3,Hiring Manager Screen,4
+2025-Q2,People,University,4,Onsite,1
+2025-Q2,People,University,5,Offer,0
+2025-Q2,People,University,6,Hired,0
+2025-Q2,People,Unknown,1,Applied,10
+2025-Q2,People,Unknown,2,Recruiter Screen,0
+2025-Q2,People,Unknown,3,Hiring Manager Screen,0
+2025-Q2,People,Unknown,4,Onsite,0
+2025-Q2,People,Unknown,5,Offer,0
+2025-Q2,People,Unknown,6,Hired,0
+2025-Q2,Service,Agency,1,Applied,47
+2025-Q2,Service,Agency,2,Recruiter Screen,16
+2025-Q2,Service,Agency,3,Hiring Manager Screen,7
+2025-Q2,Service,Agency,4,Onsite,4
+2025-Q2,Service,Agency,5,Offer,1
+2025-Q2,Service,Agency,6,Hired,0
+2025-Q2,Service,Careers Site,1,Applied,348
+2025-Q2,Service,Careers Site,2,Recruiter Screen,56
+2025-Q2,Service,Careers Site,3,Hiring Manager Screen,25
+2025-Q2,Service,Careers Site,4,Onsite,12
+2025-Q2,Service,Careers Site,5,Offer,2
+2025-Q2,Service,Careers Site,6,Hired,0
+2025-Q2,Service,Internal,1,Applied,34
+2025-Q2,Service,Internal,2,Recruiter Screen,22
+2025-Q2,Service,Internal,3,Hiring Manager Screen,9
+2025-Q2,Service,Internal,4,Onsite,5
+2025-Q2,Service,Internal,5,Offer,3
+2025-Q2,Service,Internal,6,Hired,3
+2025-Q2,Service,Job Board,1,Applied,438
+2025-Q2,Service,Job Board,2,Recruiter Screen,55
+2025-Q2,Service,Job Board,3,Hiring Manager Screen,29
+2025-Q2,Service,Job Board,4,Onsite,10
+2025-Q2,Service,Job Board,5,Offer,5
+2025-Q2,Service,Job Board,6,Hired,4
+2025-Q2,Service,LinkedIn,1,Applied,252
+2025-Q2,Service,LinkedIn,2,Recruiter Screen,65
+2025-Q2,Service,LinkedIn,3,Hiring Manager Screen,29
+2025-Q2,Service,LinkedIn,4,Onsite,13
+2025-Q2,Service,LinkedIn,5,Offer,4
+2025-Q2,Service,LinkedIn,6,Hired,4
+2025-Q2,Service,Referral,1,Applied,121
+2025-Q2,Service,Referral,2,Recruiter Screen,45
+2025-Q2,Service,Referral,3,Hiring Manager Screen,25
+2025-Q2,Service,Referral,4,Onsite,7
+2025-Q2,Service,Referral,5,Offer,1
+2025-Q2,Service,Referral,6,Hired,0
+2025-Q2,Service,University,1,Applied,65
+2025-Q2,Service,University,2,Recruiter Screen,14
+2025-Q2,Service,University,3,Hiring Manager Screen,4
+2025-Q2,Service,University,4,Onsite,0
+2025-Q2,Service,University,5,Offer,0
+2025-Q2,Service,University,6,Hired,0
+2025-Q2,Service,Unknown,1,Applied,19
+2025-Q2,Service,Unknown,2,Recruiter Screen,3
+2025-Q2,Service,Unknown,3,Hiring Manager Screen,0
+2025-Q2,Service,Unknown,4,Onsite,0
+2025-Q2,Service,Unknown,5,Offer,0
+2025-Q2,Service,Unknown,6,Hired,0
+2025-Q2,Supply Chain,Agency,1,Applied,29
+2025-Q2,Supply Chain,Agency,2,Recruiter Screen,9
+2025-Q2,Supply Chain,Agency,3,Hiring Manager Screen,5
+2025-Q2,Supply Chain,Agency,4,Onsite,1
+2025-Q2,Supply Chain,Agency,5,Offer,0
+2025-Q2,Supply Chain,Agency,6,Hired,0
+2025-Q2,Supply Chain,Careers Site,1,Applied,145
+2025-Q2,Supply Chain,Careers Site,2,Recruiter Screen,27
+2025-Q2,Supply Chain,Careers Site,3,Hiring Manager Screen,11
+2025-Q2,Supply Chain,Careers Site,4,Onsite,4
+2025-Q2,Supply Chain,Careers Site,5,Offer,0
+2025-Q2,Supply Chain,Careers Site,6,Hired,0
+2025-Q2,Supply Chain,Internal,1,Applied,11
+2025-Q2,Supply Chain,Internal,2,Recruiter Screen,7
+2025-Q2,Supply Chain,Internal,3,Hiring Manager Screen,5
+2025-Q2,Supply Chain,Internal,4,Onsite,2
+2025-Q2,Supply Chain,Internal,5,Offer,2
+2025-Q2,Supply Chain,Internal,6,Hired,2
+2025-Q2,Supply Chain,Job Board,1,Applied,167
+2025-Q2,Supply Chain,Job Board,2,Recruiter Screen,21
+2025-Q2,Supply Chain,Job Board,3,Hiring Manager Screen,11
+2025-Q2,Supply Chain,Job Board,4,Onsite,6
+2025-Q2,Supply Chain,Job Board,5,Offer,0
+2025-Q2,Supply Chain,Job Board,6,Hired,0
+2025-Q2,Supply Chain,LinkedIn,1,Applied,90
+2025-Q2,Supply Chain,LinkedIn,2,Recruiter Screen,17
+2025-Q2,Supply Chain,LinkedIn,3,Hiring Manager Screen,5
+2025-Q2,Supply Chain,LinkedIn,4,Onsite,0
+2025-Q2,Supply Chain,LinkedIn,5,Offer,0
+2025-Q2,Supply Chain,LinkedIn,6,Hired,0
+2025-Q2,Supply Chain,Referral,1,Applied,42
+2025-Q2,Supply Chain,Referral,2,Recruiter Screen,22
+2025-Q2,Supply Chain,Referral,3,Hiring Manager Screen,11
+2025-Q2,Supply Chain,Referral,4,Onsite,5
+2025-Q2,Supply Chain,Referral,5,Offer,2
+2025-Q2,Supply Chain,Referral,6,Hired,2
+2025-Q2,Supply Chain,University,1,Applied,37
+2025-Q2,Supply Chain,University,2,Recruiter Screen,9
+2025-Q2,Supply Chain,University,3,Hiring Manager Screen,4
+2025-Q2,Supply Chain,University,4,Onsite,2
+2025-Q2,Supply Chain,University,5,Offer,0
+2025-Q2,Supply Chain,University,6,Hired,0
+2025-Q2,Supply Chain,Unknown,1,Applied,16
+2025-Q2,Supply Chain,Unknown,2,Recruiter Screen,5
+2025-Q2,Supply Chain,Unknown,3,Hiring Manager Screen,1
+2025-Q2,Supply Chain,Unknown,4,Onsite,0
+2025-Q2,Supply Chain,Unknown,5,Offer,0
+2025-Q2,Supply Chain,Unknown,6,Hired,0
+2025-Q2,Vehicle Software,Agency,1,Applied,38
+2025-Q2,Vehicle Software,Agency,2,Recruiter Screen,16
+2025-Q2,Vehicle Software,Agency,3,Hiring Manager Screen,6
+2025-Q2,Vehicle Software,Agency,4,Onsite,2
+2025-Q2,Vehicle Software,Agency,5,Offer,0
+2025-Q2,Vehicle Software,Agency,6,Hired,0
+2025-Q2,Vehicle Software,Careers Site,1,Applied,292
+2025-Q2,Vehicle Software,Careers Site,2,Recruiter Screen,52
+2025-Q2,Vehicle Software,Careers Site,3,Hiring Manager Screen,20
+2025-Q2,Vehicle Software,Careers Site,4,Onsite,7
+2025-Q2,Vehicle Software,Careers Site,5,Offer,2
+2025-Q2,Vehicle Software,Careers Site,6,Hired,1
+2025-Q2,Vehicle Software,Internal,1,Applied,23
+2025-Q2,Vehicle Software,Internal,2,Recruiter Screen,9
+2025-Q2,Vehicle Software,Internal,3,Hiring Manager Screen,5
+2025-Q2,Vehicle Software,Internal,4,Onsite,2
+2025-Q2,Vehicle Software,Internal,5,Offer,2
+2025-Q2,Vehicle Software,Internal,6,Hired,2
+2025-Q2,Vehicle Software,Job Board,1,Applied,329
+2025-Q2,Vehicle Software,Job Board,2,Recruiter Screen,41
+2025-Q2,Vehicle Software,Job Board,3,Hiring Manager Screen,17
+2025-Q2,Vehicle Software,Job Board,4,Onsite,7
+2025-Q2,Vehicle Software,Job Board,5,Offer,3
+2025-Q2,Vehicle Software,Job Board,6,Hired,2
+2025-Q2,Vehicle Software,LinkedIn,1,Applied,179
+2025-Q2,Vehicle Software,LinkedIn,2,Recruiter Screen,36
+2025-Q2,Vehicle Software,LinkedIn,3,Hiring Manager Screen,22
+2025-Q2,Vehicle Software,LinkedIn,4,Onsite,9
+2025-Q2,Vehicle Software,LinkedIn,5,Offer,3
+2025-Q2,Vehicle Software,LinkedIn,6,Hired,3
+2025-Q2,Vehicle Software,Referral,1,Applied,94
+2025-Q2,Vehicle Software,Referral,2,Recruiter Screen,49
+2025-Q2,Vehicle Software,Referral,3,Hiring Manager Screen,22
+2025-Q2,Vehicle Software,Referral,4,Onsite,6
+2025-Q2,Vehicle Software,Referral,5,Offer,1
+2025-Q2,Vehicle Software,Referral,6,Hired,1
+2025-Q2,Vehicle Software,University,1,Applied,42
+2025-Q2,Vehicle Software,University,2,Recruiter Screen,4
+2025-Q2,Vehicle Software,University,3,Hiring Manager Screen,0
+2025-Q2,Vehicle Software,University,4,Onsite,0
+2025-Q2,Vehicle Software,University,5,Offer,0
+2025-Q2,Vehicle Software,University,6,Hired,0
+2025-Q2,Vehicle Software,Unknown,1,Applied,19
+2025-Q2,Vehicle Software,Unknown,2,Recruiter Screen,4
+2025-Q2,Vehicle Software,Unknown,3,Hiring Manager Screen,0
+2025-Q2,Vehicle Software,Unknown,4,Onsite,0
+2025-Q2,Vehicle Software,Unknown,5,Offer,0
+2025-Q2,Vehicle Software,Unknown,6,Hired,0
+2025-Q3,AI & Robotics,Agency,1,Applied,44
+2025-Q3,AI & Robotics,Agency,2,Recruiter Screen,16
+2025-Q3,AI & Robotics,Agency,3,Hiring Manager Screen,6
+2025-Q3,AI & Robotics,Agency,4,Onsite,3
+2025-Q3,AI & Robotics,Agency,5,Offer,2
+2025-Q3,AI & Robotics,Agency,6,Hired,1
+2025-Q3,AI & Robotics,Careers Site,1,Applied,181
+2025-Q3,AI & Robotics,Careers Site,2,Recruiter Screen,30
+2025-Q3,AI & Robotics,Careers Site,3,Hiring Manager Screen,16
+2025-Q3,AI & Robotics,Careers Site,4,Onsite,7
+2025-Q3,AI & Robotics,Careers Site,5,Offer,1
+2025-Q3,AI & Robotics,Careers Site,6,Hired,0
+2025-Q3,AI & Robotics,Internal,1,Applied,19
+2025-Q3,AI & Robotics,Internal,2,Recruiter Screen,12
+2025-Q3,AI & Robotics,Internal,3,Hiring Manager Screen,6
+2025-Q3,AI & Robotics,Internal,4,Onsite,5
+2025-Q3,AI & Robotics,Internal,5,Offer,1
+2025-Q3,AI & Robotics,Internal,6,Hired,1
+2025-Q3,AI & Robotics,Job Board,1,Applied,234
+2025-Q3,AI & Robotics,Job Board,2,Recruiter Screen,23
+2025-Q3,AI & Robotics,Job Board,3,Hiring Manager Screen,11
+2025-Q3,AI & Robotics,Job Board,4,Onsite,4
+2025-Q3,AI & Robotics,Job Board,5,Offer,1
+2025-Q3,AI & Robotics,Job Board,6,Hired,0
+2025-Q3,AI & Robotics,LinkedIn,1,Applied,142
+2025-Q3,AI & Robotics,LinkedIn,2,Recruiter Screen,29
+2025-Q3,AI & Robotics,LinkedIn,3,Hiring Manager Screen,10
+2025-Q3,AI & Robotics,LinkedIn,4,Onsite,3
+2025-Q3,AI & Robotics,LinkedIn,5,Offer,0
+2025-Q3,AI & Robotics,LinkedIn,6,Hired,0
+2025-Q3,AI & Robotics,Referral,1,Applied,59
+2025-Q3,AI & Robotics,Referral,2,Recruiter Screen,32
+2025-Q3,AI & Robotics,Referral,3,Hiring Manager Screen,20
+2025-Q3,AI & Robotics,Referral,4,Onsite,12
+2025-Q3,AI & Robotics,Referral,5,Offer,3
+2025-Q3,AI & Robotics,Referral,6,Hired,3
+2025-Q3,AI & Robotics,University,1,Applied,51
+2025-Q3,AI & Robotics,University,2,Recruiter Screen,12
+2025-Q3,AI & Robotics,University,3,Hiring Manager Screen,4
+2025-Q3,AI & Robotics,University,4,Onsite,2
+2025-Q3,AI & Robotics,University,5,Offer,0
+2025-Q3,AI & Robotics,University,6,Hired,0
+2025-Q3,AI & Robotics,Unknown,1,Applied,12
+2025-Q3,AI & Robotics,Unknown,2,Recruiter Screen,4
+2025-Q3,AI & Robotics,Unknown,3,Hiring Manager Screen,3
+2025-Q3,AI & Robotics,Unknown,4,Onsite,1
+2025-Q3,AI & Robotics,Unknown,5,Offer,0
+2025-Q3,AI & Robotics,Unknown,6,Hired,0
+2025-Q3,Energy,Agency,1,Applied,22
+2025-Q3,Energy,Agency,2,Recruiter Screen,9
+2025-Q3,Energy,Agency,3,Hiring Manager Screen,4
+2025-Q3,Energy,Agency,4,Onsite,1
+2025-Q3,Energy,Agency,5,Offer,0
+2025-Q3,Energy,Agency,6,Hired,0
+2025-Q3,Energy,Careers Site,1,Applied,167
+2025-Q3,Energy,Careers Site,2,Recruiter Screen,30
+2025-Q3,Energy,Careers Site,3,Hiring Manager Screen,13
+2025-Q3,Energy,Careers Site,4,Onsite,5
+2025-Q3,Energy,Careers Site,5,Offer,1
+2025-Q3,Energy,Careers Site,6,Hired,0
+2025-Q3,Energy,Internal,1,Applied,16
+2025-Q3,Energy,Internal,2,Recruiter Screen,6
+2025-Q3,Energy,Internal,3,Hiring Manager Screen,3
+2025-Q3,Energy,Internal,4,Onsite,2
+2025-Q3,Energy,Internal,5,Offer,0
+2025-Q3,Energy,Internal,6,Hired,0
+2025-Q3,Energy,Job Board,1,Applied,175
+2025-Q3,Energy,Job Board,2,Recruiter Screen,24
+2025-Q3,Energy,Job Board,3,Hiring Manager Screen,12
+2025-Q3,Energy,Job Board,4,Onsite,6
+2025-Q3,Energy,Job Board,5,Offer,3
+2025-Q3,Energy,Job Board,6,Hired,2
+2025-Q3,Energy,LinkedIn,1,Applied,117
+2025-Q3,Energy,LinkedIn,2,Recruiter Screen,25
+2025-Q3,Energy,LinkedIn,3,Hiring Manager Screen,9
+2025-Q3,Energy,LinkedIn,4,Onsite,3
+2025-Q3,Energy,LinkedIn,5,Offer,0
+2025-Q3,Energy,LinkedIn,6,Hired,0
+2025-Q3,Energy,Referral,1,Applied,39
+2025-Q3,Energy,Referral,2,Recruiter Screen,15
+2025-Q3,Energy,Referral,3,Hiring Manager Screen,8
+2025-Q3,Energy,Referral,4,Onsite,3
+2025-Q3,Energy,Referral,5,Offer,1
+2025-Q3,Energy,Referral,6,Hired,1
+2025-Q3,Energy,University,1,Applied,36
+2025-Q3,Energy,University,2,Recruiter Screen,10
+2025-Q3,Energy,University,3,Hiring Manager Screen,4
+2025-Q3,Energy,University,4,Onsite,3
+2025-Q3,Energy,University,5,Offer,1
+2025-Q3,Energy,University,6,Hired,1
+2025-Q3,Energy,Unknown,1,Applied,11
+2025-Q3,Energy,Unknown,2,Recruiter Screen,0
+2025-Q3,Energy,Unknown,3,Hiring Manager Screen,0
+2025-Q3,Energy,Unknown,4,Onsite,0
+2025-Q3,Energy,Unknown,5,Offer,0
+2025-Q3,Energy,Unknown,6,Hired,0
+2025-Q3,Finance,Agency,1,Applied,18
+2025-Q3,Finance,Agency,2,Recruiter Screen,9
+2025-Q3,Finance,Agency,3,Hiring Manager Screen,4
+2025-Q3,Finance,Agency,4,Onsite,1
+2025-Q3,Finance,Agency,5,Offer,0
+2025-Q3,Finance,Agency,6,Hired,0
+2025-Q3,Finance,Careers Site,1,Applied,119
+2025-Q3,Finance,Careers Site,2,Recruiter Screen,21
+2025-Q3,Finance,Careers Site,3,Hiring Manager Screen,11
+2025-Q3,Finance,Careers Site,4,Onsite,4
+2025-Q3,Finance,Careers Site,5,Offer,1
+2025-Q3,Finance,Careers Site,6,Hired,1
+2025-Q3,Finance,Internal,1,Applied,14
+2025-Q3,Finance,Internal,2,Recruiter Screen,8
+2025-Q3,Finance,Internal,3,Hiring Manager Screen,3
+2025-Q3,Finance,Internal,4,Onsite,2
+2025-Q3,Finance,Internal,5,Offer,1
+2025-Q3,Finance,Internal,6,Hired,1
+2025-Q3,Finance,Job Board,1,Applied,153
+2025-Q3,Finance,Job Board,2,Recruiter Screen,15
+2025-Q3,Finance,Job Board,3,Hiring Manager Screen,5
+2025-Q3,Finance,Job Board,4,Onsite,2
+2025-Q3,Finance,Job Board,5,Offer,0
+2025-Q3,Finance,Job Board,6,Hired,0
+2025-Q3,Finance,LinkedIn,1,Applied,74
+2025-Q3,Finance,LinkedIn,2,Recruiter Screen,21
+2025-Q3,Finance,LinkedIn,3,Hiring Manager Screen,8
+2025-Q3,Finance,LinkedIn,4,Onsite,2
+2025-Q3,Finance,LinkedIn,5,Offer,1
+2025-Q3,Finance,LinkedIn,6,Hired,1
+2025-Q3,Finance,Referral,1,Applied,42
+2025-Q3,Finance,Referral,2,Recruiter Screen,27
+2025-Q3,Finance,Referral,3,Hiring Manager Screen,11
+2025-Q3,Finance,Referral,4,Onsite,7
+2025-Q3,Finance,Referral,5,Offer,3
+2025-Q3,Finance,Referral,6,Hired,3
+2025-Q3,Finance,University,1,Applied,21
+2025-Q3,Finance,University,2,Recruiter Screen,3
+2025-Q3,Finance,University,3,Hiring Manager Screen,1
+2025-Q3,Finance,University,4,Onsite,0
+2025-Q3,Finance,University,5,Offer,0
+2025-Q3,Finance,University,6,Hired,0
+2025-Q3,Finance,Unknown,1,Applied,9
+2025-Q3,Finance,Unknown,2,Recruiter Screen,2
+2025-Q3,Finance,Unknown,3,Hiring Manager Screen,2
+2025-Q3,Finance,Unknown,4,Onsite,1
+2025-Q3,Finance,Unknown,5,Offer,0
+2025-Q3,Finance,Unknown,6,Hired,0
+2025-Q3,Manufacturing,Agency,1,Applied,125
+2025-Q3,Manufacturing,Agency,2,Recruiter Screen,45
+2025-Q3,Manufacturing,Agency,3,Hiring Manager Screen,21
+2025-Q3,Manufacturing,Agency,4,Onsite,9
+2025-Q3,Manufacturing,Agency,5,Offer,2
+2025-Q3,Manufacturing,Agency,6,Hired,2
+2025-Q3,Manufacturing,Careers Site,1,Applied,727
+2025-Q3,Manufacturing,Careers Site,2,Recruiter Screen,143
+2025-Q3,Manufacturing,Careers Site,3,Hiring Manager Screen,62
+2025-Q3,Manufacturing,Careers Site,4,Onsite,24
+2025-Q3,Manufacturing,Careers Site,5,Offer,4
+2025-Q3,Manufacturing,Careers Site,6,Hired,4
+2025-Q3,Manufacturing,Internal,1,Applied,70
+2025-Q3,Manufacturing,Internal,2,Recruiter Screen,32
+2025-Q3,Manufacturing,Internal,3,Hiring Manager Screen,16
+2025-Q3,Manufacturing,Internal,4,Onsite,6
+2025-Q3,Manufacturing,Internal,5,Offer,3
+2025-Q3,Manufacturing,Internal,6,Hired,3
+2025-Q3,Manufacturing,Job Board,1,Applied,978
+2025-Q3,Manufacturing,Job Board,2,Recruiter Screen,107
+2025-Q3,Manufacturing,Job Board,3,Hiring Manager Screen,40
+2025-Q3,Manufacturing,Job Board,4,Onsite,16
+2025-Q3,Manufacturing,Job Board,5,Offer,5
+2025-Q3,Manufacturing,Job Board,6,Hired,3
+2025-Q3,Manufacturing,LinkedIn,1,Applied,491
+2025-Q3,Manufacturing,LinkedIn,2,Recruiter Screen,105
+2025-Q3,Manufacturing,LinkedIn,3,Hiring Manager Screen,54
+2025-Q3,Manufacturing,LinkedIn,4,Onsite,21
+2025-Q3,Manufacturing,LinkedIn,5,Offer,4
+2025-Q3,Manufacturing,LinkedIn,6,Hired,2
+2025-Q3,Manufacturing,Referral,1,Applied,233
+2025-Q3,Manufacturing,Referral,2,Recruiter Screen,116
+2025-Q3,Manufacturing,Referral,3,Hiring Manager Screen,59
+2025-Q3,Manufacturing,Referral,4,Onsite,26
+2025-Q3,Manufacturing,Referral,5,Offer,9
+2025-Q3,Manufacturing,Referral,6,Hired,6
+2025-Q3,Manufacturing,University,1,Applied,163
+2025-Q3,Manufacturing,University,2,Recruiter Screen,40
+2025-Q3,Manufacturing,University,3,Hiring Manager Screen,17
+2025-Q3,Manufacturing,University,4,Onsite,5
+2025-Q3,Manufacturing,University,5,Offer,3
+2025-Q3,Manufacturing,University,6,Hired,3
+2025-Q3,Manufacturing,Unknown,1,Applied,58
+2025-Q3,Manufacturing,Unknown,2,Recruiter Screen,9
+2025-Q3,Manufacturing,Unknown,3,Hiring Manager Screen,5
+2025-Q3,Manufacturing,Unknown,4,Onsite,1
+2025-Q3,Manufacturing,Unknown,5,Offer,0
+2025-Q3,Manufacturing,Unknown,6,Hired,0
+2025-Q3,People,Agency,1,Applied,18
+2025-Q3,People,Agency,2,Recruiter Screen,6
+2025-Q3,People,Agency,3,Hiring Manager Screen,4
+2025-Q3,People,Agency,4,Onsite,2
+2025-Q3,People,Agency,5,Offer,1
+2025-Q3,People,Agency,6,Hired,0
+2025-Q3,People,Careers Site,1,Applied,136
+2025-Q3,People,Careers Site,2,Recruiter Screen,20
+2025-Q3,People,Careers Site,3,Hiring Manager Screen,5
+2025-Q3,People,Careers Site,4,Onsite,2
+2025-Q3,People,Careers Site,5,Offer,0
+2025-Q3,People,Careers Site,6,Hired,0
+2025-Q3,People,Internal,1,Applied,14
+2025-Q3,People,Internal,2,Recruiter Screen,6
+2025-Q3,People,Internal,3,Hiring Manager Screen,3
+2025-Q3,People,Internal,4,Onsite,1
+2025-Q3,People,Internal,5,Offer,0
+2025-Q3,People,Internal,6,Hired,0
+2025-Q3,People,Job Board,1,Applied,169
+2025-Q3,People,Job Board,2,Recruiter Screen,19
+2025-Q3,People,Job Board,3,Hiring Manager Screen,7
+2025-Q3,People,Job Board,4,Onsite,2
+2025-Q3,People,Job Board,5,Offer,1
+2025-Q3,People,Job Board,6,Hired,1
+2025-Q3,People,LinkedIn,1,Applied,95
+2025-Q3,People,LinkedIn,2,Recruiter Screen,21
+2025-Q3,People,LinkedIn,3,Hiring Manager Screen,9
+2025-Q3,People,LinkedIn,4,Onsite,4
+2025-Q3,People,LinkedIn,5,Offer,0
+2025-Q3,People,LinkedIn,6,Hired,0
+2025-Q3,People,Referral,1,Applied,50
+2025-Q3,People,Referral,2,Recruiter Screen,22
+2025-Q3,People,Referral,3,Hiring Manager Screen,13
+2025-Q3,People,Referral,4,Onsite,10
+2025-Q3,People,Referral,5,Offer,3
+2025-Q3,People,Referral,6,Hired,3
+2025-Q3,People,University,1,Applied,35
+2025-Q3,People,University,2,Recruiter Screen,7
+2025-Q3,People,University,3,Hiring Manager Screen,3
+2025-Q3,People,University,4,Onsite,0
+2025-Q3,People,University,5,Offer,0
+2025-Q3,People,University,6,Hired,0
+2025-Q3,People,Unknown,1,Applied,9
+2025-Q3,People,Unknown,2,Recruiter Screen,1
+2025-Q3,People,Unknown,3,Hiring Manager Screen,1
+2025-Q3,People,Unknown,4,Onsite,0
+2025-Q3,People,Unknown,5,Offer,0
+2025-Q3,People,Unknown,6,Hired,0
+2025-Q3,Service,Agency,1,Applied,48
+2025-Q3,Service,Agency,2,Recruiter Screen,20
+2025-Q3,Service,Agency,3,Hiring Manager Screen,12
+2025-Q3,Service,Agency,4,Onsite,3
+2025-Q3,Service,Agency,5,Offer,2
+2025-Q3,Service,Agency,6,Hired,2
+2025-Q3,Service,Careers Site,1,Applied,373
+2025-Q3,Service,Careers Site,2,Recruiter Screen,73
+2025-Q3,Service,Careers Site,3,Hiring Manager Screen,28
+2025-Q3,Service,Careers Site,4,Onsite,11
+2025-Q3,Service,Careers Site,5,Offer,3
+2025-Q3,Service,Careers Site,6,Hired,2
+2025-Q3,Service,Internal,1,Applied,47
+2025-Q3,Service,Internal,2,Recruiter Screen,25
+2025-Q3,Service,Internal,3,Hiring Manager Screen,15
+2025-Q3,Service,Internal,4,Onsite,4
+2025-Q3,Service,Internal,5,Offer,0
+2025-Q3,Service,Internal,6,Hired,0
+2025-Q3,Service,Job Board,1,Applied,436
+2025-Q3,Service,Job Board,2,Recruiter Screen,53
+2025-Q3,Service,Job Board,3,Hiring Manager Screen,30
+2025-Q3,Service,Job Board,4,Onsite,12
+2025-Q3,Service,Job Board,5,Offer,2
+2025-Q3,Service,Job Board,6,Hired,1
+2025-Q3,Service,LinkedIn,1,Applied,234
+2025-Q3,Service,LinkedIn,2,Recruiter Screen,46
+2025-Q3,Service,LinkedIn,3,Hiring Manager Screen,18
+2025-Q3,Service,LinkedIn,4,Onsite,10
+2025-Q3,Service,LinkedIn,5,Offer,1
+2025-Q3,Service,LinkedIn,6,Hired,1
+2025-Q3,Service,Referral,1,Applied,110
+2025-Q3,Service,Referral,2,Recruiter Screen,48
+2025-Q3,Service,Referral,3,Hiring Manager Screen,21
+2025-Q3,Service,Referral,4,Onsite,10
+2025-Q3,Service,Referral,5,Offer,2
+2025-Q3,Service,Referral,6,Hired,1
+2025-Q3,Service,University,1,Applied,67
+2025-Q3,Service,University,2,Recruiter Screen,19
+2025-Q3,Service,University,3,Hiring Manager Screen,7
+2025-Q3,Service,University,4,Onsite,2
+2025-Q3,Service,University,5,Offer,1
+2025-Q3,Service,University,6,Hired,1
+2025-Q3,Service,Unknown,1,Applied,26
+2025-Q3,Service,Unknown,2,Recruiter Screen,2
+2025-Q3,Service,Unknown,3,Hiring Manager Screen,1
+2025-Q3,Service,Unknown,4,Onsite,1
+2025-Q3,Service,Unknown,5,Offer,0
+2025-Q3,Service,Unknown,6,Hired,0
+2025-Q3,Supply Chain,Agency,1,Applied,7
+2025-Q3,Supply Chain,Agency,2,Recruiter Screen,0
+2025-Q3,Supply Chain,Agency,3,Hiring Manager Screen,0
+2025-Q3,Supply Chain,Agency,4,Onsite,0
+2025-Q3,Supply Chain,Agency,5,Offer,0
+2025-Q3,Supply Chain,Agency,6,Hired,0
+2025-Q3,Supply Chain,Careers Site,1,Applied,84
+2025-Q3,Supply Chain,Careers Site,2,Recruiter Screen,11
+2025-Q3,Supply Chain,Careers Site,3,Hiring Manager Screen,7
+2025-Q3,Supply Chain,Careers Site,4,Onsite,4
+2025-Q3,Supply Chain,Careers Site,5,Offer,1
+2025-Q3,Supply Chain,Careers Site,6,Hired,1
+2025-Q3,Supply Chain,Internal,1,Applied,8
+2025-Q3,Supply Chain,Internal,2,Recruiter Screen,3
+2025-Q3,Supply Chain,Internal,3,Hiring Manager Screen,2
+2025-Q3,Supply Chain,Internal,4,Onsite,1
+2025-Q3,Supply Chain,Internal,5,Offer,0
+2025-Q3,Supply Chain,Internal,6,Hired,0
+2025-Q3,Supply Chain,Job Board,1,Applied,103
+2025-Q3,Supply Chain,Job Board,2,Recruiter Screen,16
+2025-Q3,Supply Chain,Job Board,3,Hiring Manager Screen,7
+2025-Q3,Supply Chain,Job Board,4,Onsite,1
+2025-Q3,Supply Chain,Job Board,5,Offer,1
+2025-Q3,Supply Chain,Job Board,6,Hired,1
+2025-Q3,Supply Chain,LinkedIn,1,Applied,57
+2025-Q3,Supply Chain,LinkedIn,2,Recruiter Screen,13
+2025-Q3,Supply Chain,LinkedIn,3,Hiring Manager Screen,7
+2025-Q3,Supply Chain,LinkedIn,4,Onsite,2
+2025-Q3,Supply Chain,LinkedIn,5,Offer,1
+2025-Q3,Supply Chain,LinkedIn,6,Hired,0
+2025-Q3,Supply Chain,Referral,1,Applied,27
+2025-Q3,Supply Chain,Referral,2,Recruiter Screen,13
+2025-Q3,Supply Chain,Referral,3,Hiring Manager Screen,8
+2025-Q3,Supply Chain,Referral,4,Onsite,4
+2025-Q3,Supply Chain,Referral,5,Offer,2
+2025-Q3,Supply Chain,Referral,6,Hired,2
+2025-Q3,Supply Chain,University,1,Applied,19
+2025-Q3,Supply Chain,University,2,Recruiter Screen,4
+2025-Q3,Supply Chain,University,3,Hiring Manager Screen,3
+2025-Q3,Supply Chain,University,4,Onsite,0
+2025-Q3,Supply Chain,University,5,Offer,0
+2025-Q3,Supply Chain,University,6,Hired,0
+2025-Q3,Supply Chain,Unknown,1,Applied,10
+2025-Q3,Supply Chain,Unknown,2,Recruiter Screen,4
+2025-Q3,Supply Chain,Unknown,3,Hiring Manager Screen,2
+2025-Q3,Supply Chain,Unknown,4,Onsite,2
+2025-Q3,Supply Chain,Unknown,5,Offer,2
+2025-Q3,Supply Chain,Unknown,6,Hired,1
+2025-Q3,Vehicle Software,Agency,1,Applied,31
+2025-Q3,Vehicle Software,Agency,2,Recruiter Screen,12
+2025-Q3,Vehicle Software,Agency,3,Hiring Manager Screen,3
+2025-Q3,Vehicle Software,Agency,4,Onsite,0
+2025-Q3,Vehicle Software,Agency,5,Offer,0
+2025-Q3,Vehicle Software,Agency,6,Hired,0
+2025-Q3,Vehicle Software,Careers Site,1,Applied,161
+2025-Q3,Vehicle Software,Careers Site,2,Recruiter Screen,27
+2025-Q3,Vehicle Software,Careers Site,3,Hiring Manager Screen,11
+2025-Q3,Vehicle Software,Careers Site,4,Onsite,4
+2025-Q3,Vehicle Software,Careers Site,5,Offer,1
+2025-Q3,Vehicle Software,Careers Site,6,Hired,0
+2025-Q3,Vehicle Software,Internal,1,Applied,22
+2025-Q3,Vehicle Software,Internal,2,Recruiter Screen,15
+2025-Q3,Vehicle Software,Internal,3,Hiring Manager Screen,7
+2025-Q3,Vehicle Software,Internal,4,Onsite,4
+2025-Q3,Vehicle Software,Internal,5,Offer,1
+2025-Q3,Vehicle Software,Internal,6,Hired,1
+2025-Q3,Vehicle Software,Job Board,1,Applied,216
+2025-Q3,Vehicle Software,Job Board,2,Recruiter Screen,25
+2025-Q3,Vehicle Software,Job Board,3,Hiring Manager Screen,12
+2025-Q3,Vehicle Software,Job Board,4,Onsite,5
+2025-Q3,Vehicle Software,Job Board,5,Offer,1
+2025-Q3,Vehicle Software,Job Board,6,Hired,0
+2025-Q3,Vehicle Software,LinkedIn,1,Applied,116
+2025-Q3,Vehicle Software,LinkedIn,2,Recruiter Screen,15
+2025-Q3,Vehicle Software,LinkedIn,3,Hiring Manager Screen,9
+2025-Q3,Vehicle Software,LinkedIn,4,Onsite,5
+2025-Q3,Vehicle Software,LinkedIn,5,Offer,2
+2025-Q3,Vehicle Software,LinkedIn,6,Hired,1
+2025-Q3,Vehicle Software,Referral,1,Applied,44
+2025-Q3,Vehicle Software,Referral,2,Recruiter Screen,20
+2025-Q3,Vehicle Software,Referral,3,Hiring Manager Screen,9
+2025-Q3,Vehicle Software,Referral,4,Onsite,3
+2025-Q3,Vehicle Software,Referral,5,Offer,1
+2025-Q3,Vehicle Software,Referral,6,Hired,1
+2025-Q3,Vehicle Software,University,1,Applied,32
+2025-Q3,Vehicle Software,University,2,Recruiter Screen,10
+2025-Q3,Vehicle Software,University,3,Hiring Manager Screen,3
+2025-Q3,Vehicle Software,University,4,Onsite,0
+2025-Q3,Vehicle Software,University,5,Offer,0
+2025-Q3,Vehicle Software,University,6,Hired,0
+2025-Q3,Vehicle Software,Unknown,1,Applied,15
+2025-Q3,Vehicle Software,Unknown,2,Recruiter Screen,4
+2025-Q3,Vehicle Software,Unknown,3,Hiring Manager Screen,1
+2025-Q3,Vehicle Software,Unknown,4,Onsite,1
+2025-Q3,Vehicle Software,Unknown,5,Offer,1
+2025-Q3,Vehicle Software,Unknown,6,Hired,1
+2025-Q4,AI & Robotics,Agency,1,Applied,32
+2025-Q4,AI & Robotics,Agency,2,Recruiter Screen,8
+2025-Q4,AI & Robotics,Agency,3,Hiring Manager Screen,2
+2025-Q4,AI & Robotics,Agency,4,Onsite,0
+2025-Q4,AI & Robotics,Agency,5,Offer,0
+2025-Q4,AI & Robotics,Agency,6,Hired,0
+2025-Q4,AI & Robotics,Careers Site,1,Applied,244
+2025-Q4,AI & Robotics,Careers Site,2,Recruiter Screen,36
+2025-Q4,AI & Robotics,Careers Site,3,Hiring Manager Screen,17
+2025-Q4,AI & Robotics,Careers Site,4,Onsite,8
+2025-Q4,AI & Robotics,Careers Site,5,Offer,2
+2025-Q4,AI & Robotics,Careers Site,6,Hired,2
+2025-Q4,AI & Robotics,Internal,1,Applied,22
+2025-Q4,AI & Robotics,Internal,2,Recruiter Screen,12
+2025-Q4,AI & Robotics,Internal,3,Hiring Manager Screen,8
+2025-Q4,AI & Robotics,Internal,4,Onsite,2
+2025-Q4,AI & Robotics,Internal,5,Offer,0
+2025-Q4,AI & Robotics,Internal,6,Hired,0
+2025-Q4,AI & Robotics,Job Board,1,Applied,324
+2025-Q4,AI & Robotics,Job Board,2,Recruiter Screen,34
+2025-Q4,AI & Robotics,Job Board,3,Hiring Manager Screen,14
+2025-Q4,AI & Robotics,Job Board,4,Onsite,3
+2025-Q4,AI & Robotics,Job Board,5,Offer,0
+2025-Q4,AI & Robotics,Job Board,6,Hired,0
+2025-Q4,AI & Robotics,LinkedIn,1,Applied,165
+2025-Q4,AI & Robotics,LinkedIn,2,Recruiter Screen,31
+2025-Q4,AI & Robotics,LinkedIn,3,Hiring Manager Screen,19
+2025-Q4,AI & Robotics,LinkedIn,4,Onsite,6
+2025-Q4,AI & Robotics,LinkedIn,5,Offer,4
+2025-Q4,AI & Robotics,LinkedIn,6,Hired,0
+2025-Q4,AI & Robotics,Referral,1,Applied,71
+2025-Q4,AI & Robotics,Referral,2,Recruiter Screen,33
+2025-Q4,AI & Robotics,Referral,3,Hiring Manager Screen,14
+2025-Q4,AI & Robotics,Referral,4,Onsite,5
+2025-Q4,AI & Robotics,Referral,5,Offer,0
+2025-Q4,AI & Robotics,Referral,6,Hired,0
+2025-Q4,AI & Robotics,University,1,Applied,67
+2025-Q4,AI & Robotics,University,2,Recruiter Screen,14
+2025-Q4,AI & Robotics,University,3,Hiring Manager Screen,5
+2025-Q4,AI & Robotics,University,4,Onsite,2
+2025-Q4,AI & Robotics,University,5,Offer,0
+2025-Q4,AI & Robotics,University,6,Hired,0
+2025-Q4,AI & Robotics,Unknown,1,Applied,19
+2025-Q4,AI & Robotics,Unknown,2,Recruiter Screen,5
+2025-Q4,AI & Robotics,Unknown,3,Hiring Manager Screen,1
+2025-Q4,AI & Robotics,Unknown,4,Onsite,0
+2025-Q4,AI & Robotics,Unknown,5,Offer,0
+2025-Q4,AI & Robotics,Unknown,6,Hired,0
+2025-Q4,Energy,Agency,1,Applied,21
+2025-Q4,Energy,Agency,2,Recruiter Screen,12
+2025-Q4,Energy,Agency,3,Hiring Manager Screen,8
+2025-Q4,Energy,Agency,4,Onsite,1
+2025-Q4,Energy,Agency,5,Offer,0
+2025-Q4,Energy,Agency,6,Hired,0
+2025-Q4,Energy,Careers Site,1,Applied,110
+2025-Q4,Energy,Careers Site,2,Recruiter Screen,21
+2025-Q4,Energy,Careers Site,3,Hiring Manager Screen,9
+2025-Q4,Energy,Careers Site,4,Onsite,2
+2025-Q4,Energy,Careers Site,5,Offer,0
+2025-Q4,Energy,Careers Site,6,Hired,0
+2025-Q4,Energy,Internal,1,Applied,13
+2025-Q4,Energy,Internal,2,Recruiter Screen,9
+2025-Q4,Energy,Internal,3,Hiring Manager Screen,4
+2025-Q4,Energy,Internal,4,Onsite,2
+2025-Q4,Energy,Internal,5,Offer,0
+2025-Q4,Energy,Internal,6,Hired,0
+2025-Q4,Energy,Job Board,1,Applied,163
+2025-Q4,Energy,Job Board,2,Recruiter Screen,21
+2025-Q4,Energy,Job Board,3,Hiring Manager Screen,5
+2025-Q4,Energy,Job Board,4,Onsite,3
+2025-Q4,Energy,Job Board,5,Offer,1
+2025-Q4,Energy,Job Board,6,Hired,0
+2025-Q4,Energy,LinkedIn,1,Applied,99
+2025-Q4,Energy,LinkedIn,2,Recruiter Screen,18
+2025-Q4,Energy,LinkedIn,3,Hiring Manager Screen,7
+2025-Q4,Energy,LinkedIn,4,Onsite,2
+2025-Q4,Energy,LinkedIn,5,Offer,0
+2025-Q4,Energy,LinkedIn,6,Hired,0
+2025-Q4,Energy,Referral,1,Applied,33
+2025-Q4,Energy,Referral,2,Recruiter Screen,16
+2025-Q4,Energy,Referral,3,Hiring Manager Screen,10
+2025-Q4,Energy,Referral,4,Onsite,2
+2025-Q4,Energy,Referral,5,Offer,2
+2025-Q4,Energy,Referral,6,Hired,2
+2025-Q4,Energy,University,1,Applied,30
+2025-Q4,Energy,University,2,Recruiter Screen,5
+2025-Q4,Energy,University,3,Hiring Manager Screen,1
+2025-Q4,Energy,University,4,Onsite,0
+2025-Q4,Energy,University,5,Offer,0
+2025-Q4,Energy,University,6,Hired,0
+2025-Q4,Energy,Unknown,1,Applied,11
+2025-Q4,Energy,Unknown,2,Recruiter Screen,2
+2025-Q4,Energy,Unknown,3,Hiring Manager Screen,2
+2025-Q4,Energy,Unknown,4,Onsite,1
+2025-Q4,Energy,Unknown,5,Offer,0
+2025-Q4,Energy,Unknown,6,Hired,0
+2025-Q4,Finance,Agency,1,Applied,32
+2025-Q4,Finance,Agency,2,Recruiter Screen,10
+2025-Q4,Finance,Agency,3,Hiring Manager Screen,3
+2025-Q4,Finance,Agency,4,Onsite,1
+2025-Q4,Finance,Agency,5,Offer,0
+2025-Q4,Finance,Agency,6,Hired,0
+2025-Q4,Finance,Careers Site,1,Applied,225
+2025-Q4,Finance,Careers Site,2,Recruiter Screen,38
+2025-Q4,Finance,Careers Site,3,Hiring Manager Screen,17
+2025-Q4,Finance,Careers Site,4,Onsite,4
+2025-Q4,Finance,Careers Site,5,Offer,1
+2025-Q4,Finance,Careers Site,6,Hired,1
+2025-Q4,Finance,Internal,1,Applied,30
+2025-Q4,Finance,Internal,2,Recruiter Screen,17
+2025-Q4,Finance,Internal,3,Hiring Manager Screen,6
+2025-Q4,Finance,Internal,4,Onsite,1
+2025-Q4,Finance,Internal,5,Offer,0
+2025-Q4,Finance,Internal,6,Hired,0
+2025-Q4,Finance,Job Board,1,Applied,276
+2025-Q4,Finance,Job Board,2,Recruiter Screen,38
+2025-Q4,Finance,Job Board,3,Hiring Manager Screen,19
+2025-Q4,Finance,Job Board,4,Onsite,8
+2025-Q4,Finance,Job Board,5,Offer,3
+2025-Q4,Finance,Job Board,6,Hired,2
+2025-Q4,Finance,LinkedIn,1,Applied,134
+2025-Q4,Finance,LinkedIn,2,Recruiter Screen,36
+2025-Q4,Finance,LinkedIn,3,Hiring Manager Screen,16
+2025-Q4,Finance,LinkedIn,4,Onsite,3
+2025-Q4,Finance,LinkedIn,5,Offer,1
+2025-Q4,Finance,LinkedIn,6,Hired,1
+2025-Q4,Finance,Referral,1,Applied,72
+2025-Q4,Finance,Referral,2,Recruiter Screen,30
+2025-Q4,Finance,Referral,3,Hiring Manager Screen,15
+2025-Q4,Finance,Referral,4,Onsite,6
+2025-Q4,Finance,Referral,5,Offer,3
+2025-Q4,Finance,Referral,6,Hired,2
+2025-Q4,Finance,University,1,Applied,43
+2025-Q4,Finance,University,2,Recruiter Screen,10
+2025-Q4,Finance,University,3,Hiring Manager Screen,4
+2025-Q4,Finance,University,4,Onsite,3
+2025-Q4,Finance,University,5,Offer,1
+2025-Q4,Finance,University,6,Hired,1
+2025-Q4,Finance,Unknown,1,Applied,15
+2025-Q4,Finance,Unknown,2,Recruiter Screen,1
+2025-Q4,Finance,Unknown,3,Hiring Manager Screen,1
+2025-Q4,Finance,Unknown,4,Onsite,0
+2025-Q4,Finance,Unknown,5,Offer,0
+2025-Q4,Finance,Unknown,6,Hired,0
+2025-Q4,Manufacturing,Agency,1,Applied,102
+2025-Q4,Manufacturing,Agency,2,Recruiter Screen,32
+2025-Q4,Manufacturing,Agency,3,Hiring Manager Screen,14
+2025-Q4,Manufacturing,Agency,4,Onsite,8
+2025-Q4,Manufacturing,Agency,5,Offer,3
+2025-Q4,Manufacturing,Agency,6,Hired,1
+2025-Q4,Manufacturing,Careers Site,1,Applied,708
+2025-Q4,Manufacturing,Careers Site,2,Recruiter Screen,152
+2025-Q4,Manufacturing,Careers Site,3,Hiring Manager Screen,67
+2025-Q4,Manufacturing,Careers Site,4,Onsite,26
+2025-Q4,Manufacturing,Careers Site,5,Offer,6
+2025-Q4,Manufacturing,Careers Site,6,Hired,5
+2025-Q4,Manufacturing,Internal,1,Applied,62
+2025-Q4,Manufacturing,Internal,2,Recruiter Screen,36
+2025-Q4,Manufacturing,Internal,3,Hiring Manager Screen,24
+2025-Q4,Manufacturing,Internal,4,Onsite,11
+2025-Q4,Manufacturing,Internal,5,Offer,2
+2025-Q4,Manufacturing,Internal,6,Hired,2
+2025-Q4,Manufacturing,Job Board,1,Applied,888
+2025-Q4,Manufacturing,Job Board,2,Recruiter Screen,114
+2025-Q4,Manufacturing,Job Board,3,Hiring Manager Screen,46
+2025-Q4,Manufacturing,Job Board,4,Onsite,17
+2025-Q4,Manufacturing,Job Board,5,Offer,3
+2025-Q4,Manufacturing,Job Board,6,Hired,2
+2025-Q4,Manufacturing,LinkedIn,1,Applied,432
+2025-Q4,Manufacturing,LinkedIn,2,Recruiter Screen,92
+2025-Q4,Manufacturing,LinkedIn,3,Hiring Manager Screen,44
+2025-Q4,Manufacturing,LinkedIn,4,Onsite,18
+2025-Q4,Manufacturing,LinkedIn,5,Offer,8
+2025-Q4,Manufacturing,LinkedIn,6,Hired,6
+2025-Q4,Manufacturing,Referral,1,Applied,196
+2025-Q4,Manufacturing,Referral,2,Recruiter Screen,90
+2025-Q4,Manufacturing,Referral,3,Hiring Manager Screen,47
+2025-Q4,Manufacturing,Referral,4,Onsite,19
+2025-Q4,Manufacturing,Referral,5,Offer,5
+2025-Q4,Manufacturing,Referral,6,Hired,3
+2025-Q4,Manufacturing,University,1,Applied,140
+2025-Q4,Manufacturing,University,2,Recruiter Screen,32
+2025-Q4,Manufacturing,University,3,Hiring Manager Screen,11
+2025-Q4,Manufacturing,University,4,Onsite,5
+2025-Q4,Manufacturing,University,5,Offer,2
+2025-Q4,Manufacturing,University,6,Hired,0
+2025-Q4,Manufacturing,Unknown,1,Applied,45
+2025-Q4,Manufacturing,Unknown,2,Recruiter Screen,7
+2025-Q4,Manufacturing,Unknown,3,Hiring Manager Screen,2
+2025-Q4,Manufacturing,Unknown,4,Onsite,1
+2025-Q4,Manufacturing,Unknown,5,Offer,0
+2025-Q4,Manufacturing,Unknown,6,Hired,0
+2025-Q4,People,Agency,1,Applied,12
+2025-Q4,People,Agency,2,Recruiter Screen,2
+2025-Q4,People,Agency,3,Hiring Manager Screen,2
+2025-Q4,People,Agency,4,Onsite,0
+2025-Q4,People,Agency,5,Offer,0
+2025-Q4,People,Agency,6,Hired,0
+2025-Q4,People,Careers Site,1,Applied,87
+2025-Q4,People,Careers Site,2,Recruiter Screen,17
+2025-Q4,People,Careers Site,3,Hiring Manager Screen,2
+2025-Q4,People,Careers Site,4,Onsite,0
+2025-Q4,People,Careers Site,5,Offer,0
+2025-Q4,People,Careers Site,6,Hired,0
+2025-Q4,People,Internal,1,Applied,6
+2025-Q4,People,Internal,2,Recruiter Screen,2
+2025-Q4,People,Internal,3,Hiring Manager Screen,1
+2025-Q4,People,Internal,4,Onsite,0
+2025-Q4,People,Internal,5,Offer,0
+2025-Q4,People,Internal,6,Hired,0
+2025-Q4,People,Job Board,1,Applied,102
+2025-Q4,People,Job Board,2,Recruiter Screen,9
+2025-Q4,People,Job Board,3,Hiring Manager Screen,6
+2025-Q4,People,Job Board,4,Onsite,1
+2025-Q4,People,Job Board,5,Offer,0
+2025-Q4,People,Job Board,6,Hired,0
+2025-Q4,People,LinkedIn,1,Applied,45
+2025-Q4,People,LinkedIn,2,Recruiter Screen,14
+2025-Q4,People,LinkedIn,3,Hiring Manager Screen,6
+2025-Q4,People,LinkedIn,4,Onsite,0
+2025-Q4,People,LinkedIn,5,Offer,0
+2025-Q4,People,LinkedIn,6,Hired,0
+2025-Q4,People,Referral,1,Applied,19
+2025-Q4,People,Referral,2,Recruiter Screen,8
+2025-Q4,People,Referral,3,Hiring Manager Screen,4
+2025-Q4,People,Referral,4,Onsite,0
+2025-Q4,People,Referral,5,Offer,0
+2025-Q4,People,Referral,6,Hired,0
+2025-Q4,People,University,1,Applied,12
+2025-Q4,People,University,2,Recruiter Screen,1
+2025-Q4,People,University,3,Hiring Manager Screen,0
+2025-Q4,People,University,4,Onsite,0
+2025-Q4,People,University,5,Offer,0
+2025-Q4,People,University,6,Hired,0
+2025-Q4,People,Unknown,1,Applied,9
+2025-Q4,People,Unknown,2,Recruiter Screen,4
+2025-Q4,People,Unknown,3,Hiring Manager Screen,2
+2025-Q4,People,Unknown,4,Onsite,0
+2025-Q4,People,Unknown,5,Offer,0
+2025-Q4,People,Unknown,6,Hired,0
+2025-Q4,Service,Agency,1,Applied,57
+2025-Q4,Service,Agency,2,Recruiter Screen,17
+2025-Q4,Service,Agency,3,Hiring Manager Screen,9
+2025-Q4,Service,Agency,4,Onsite,1
+2025-Q4,Service,Agency,5,Offer,0
+2025-Q4,Service,Agency,6,Hired,0
+2025-Q4,Service,Careers Site,1,Applied,346
+2025-Q4,Service,Careers Site,2,Recruiter Screen,78
+2025-Q4,Service,Careers Site,3,Hiring Manager Screen,34
+2025-Q4,Service,Careers Site,4,Onsite,12
+2025-Q4,Service,Careers Site,5,Offer,4
+2025-Q4,Service,Careers Site,6,Hired,4
+2025-Q4,Service,Internal,1,Applied,39
+2025-Q4,Service,Internal,2,Recruiter Screen,18
+2025-Q4,Service,Internal,3,Hiring Manager Screen,8
+2025-Q4,Service,Internal,4,Onsite,3
+2025-Q4,Service,Internal,5,Offer,1
+2025-Q4,Service,Internal,6,Hired,1
+2025-Q4,Service,Job Board,1,Applied,440
+2025-Q4,Service,Job Board,2,Recruiter Screen,60
+2025-Q4,Service,Job Board,3,Hiring Manager Screen,28
+2025-Q4,Service,Job Board,4,Onsite,9
+2025-Q4,Service,Job Board,5,Offer,3
+2025-Q4,Service,Job Board,6,Hired,2
+2025-Q4,Service,LinkedIn,1,Applied,242
+2025-Q4,Service,LinkedIn,2,Recruiter Screen,64
+2025-Q4,Service,LinkedIn,3,Hiring Manager Screen,31
+2025-Q4,Service,LinkedIn,4,Onsite,6
+2025-Q4,Service,LinkedIn,5,Offer,1
+2025-Q4,Service,LinkedIn,6,Hired,0
+2025-Q4,Service,Referral,1,Applied,116
+2025-Q4,Service,Referral,2,Recruiter Screen,68
+2025-Q4,Service,Referral,3,Hiring Manager Screen,40
+2025-Q4,Service,Referral,4,Onsite,13
+2025-Q4,Service,Referral,5,Offer,3
+2025-Q4,Service,Referral,6,Hired,1
+2025-Q4,Service,University,1,Applied,94
+2025-Q4,Service,University,2,Recruiter Screen,15
+2025-Q4,Service,University,3,Hiring Manager Screen,4
+2025-Q4,Service,University,4,Onsite,0
+2025-Q4,Service,University,5,Offer,0
+2025-Q4,Service,University,6,Hired,0
+2025-Q4,Service,Unknown,1,Applied,19
+2025-Q4,Service,Unknown,2,Recruiter Screen,2
+2025-Q4,Service,Unknown,3,Hiring Manager Screen,1
+2025-Q4,Service,Unknown,4,Onsite,0
+2025-Q4,Service,Unknown,5,Offer,0
+2025-Q4,Service,Unknown,6,Hired,0
+2025-Q4,Supply Chain,Agency,1,Applied,13
+2025-Q4,Supply Chain,Agency,2,Recruiter Screen,5
+2025-Q4,Supply Chain,Agency,3,Hiring Manager Screen,3
+2025-Q4,Supply Chain,Agency,4,Onsite,1
+2025-Q4,Supply Chain,Agency,5,Offer,0
+2025-Q4,Supply Chain,Agency,6,Hired,0
+2025-Q4,Supply Chain,Careers Site,1,Applied,95
+2025-Q4,Supply Chain,Careers Site,2,Recruiter Screen,25
+2025-Q4,Supply Chain,Careers Site,3,Hiring Manager Screen,10
+2025-Q4,Supply Chain,Careers Site,4,Onsite,3
+2025-Q4,Supply Chain,Careers Site,5,Offer,0
+2025-Q4,Supply Chain,Careers Site,6,Hired,0
+2025-Q4,Supply Chain,Internal,1,Applied,6
+2025-Q4,Supply Chain,Internal,2,Recruiter Screen,2
+2025-Q4,Supply Chain,Internal,3,Hiring Manager Screen,2
+2025-Q4,Supply Chain,Internal,4,Onsite,2
+2025-Q4,Supply Chain,Internal,5,Offer,0
+2025-Q4,Supply Chain,Internal,6,Hired,0
+2025-Q4,Supply Chain,Job Board,1,Applied,109
+2025-Q4,Supply Chain,Job Board,2,Recruiter Screen,9
+2025-Q4,Supply Chain,Job Board,3,Hiring Manager Screen,7
+2025-Q4,Supply Chain,Job Board,4,Onsite,1
+2025-Q4,Supply Chain,Job Board,5,Offer,0
+2025-Q4,Supply Chain,Job Board,6,Hired,0
+2025-Q4,Supply Chain,LinkedIn,1,Applied,50
+2025-Q4,Supply Chain,LinkedIn,2,Recruiter Screen,11
+2025-Q4,Supply Chain,LinkedIn,3,Hiring Manager Screen,8
+2025-Q4,Supply Chain,LinkedIn,4,Onsite,2
+2025-Q4,Supply Chain,LinkedIn,5,Offer,0
+2025-Q4,Supply Chain,LinkedIn,6,Hired,0
+2025-Q4,Supply Chain,Referral,1,Applied,23
+2025-Q4,Supply Chain,Referral,2,Recruiter Screen,10
+2025-Q4,Supply Chain,Referral,3,Hiring Manager Screen,6
+2025-Q4,Supply Chain,Referral,4,Onsite,3
+2025-Q4,Supply Chain,Referral,5,Offer,0
+2025-Q4,Supply Chain,Referral,6,Hired,0
+2025-Q4,Supply Chain,University,1,Applied,19
+2025-Q4,Supply Chain,University,2,Recruiter Screen,6
+2025-Q4,Supply Chain,University,3,Hiring Manager Screen,3
+2025-Q4,Supply Chain,University,4,Onsite,1
+2025-Q4,Supply Chain,University,5,Offer,0
+2025-Q4,Supply Chain,University,6,Hired,0
+2025-Q4,Supply Chain,Unknown,1,Applied,7
+2025-Q4,Supply Chain,Unknown,2,Recruiter Screen,3
+2025-Q4,Supply Chain,Unknown,3,Hiring Manager Screen,1
+2025-Q4,Supply Chain,Unknown,4,Onsite,0
+2025-Q4,Supply Chain,Unknown,5,Offer,0
+2025-Q4,Supply Chain,Unknown,6,Hired,0
+2025-Q4,Vehicle Software,Agency,1,Applied,25
+2025-Q4,Vehicle Software,Agency,2,Recruiter Screen,10
+2025-Q4,Vehicle Software,Agency,3,Hiring Manager Screen,5
+2025-Q4,Vehicle Software,Agency,4,Onsite,3
+2025-Q4,Vehicle Software,Agency,5,Offer,1
+2025-Q4,Vehicle Software,Agency,6,Hired,0
+2025-Q4,Vehicle Software,Careers Site,1,Applied,171
+2025-Q4,Vehicle Software,Careers Site,2,Recruiter Screen,33
+2025-Q4,Vehicle Software,Careers Site,3,Hiring Manager Screen,13
+2025-Q4,Vehicle Software,Careers Site,4,Onsite,5
+2025-Q4,Vehicle Software,Careers Site,5,Offer,0
+2025-Q4,Vehicle Software,Careers Site,6,Hired,0
+2025-Q4,Vehicle Software,Internal,1,Applied,22
+2025-Q4,Vehicle Software,Internal,2,Recruiter Screen,12
+2025-Q4,Vehicle Software,Internal,3,Hiring Manager Screen,2
+2025-Q4,Vehicle Software,Internal,4,Onsite,0
+2025-Q4,Vehicle Software,Internal,5,Offer,0
+2025-Q4,Vehicle Software,Internal,6,Hired,0
+2025-Q4,Vehicle Software,Job Board,1,Applied,236
+2025-Q4,Vehicle Software,Job Board,2,Recruiter Screen,20
+2025-Q4,Vehicle Software,Job Board,3,Hiring Manager Screen,10
+2025-Q4,Vehicle Software,Job Board,4,Onsite,4
+2025-Q4,Vehicle Software,Job Board,5,Offer,1
+2025-Q4,Vehicle Software,Job Board,6,Hired,0
+2025-Q4,Vehicle Software,LinkedIn,1,Applied,136
+2025-Q4,Vehicle Software,LinkedIn,2,Recruiter Screen,29
+2025-Q4,Vehicle Software,LinkedIn,3,Hiring Manager Screen,16
+2025-Q4,Vehicle Software,LinkedIn,4,Onsite,2
+2025-Q4,Vehicle Software,LinkedIn,5,Offer,1
+2025-Q4,Vehicle Software,LinkedIn,6,Hired,1
+2025-Q4,Vehicle Software,Referral,1,Applied,60
+2025-Q4,Vehicle Software,Referral,2,Recruiter Screen,31
+2025-Q4,Vehicle Software,Referral,3,Hiring Manager Screen,8
+2025-Q4,Vehicle Software,Referral,4,Onsite,2
+2025-Q4,Vehicle Software,Referral,5,Offer,0
+2025-Q4,Vehicle Software,Referral,6,Hired,0
+2025-Q4,Vehicle Software,University,1,Applied,43
+2025-Q4,Vehicle Software,University,2,Recruiter Screen,12
+2025-Q4,Vehicle Software,University,3,Hiring Manager Screen,5
+2025-Q4,Vehicle Software,University,4,Onsite,0
+2025-Q4,Vehicle Software,University,5,Offer,0
+2025-Q4,Vehicle Software,University,6,Hired,0
+2025-Q4,Vehicle Software,Unknown,1,Applied,17
+2025-Q4,Vehicle Software,Unknown,2,Recruiter Screen,5
+2025-Q4,Vehicle Software,Unknown,3,Hiring Manager Screen,4
+2025-Q4,Vehicle Software,Unknown,4,Onsite,3
+2025-Q4,Vehicle Software,Unknown,5,Offer,0
+2025-Q4,Vehicle Software,Unknown,6,Hired,0
